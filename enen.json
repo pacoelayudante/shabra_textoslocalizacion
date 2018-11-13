@@ -1,0 +1,299 @@
+{
+    "id": "English",
+    "rightToLeft": false,
+    "tipografia": "",
+    "textosEditables": [
+        {
+            "key": "portada/multiplayer",
+            "valor": "Multiplayer"
+        },
+        {
+            "key": "portada/solo",
+            "valor": "Solo"
+        },
+        {
+            "key": "portada/options",
+            "valor": "Options"
+        },
+        {
+            "key": "portada/credits",
+            "valor": "Credits"
+        },
+        {
+            "key": "portada/exit",
+            "valor": "Quit"
+        },
+        {
+            "key": "generales/confirm",
+            "valor": "Ok"
+        },
+        {
+            "key": "generales/select",
+            "valor": "Select"
+        },
+        {
+            "key": "generales/back",
+            "valor": "Back"
+        },
+        {
+            "key": "multiplayer/metegol",
+            "valor": "Fulbito"
+        },
+        {
+            "key": "multiplayer/cazare",
+            "valor": "Death Match"
+        },
+        {
+            "key": "multiplayer/cuchillas",
+            "valor": "Vendetta Saws"
+        },
+        {
+            "key": "multiplayer/ladron",
+            "valor": "The Heist"
+        },
+        {
+            "key": "multiplayer/lamancha",
+            "valor": "La Mancha"
+        },
+        {
+            "key": "multiplayer/matamata",
+            "valor": "Mata-Mata"
+        },
+        {
+            "key": "multiplayer/portaluz",
+            "valor": "King Of The Hill"
+        },
+        {
+            "key": "multiplayer/metegol_descrip",
+            "valor": "Grab the ball and drop it in the opposing team’s flag"
+        },
+        {
+            "key": "multiplayer/deathmatch_descrip",
+            "valor": "Hunt your opponents to win points"
+        },
+        {
+            "key": "multiplayer/cuchillas_descrip",
+            "valor": "If another player kills you, you respawn\r\nIf a saw kills you, you’re done\r"
+        },
+        {
+            "key": "multiplayer/ladron_descrip",
+            "valor": "As thief, snatch the 3 crystals\r\nAs hunter, eliminate the thief\r"
+        },
+        {
+            "key": "multiplayer/lamancha_descrip",
+            "valor": "Get La Mancha off before running out of time\r\nIf you are not La Mancha, get crystals for points\r"
+        },
+        {
+            "key": "multiplayer/matamata_descrip",
+            "valor": "To win you have to beat everyone else personally"
+        },
+        {
+            "key": "multiplayer/portaluz_descrip",
+            "valor": "Capture the light and let no one catch you"
+        },
+        {
+            "key": "generales/join",
+            "valor": "Join"
+        },
+        {
+            "key": "generales/color",
+            "valor": "Color"
+        },
+        {
+            "key": "personajes/shadowsis",
+            "valor": "Shadow Sis"
+        },
+        {
+            "key": "personajes/demonhead",
+            "valor": "Demon Head"
+        },
+        {
+            "key": "personajes/chaman",
+            "valor": "Chaman"
+        },
+        {
+            "key": "personajes/bruja",
+            "valor": "Bruja"
+        },
+        {
+            "key": "personajes/leninie",
+            "valor": "Le Ninie"
+        },
+        {
+            "key": "personajes/shinobi",
+            "valor": "Shinobi"
+        },
+        {
+            "key": "personajes/cholita",
+            "valor": "Cholita"
+        },
+        {
+            "key": "personajes/noir",
+            "valor": "R. Conway"
+        },
+        {
+            "key": "personajes/samurai",
+            "valor": "Samurai"
+        },
+        {
+            "key": "personajes/ayu",
+            "valor": "Ayu"
+        },
+        {
+            "key": "personajes/steamgirl",
+            "valor": "Steam G"
+        },
+        {
+            "key": "personajes/steamboy",
+            "valor": "Steam B"
+        },
+        {
+            "key": "personajes/rey",
+            "valor": "Roque"
+        },
+        {
+            "key": "personajes/patata",
+            "valor": "Patata"
+        },
+        {
+            "key": "mundos/urbano",
+            "valor": "Urban"
+        },
+        {
+            "key": "mundos/dungeon",
+            "valor": "Dungeon"
+        },
+        {
+            "key": "mundos/cyberpunk",
+            "valor": "Cyberpunk"
+        },
+        {
+            "key": "mundos/steampunk",
+            "valor": "Steampunk"
+        },
+        {
+            "key": "mundos/naturaleza",
+            "valor": "Nature"
+        },
+        {
+            "key": "mundos/ruinas",
+            "valor": "Ruins"
+        },
+        {
+            "key": "generales/start",
+            "valor": "Start"
+        },
+        {
+            "key": "generales/resume",
+            "valor": "Resume"
+        },
+        {
+            "key": "opciones/audio",
+            "valor": "Audio"
+        },
+        {
+            "key": "opciones/graficos",
+            "valor": "Graphics"
+        },
+        {
+            "key": "opciones/paletas",
+            "valor": "Palettes"
+        },
+        {
+            "key": "opciones/controles",
+            "valor": "Controls"
+        },
+        {
+            "key": "opciones/idioma",
+            "valor": "Language"
+        },
+        {
+            "key": "audio/musica",
+            "valor": "Music"
+        },
+        {
+            "key": "audio/ambient",
+            "valor": "Ambient"
+        },
+        {
+            "key": "audio/sfx",
+            "valor": "Sound Effects"
+        },
+        {
+            "key": "graficos/paletacicla",
+            "valor": "Auto Cycling Pallettes"
+        },
+        {
+            "key": "graficos/fullscreen",
+            "valor": "Fullscreen"
+        },
+        {
+            "key": "graficos/calidad",
+            "valor": "Quality"
+        },
+        {
+            "key": "graficos/gama",
+            "valor": "Gamma"
+        },
+        {
+            "key": "graficos/resolucion",
+            "valor": "Resolution"
+        },
+        {
+            "key": "controles/teclado",
+            "valor": "Keyboard"
+        },
+        {
+            "key": "controles/pad",
+            "valor": "Gamepad"
+        },
+        {
+            "key": "controles/saltar",
+            "valor": "Jump"
+        },
+        {
+            "key": "controles/atacar",
+            "valor": "Attack"
+        },
+        {
+            "key": "controles/escudar",
+            "valor": "Parry"
+        },
+        {
+            "key": "controles/dash",
+            "valor": "Dash"
+        },
+        {
+            "key": "controles/camuflar",
+            "valor": "Colorshift"
+        },
+        {
+            "key": "controles/bailar",
+            "valor": "Dance"
+        },
+        {
+            "key": "controles/reset",
+            "valor": "Reset"
+        },
+        {
+            "key": "generales/team",
+            "valor": "Team"
+        },
+        {
+            "key": "mensajes/equiposinvalidados",
+            "valor": "Invalid team configuration for this game mode"
+        },
+        {
+            "key": "generales/pausa",
+            "valor": "Pause"
+        },
+        {
+            "key": "generales/menu",
+            "valor": "Menu"
+        },
+        {
+            "key": "generales/restart",
+            "valor": "Restart"
+        }
+    ]
+}
