@@ -1,0 +1,299 @@
+{
+    "id": "Español",
+    "rightToLeft": false,
+    "tipografia": "",
+    "textosEditables": [
+        {
+            "key": "portada/multiplayer",
+            "valor": "Multijugador"
+        },
+        {
+            "key": "portada/solo",
+            "valor": "Solo"
+        },
+        {
+            "key": "portada/options",
+            "valor": "Opciones"
+        },
+        {
+            "key": "portada/credits",
+            "valor": "Creditos"
+        },
+        {
+            "key": "portada/exit",
+            "valor": "Salir"
+        },
+        {
+            "key": "generales/confirm",
+            "valor": "Aceptar"
+        },
+        {
+            "key": "generales/select",
+            "valor": "Seleccionar"
+        },
+        {
+            "key": "generales/back",
+            "valor": "Volver"
+        },
+        {
+            "key": "multiplayer/metegol",
+            "valor": "Metegol"
+        },
+        {
+            "key": "multiplayer/cazare",
+            "valor": "Combate"
+        },
+        {
+            "key": "multiplayer/cuchillas",
+            "valor": "Sierras"
+        },
+        {
+            "key": "multiplayer/ladron",
+            "valor": "El Atraco"
+        },
+        {
+            "key": "multiplayer/lamancha",
+            "valor": "La Mancha"
+        },
+        {
+            "key": "multiplayer/matamata",
+            "valor": "Mata-mata"
+        },
+        {
+            "key": "multiplayer/portaluz",
+            "valor": "Porta luz"
+        },
+        {
+            "key": "multiplayer/metegol_descrip",
+            "valor": "Toma la pelota y llévala hasta al arco contrario"
+        },
+        {
+            "key": "multiplayer/deathmatch_descrip",
+            "valor": "Elimina a tus oponentes para ganar puntos"
+        },
+        {
+            "key": "multiplayer/cuchillas_descrip",
+            "valor": "Si te mata otro jugador, reapareces. Si te alcanza una cuchilla, quedas eliminado."
+        },
+        {
+            "key": "multiplayer/ladron_descrip",
+            "valor": "Como ladrón, atrapa los 3 cristales. Como guardia, elimina al ladrón"
+        },
+        {
+            "key": "multiplayer/lamancha_descrip",
+            "valor": "Si eres La Mancha, atrapa a alguien más antes de que se acabe tu tiempo. Si no lo eres, toma los cristales para ganar puntos"
+        },
+        {
+            "key": "multiplayer/matamata_descrip",
+            "valor": "Elimina a todos los jugadores personalmente. Si alguien te atrapa antes, tus víctimas reaparecerán "
+        },
+        {
+            "key": "multiplayer/portaluz_descrip",
+            "valor": "Captura la bandera y no dejes que nadie te atrape"
+        },
+        {
+            "key": "generales/join",
+            "valor": "Unirse"
+        },
+        {
+            "key": "generales/color",
+            "valor": "Color"
+        },
+        {
+            "key": "personajes/shadowsis",
+            "valor": "Shadow Sis"
+        },
+        {
+            "key": "personajes/demonhead",
+            "valor": "Demon Head"
+        },
+        {
+            "key": "personajes/chaman",
+            "valor": "Chaman"
+        },
+        {
+            "key": "personajes/bruja",
+            "valor": "Bruja"
+        },
+        {
+            "key": "personajes/leninie",
+            "valor": "Le Niñe"
+        },
+        {
+            "key": "personajes/shinobi",
+            "valor": "Shinobi"
+        },
+        {
+            "key": "personajes/cholita",
+            "valor": "Cholita"
+        },
+        {
+            "key": "personajes/noir",
+            "valor": "R. Conway"
+        },
+        {
+            "key": "personajes/samurai",
+            "valor": "Samurai"
+        },
+        {
+            "key": "personajes/ayu",
+            "valor": "Ayu"
+        },
+        {
+            "key": "personajes/steamgirl",
+            "valor": "Steam G"
+        },
+        {
+            "key": "personajes/steamboy",
+            "valor": "Steam B"
+        },
+        {
+            "key": "personajes/rey",
+            "valor": "Roque"
+        },
+        {
+            "key": "personajes/patata",
+            "valor": "Patata"
+        },
+        {
+            "key": "mundos/urbano",
+            "valor": "Ciudad"
+        },
+        {
+            "key": "mundos/dungeon",
+            "valor": "Calabozo"
+        },
+        {
+            "key": "mundos/cyberpunk",
+            "valor": "Ciberpunk"
+        },
+        {
+            "key": "mundos/steampunk",
+            "valor": "Industrial"
+        },
+        {
+            "key": "mundos/naturaleza",
+            "valor": "Naturaleza"
+        },
+        {
+            "key": "mundos/ruinas",
+            "valor": "Ruinas"
+        },
+        {
+            "key": "generales/start",
+            "valor": "Comenzar"
+        },
+        {
+            "key": "generales/resume",
+            "valor": "Continuar"
+        },
+        {
+            "key": "opciones/audio",
+            "valor": "Audio"
+        },
+        {
+            "key": "opciones/graficos",
+            "valor": "Graficos"
+        },
+        {
+            "key": "opciones/paletas",
+            "valor": "Paletas"
+        },
+        {
+            "key": "opciones/controles",
+            "valor": "Controles"
+        },
+        {
+            "key": "opciones/idioma",
+            "valor": "Idioma"
+        },
+        {
+            "key": "audio/musica",
+            "valor": "Música"
+        },
+        {
+            "key": "audio/ambient",
+            "valor": "Ambiente"
+        },
+        {
+            "key": "audio/sfx",
+            "valor": "Efectos de sonido"
+        },
+        {
+            "key": "graficos/paletacicla",
+            "valor": "Paleta automática"
+        },
+        {
+            "key": "graficos/fullscreen",
+            "valor": "Pantalla completa"
+        },
+        {
+            "key": "graficos/calidad",
+            "valor": "Calidad"
+        },
+        {
+            "key": "graficos/gama",
+            "valor": "Brillo"
+        },
+        {
+            "key": "graficos/resolucion",
+            "valor": "Resolución"
+        },
+        {
+            "key": "controles/teclado",
+            "valor": "Teclado"
+        },
+        {
+            "key": "controles/pad",
+            "valor": "Controlador"
+        },
+        {
+            "key": "controles/saltar",
+            "valor": "Salto"
+        },
+        {
+            "key": "controles/atacar",
+            "valor": "Ataque"
+        },
+        {
+            "key": "controles/escudar",
+            "valor": "Escudo"
+        },
+        {
+            "key": "controles/dash",
+            "valor": "Turbo"
+        },
+        {
+            "key": "controles/camuflar",
+            "valor": "Camuflaje"
+        },
+        {
+            "key": "controles/bailar",
+            "valor": "Baile"
+        },
+        {
+            "key": "controles/reset",
+            "valor": "Restablecer"
+        },
+        {
+            "key": "generales/team",
+            "valor": "Equipo"
+        },
+        {
+            "key": "mensajes/equiposinvalidados",
+            "valor": "Configuracion de equipos inválida"
+        },
+        {
+            "key": "generales/pausa",
+            "valor": "Pausa"
+        },
+        {
+            "key": "generales/menu",
+            "valor": "Menú"
+        },
+        {
+            "key": "generales/restart",
+            "valor": "Reiniciar"
+        }
+    ]
+}
