@@ -282,6 +282,18 @@
         {
             "key": "mensajes/equiposinvalidados",
             "valor": "Invalid configuracion de los teams"
+        },
+        {
+            "key": "generales/pausa",
+            "valor": "Pause"
+        },
+        {
+            "key": "generales/menu",
+            "valor": "Menu"
+        },
+        {
+            "key": "generales/restart",
+            "valor": "Restartear"
         }
     ]
 }
