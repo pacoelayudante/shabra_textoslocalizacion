@@ -294,6 +294,10 @@
         {
             "key": "generales/restart",
             "valor": "Restartear"
+        },
+        {
+            "key": "generales/continuar",
+            "valor": "Continuar"
         }
     ]
 }
