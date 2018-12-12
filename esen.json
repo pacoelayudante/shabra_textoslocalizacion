@@ -298,6 +298,22 @@
         {
             "key": "generales/continuar",
             "valor": "Continuar"
+        },
+        {
+            "key": "controles/alternativo",
+            "valor": " (Alt)"
+        },
+        {
+            "key": "controles/pausa",
+            "valor": "Pausear"
+        },
+        {
+            "key": "controles/aceptar",
+            "valor": "Acceptar"
+        },
+        {
+            "key": "controles/volver",
+            "valor": "Cancelear"
         }
     ]
 }
