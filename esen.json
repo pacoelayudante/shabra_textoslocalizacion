@@ -317,7 +317,15 @@
         },
         {
             "key": "controles/configuracion",
-            "valor": "indefinido"
+            "valor": "Config"
+        },
+        {
+            "key": "inputdevice/teclado",
+            "valor": "Teclado"
+        },
+        {
+            "key": "inputdevice/xinput",
+            "valor": "Xbox Controller"
         }
     ]
 }
