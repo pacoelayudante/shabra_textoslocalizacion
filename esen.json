@@ -314,6 +314,10 @@
         {
             "key": "controles/volver",
             "valor": "Cancelear"
+        },
+        {
+            "key": "controles/configuracion",
+            "valor": "indefinido"
         }
     ]
 }
