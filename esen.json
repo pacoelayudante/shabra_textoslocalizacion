@@ -273,7 +273,7 @@
         },
         {
             "key": "controles/reset",
-            "valor": "Resetear"
+            "valor": "Factory Reset"
         },
         {
             "key": "generales/team",
@@ -326,6 +326,34 @@
         {
             "key": "inputdevice/xinput",
             "valor": "Xbox Controller"
+        },
+        {
+            "key": "controles/copiarjoystick1",
+            "valor": "Copiar Pad One"
+        },
+        {
+            "key": "controles/arriba",
+            "valor": "Arriba"
+        },
+        {
+            "key": "controles/derecha",
+            "valor": "Right"
+        },
+        {
+            "key": "controles/abajo",
+            "valor": "Abajo"
+        },
+        {
+            "key": "controles/izquierda",
+            "valor": "Left"
+        },
+        {
+            "key": "mundos/tutorial",
+            "valor": "Tutorial"
+        },
+        {
+            "key": "controles/recargar",
+            "valor": "Deshacer"
         }
     ]
 }
