@@ -298,6 +298,62 @@
         {
             "key": "generales/continuar",
             "valor": "Continue"
+        },
+        {
+            "key": "controles/alternativo",
+            "valor": " (Alt)"
+        },
+        {
+            "key": "controles/pausa",
+            "valor": "Pause"
+        },
+        {
+            "key": "controles/aceptar",
+            "valor": "Accept"
+        },
+        {
+            "key": "controles/volver",
+            "valor": "Cancel"
+        },
+        {
+            "key": "controles/configuracion",
+            "valor": "Configuration"
+        },
+        {
+            "key": "inputdevice/teclado",
+            "valor": "Keyboard"
+        },
+        {
+            "key": "inputdevice/xinput",
+            "valor": "Xbox Controller"
+        },
+        {
+            "key": "controles/copiarjoystick1",
+            "valor": "Copy Pad One"
+        },
+        {
+            "key": "controles/arriba",
+            "valor": "Up"
+        },
+        {
+            "key": "controles/derecha",
+            "valor": "Right"
+        },
+        {
+            "key": "controles/abajo",
+            "valor": "Down"
+        },
+        {
+            "key": "controles/izquierda",
+            "valor": "Left"
+        },
+        {
+            "key": "mundos/tutorial",
+            "valor": "Tutorial"
+        },
+        {
+            "key": "controles/recargar",
+            "valor": "Undo"
         }
     ]
 }

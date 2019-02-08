@@ -294,6 +294,66 @@
         {
             "key": "generales/restart",
             "valor": "Reiniciar"
+        },
+        {
+            "key": "generales/continuar",
+            "valor": "Continuar"
+        },
+        {
+            "key": "controles/alternativo",
+            "valor": " (Alt)"
+        },
+        {
+            "key": "controles/pausa",
+            "valor": "Pausa"
+        },
+        {
+            "key": "controles/aceptar",
+            "valor": "Aceptar"
+        },
+        {
+            "key": "controles/volver",
+            "valor": "Cancelar"
+        },
+        {
+            "key": "controles/configuracion",
+            "valor": "Configuracion"
+        },
+        {
+            "key": "inputdevice/teclado",
+            "valor": "Teclado"
+        },
+        {
+            "key": "inputdevice/xinput",
+            "valor": "Control Xbox"
+        },
+        {
+            "key": "controles/copiarjoystick1",
+            "valor": "Copiar Controles Control 1"
+        },
+        {
+            "key": "controles/arriba",
+            "valor": "Arriba"
+        },
+        {
+            "key": "controles/derecha",
+            "valor": "Derecha"
+        },
+        {
+            "key": "controles/abajo",
+            "valor": "Abajo"
+        },
+        {
+            "key": "controles/izquierda",
+            "valor": "Izquierda"
+        },
+        {
+            "key": "mundos/tutorial",
+            "valor": "Tutorial"
+        },
+        {
+            "key": "controles/recargar",
+            "valor": "Deshacer"
         }
     ]
 }
