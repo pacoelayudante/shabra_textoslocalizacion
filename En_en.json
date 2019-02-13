@@ -358,6 +358,10 @@
         {
             "key": "generales/cargando",
             "valor": "Loading..."
+        },
+        {
+            "key": "graficos/vsync",
+            "valor": "V Sync"
         }
     ]
 }
