@@ -354,6 +354,10 @@
         {
             "key": "controles/recargar",
             "valor": "Deshacer"
+        },
+        {
+            "key": "generales/cargando",
+            "valor": "Loading..."
         }
     ]
 }

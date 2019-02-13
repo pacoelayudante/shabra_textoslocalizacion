@@ -354,6 +354,10 @@
         {
             "key": "controles/recargar",
             "valor": "Undo"
+        },
+        {
+            "key": "generales/cargando",
+            "valor": "Loading..."
         }
     ]
 }
