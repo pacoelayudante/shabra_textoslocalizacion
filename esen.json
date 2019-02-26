@@ -362,6 +362,78 @@
         {
             "key": "graficos/vsync",
             "valor": "V Sync"
+        },
+        {
+            "key": "arma/katana",
+            "valor": "Katana"
+        },
+        {
+            "key": "arma/katana_tip",
+            "valor": "katana tip"
+        },
+        {
+            "key": "arma/shuriken",
+            "valor": "Shurikens"
+        },
+        {
+            "key": "arma/shuriken_tip",
+            "valor": "shurikens tip"
+        },
+        {
+            "key": "arma/arco",
+            "valor": "Arco"
+        },
+        {
+            "key": "arma/arco_tip",
+            "valor": "arco tip"
+        },
+        {
+            "key": "arma/kami",
+            "valor": "K4M1"
+        },
+        {
+            "key": "arma/kami_tip",
+            "valor": "k4m1 tip"
+        },
+        {
+            "key": "arma/latigo",
+            "valor": "Latigo"
+        },
+        {
+            "key": "arma/latigo_tip",
+            "valor": "latigo tip"
+        },
+        {
+            "key": "arma/mazo",
+            "valor": "Mazo Steam"
+        },
+        {
+            "key": "arma/mazo_tip",
+            "valor": "mazo tips"
+        },
+        {
+            "key": "arma/kunai",
+            "valor": "Kunais"
+        },
+        {
+            "key": "arma/kunai_tip",
+            "valor": "kunais tips"
+        },
+        {
+            "key": "unlocked/world",
+            "valor": "World Unlocked"
+        },
+        {
+            "key": "unlocked/character",
+            "valor": "Character Unlocked"
+        },
+        {
+            "key": "unlocked/weapon",
+            "valor": "Weapone Unlocked"
+        },
+        {
+            "key": "unlocked/powerup",
+            "valor": "Power Up Unlocked"
         }
     ]
 }
