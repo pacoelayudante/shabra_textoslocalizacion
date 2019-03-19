@@ -9,7 +9,7 @@
         },
         {
             "key": "portada/solo",
-            "valor": "Trainin"
+            "valor": "Training"
         },
         {
             "key": "portada/options",
@@ -29,7 +29,7 @@
         },
         {
             "key": "generales/select",
-            "valor": "Selectionar"
+            "valor": "Select"
         },
         {
             "key": "generales/back",
@@ -61,11 +61,11 @@
         },
         {
             "key": "multiplayer/portaluz",
-            "valor": "King Of The Hill"
+            "valor": "King Of The Light"
         },
         {
             "key": "multiplayer/metegol_descrip",
-            "valor": "Grab the ball and drop it in the opposing team’s flag"
+            "valor": "Toma la pelota y llévala hasta el arco del otro Team"
         },
         {
             "key": "multiplayer/deathmatch_descrip",
@@ -77,7 +77,7 @@
         },
         {
             "key": "multiplayer/ladron_descrip",
-            "valor": "As thief, snatch the 3 crystals\r\nAs hunter, eliminate the thief\r"
+            "valor": "Como ladrón, libera las 3 jaulas. Como guardia, elimina al ladrón\n"
         },
         {
             "key": "multiplayer/lamancha_descrip",
@@ -181,11 +181,11 @@
         },
         {
             "key": "generales/start",
-            "valor": "Startear"
+            "valor": "Start"
         },
         {
             "key": "generales/resume",
-            "valor": "Resumir"
+            "valor": "Resume"
         },
         {
             "key": "opciones/audio",
@@ -193,7 +193,7 @@
         },
         {
             "key": "opciones/graficos",
-            "valor": "Graphicos"
+            "valor": "Gráficos"
         },
         {
             "key": "opciones/paletas",
@@ -281,7 +281,7 @@
         },
         {
             "key": "mensajes/equiposinvalidados",
-            "valor": "Invalid configuracion de los teams"
+            "valor": "Invalid configuration de los teams"
         },
         {
             "key": "generales/pausa",
@@ -305,15 +305,15 @@
         },
         {
             "key": "controles/pausa",
-            "valor": "Pausear"
+            "valor": "Pausa"
         },
         {
             "key": "controles/aceptar",
-            "valor": "Acceptar"
+            "valor": "Aceptar"
         },
         {
             "key": "controles/volver",
-            "valor": "Cancelear"
+            "valor": "Cancel"
         },
         {
             "key": "controles/configuracion",
@@ -337,7 +337,7 @@
         },
         {
             "key": "controles/derecha",
-            "valor": "Right"
+            "valor": "Derecha"
         },
         {
             "key": "controles/abajo",
@@ -345,7 +345,7 @@
         },
         {
             "key": "controles/izquierda",
-            "valor": "Left"
+            "valor": "Izquierda"
         },
         {
             "key": "mundos/tutorial",
@@ -369,15 +369,15 @@
         },
         {
             "key": "arma/katana_tip",
-            "valor": "katana tip"
+            "valor": "aca va el tip en si mismo"
         },
         {
             "key": "arma/shuriken",
-            "valor": "Shurikens"
+            "valor": "Shuriken"
         },
         {
             "key": "arma/shuriken_tip",
-            "valor": "shurikens tip"
+            "valor": "onda \"tira shurikens asi o asa!\""
         },
         {
             "key": "arma/arco",
@@ -385,7 +385,7 @@
         },
         {
             "key": "arma/arco_tip",
-            "valor": "arco tip"
+            "valor": "hay un docs donde estan las propuestas"
         },
         {
             "key": "arma/kami",
@@ -393,7 +393,7 @@
         },
         {
             "key": "arma/kami_tip",
-            "valor": "k4m1 tip"
+            "valor": "K4m1 Tip"
         },
         {
             "key": "arma/latigo",
@@ -409,7 +409,7 @@
         },
         {
             "key": "arma/mazo_tip",
-            "valor": "mazo tips"
+            "valor": "Mazo tips"
         },
         {
             "key": "arma/kunai",
@@ -417,23 +417,131 @@
         },
         {
             "key": "arma/kunai_tip",
-            "valor": "kunais tips"
+            "valor": "Kunai Tips"
         },
         {
             "key": "unlocked/world",
-            "valor": "World Unlocked"
+            "valor": "Mundo Desbloqueado"
         },
         {
             "key": "unlocked/character",
-            "valor": "Character Unlocked"
+            "valor": "Skin Desbloqueado"
         },
         {
             "key": "unlocked/weapon",
-            "valor": "Weapone Unlocked"
+            "valor": "Arma Desbloqueada"
         },
         {
             "key": "unlocked/powerup",
-            "valor": "Power Up Unlocked"
+            "valor": "Power Up Desbloqueado"
+        },
+        {
+            "key": "graficos/postprocessing",
+            "valor": "Post Processing"
+        },
+        {
+            "key": "graficos/texturas",
+            "valor": "Trexturas"
+        },
+        {
+            "key": "graficos/antialiasign",
+            "valor": "Antialiasing"
+        },
+        {
+            "key": "graficos/particulas",
+            "valor": "Particles"
+        },
+        {
+            "key": "particulas/level0",
+            "valor": "Level 0"
+        },
+        {
+            "key": "particulas/level1",
+            "valor": "Level 1"
+        },
+        {
+            "key": "particulas/level2",
+            "valor": "Level 2"
+        },
+        {
+            "key": "particulas/level3",
+            "valor": "Level 3"
+        },
+        {
+            "key": "config/mundos",
+            "valor": "Worlds"
+        },
+        {
+            "key": "config/lobbyactivo",
+            "valor": "Lobby Activo"
+        },
+        {
+            "key": "config/replay",
+            "valor": "Replay"
+        },
+        {
+            "key": "config/configuracion",
+            "valor": "Configuración"
+        },
+        {
+            "key": "config/puntajeparaganar",
+            "valor": "Points to win"
+        },
+        {
+            "key": "config/cantarmas",
+            "valor": "Cantidad de Armas"
+        },
+        {
+            "key": "config/cantpowerupmin",
+            "valor": "Cantidad de Power Ups"
+        },
+        {
+            "key": "config/luceson",
+            "valor": "Luces On"
+        },
+        {
+            "key": "config/haymuertesubita",
+            "valor": "Sudden Death"
+        },
+        {
+            "key": "config/siemprevisibles",
+            "valor": "Always Visible"
+        },
+        {
+            "key": "config/contrampas",
+            "valor": "Traps"
+        },
+        {
+            "key": "config/tiempoparaganar",
+            "valor": "Time to Win"
+        },
+        {
+            "key": "config/resettimer",
+            "valor": "Resetear Timer "
+        },
+        {
+            "key": "config/friendlyfire",
+            "valor": "Friendly Fire"
+        },
+        {
+            "key": "config/cantidadcristalesparaganar",
+            "valor": "Jaulas to Win"
+        },
+        {
+            "key": "generales/ready",
+            "valor": "Ready"
+        },
+        {
+            "key": "generales/bloqueado",
+            "valor": "Locked"
+        },
+        {
+            "key": "config/selecciondearmas",
+            "valor": "Players Select"
+        },
+        {
+            "key": "config/sinpowerups",
+            "valor": "None"
         }
     ]
 }

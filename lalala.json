@@ -1,547 +1,547 @@
 {
-    "id": "Español",
+    "id": "Lalala",
     "rightToLeft": false,
     "tipografia": "",
     "textosEditables": [
         {
             "key": "portada/multiplayer",
-            "valor": "Multijugador"
+            "valor": "Lalalala"
         },
         {
             "key": "portada/solo",
-            "valor": "Entrenamiento"
+            "valor": "Lalalala"
         },
         {
             "key": "portada/options",
-            "valor": "Options"
+            "valor": "Lalalala"
         },
         {
             "key": "portada/credits",
-            "valor": "Creditos"
+            "valor": "Lalalala"
         },
         {
             "key": "portada/exit",
-            "valor": "Salir"
+            "valor": "Lalalala"
         },
         {
             "key": "generales/confirm",
-            "valor": "Aceptar"
+            "valor": "Lalalala"
         },
         {
             "key": "generales/select",
-            "valor": "Seleccionar"
+            "valor": "Lalalala"
         },
         {
             "key": "generales/back",
-            "valor": "Volver"
+            "valor": "Lalalala"
         },
         {
             "key": "multiplayer/metegol",
-            "valor": "Metegol"
+            "valor": "Lalalala"
         },
         {
             "key": "multiplayer/cazare",
-            "valor": "Combate"
+            "valor": "Lalalala"
         },
         {
             "key": "multiplayer/cuchillas",
-            "valor": "Sierras"
+            "valor": "Lalalala"
         },
         {
             "key": "multiplayer/ladron",
-            "valor": "El Atraco"
+            "valor": "Lalalala"
         },
         {
             "key": "multiplayer/lamancha",
-            "valor": "La Mancha"
+            "valor": "Lalalala"
         },
         {
             "key": "multiplayer/matamata",
-            "valor": "Mata-mata"
+            "valor": "Lalalala"
         },
         {
             "key": "multiplayer/portaluz",
-            "valor": "Porta luz"
+            "valor": "Lalalala"
         },
         {
             "key": "multiplayer/metegol_descrip",
-            "valor": "Toma la pelota y llévala hasta al arco contrario"
+            "valor": "Lalalala"
         },
         {
             "key": "multiplayer/deathmatch_descrip",
-            "valor": "Elimina a tus oponentes para ganar puntos"
+            "valor": "Lalalala"
         },
         {
             "key": "multiplayer/cuchillas_descrip",
-            "valor": "Si te mata otro jugador, reapareces. Si te alcanza una cuchilla, quedas eliminado."
+            "valor": "Lalalala"
         },
         {
             "key": "multiplayer/ladron_descrip",
-            "valor": "Como ladrón, atrapa los 3 cristales. Como guardia, elimina al ladrón"
+            "valor": "Lalalala"
         },
         {
             "key": "multiplayer/lamancha_descrip",
-            "valor": "Si eres La Mancha, atrapa a alguien más antes de que se acabe tu tiempo. Si no lo eres, toma los cristales para ganar puntos"
+            "valor": "Lalalala"
         },
         {
             "key": "multiplayer/matamata_descrip",
-            "valor": "Elimina a todos los jugadores personalmente. Si alguien te atrapa antes, tus víctimas reaparecerán "
+            "valor": "Lalalala"
         },
         {
             "key": "multiplayer/portaluz_descrip",
-            "valor": "Captura la bandera y no dejes que nadie te atrape"
+            "valor": "Lalalala"
         },
         {
             "key": "generales/join",
-            "valor": "Unirse"
+            "valor": "Lalalala"
         },
         {
             "key": "generales/color",
-            "valor": "Color"
+            "valor": "Lalalala"
         },
         {
             "key": "personajes/shadowsis",
-            "valor": "Shadow Sis"
+            "valor": "Lalalala"
         },
         {
             "key": "personajes/demonhead",
-            "valor": "Demon Head"
+            "valor": "Lalalala"
         },
         {
             "key": "personajes/chaman",
-            "valor": "Chaman"
+            "valor": "Lalalala"
         },
         {
             "key": "personajes/bruja",
-            "valor": "Bruja"
+            "valor": "Lalalala"
         },
         {
             "key": "personajes/leninie",
-            "valor": "Le Niñe"
+            "valor": "Lalalala"
         },
         {
             "key": "personajes/shinobi",
-            "valor": "Shinobi"
+            "valor": "Lalalala"
         },
         {
             "key": "personajes/cholita",
-            "valor": "Cholita"
+            "valor": "Lalalala"
         },
         {
             "key": "personajes/noir",
-            "valor": "R. Conway"
+            "valor": "Lalalala"
         },
         {
             "key": "personajes/samurai",
-            "valor": "Samurai"
+            "valor": "Lalalala"
         },
         {
             "key": "personajes/ayu",
-            "valor": "Ayu"
+            "valor": "Lalalala"
         },
         {
             "key": "personajes/steamgirl",
-            "valor": "Steam G"
+            "valor": "Lalalala"
         },
         {
             "key": "personajes/steamboy",
-            "valor": "Steam B"
+            "valor": "Lalalala"
         },
         {
             "key": "personajes/rey",
-            "valor": "Roque"
+            "valor": "Lalalala"
         },
         {
             "key": "personajes/patata",
-            "valor": "Patata"
+            "valor": "Lalalala"
         },
         {
             "key": "mundos/urbano",
-            "valor": "Ciudad"
+            "valor": "Lalalala"
         },
         {
             "key": "mundos/dungeon",
-            "valor": "Calabozo"
+            "valor": "Lalalala"
         },
         {
             "key": "mundos/cyberpunk",
-            "valor": "Ciberpunk"
+            "valor": "Lalalala"
         },
         {
             "key": "mundos/steampunk",
-            "valor": "Industrial"
+            "valor": "Lalalala"
         },
         {
             "key": "mundos/naturaleza",
-            "valor": "Naturaleza"
+            "valor": "Lalalala"
         },
         {
             "key": "mundos/ruinas",
-            "valor": "Ruinas"
+            "valor": "Lalalala"
         },
         {
             "key": "generales/start",
-            "valor": "Comenzar"
+            "valor": "Lalalala"
         },
         {
             "key": "generales/resume",
-            "valor": "Continuar"
+            "valor": "Lalalala"
         },
         {
             "key": "opciones/audio",
-            "valor": "Audio"
+            "valor": "Lalalala"
         },
         {
             "key": "opciones/graficos",
-            "valor": "Gráficos"
+            "valor": "Lalalala"
         },
         {
             "key": "opciones/paletas",
-            "valor": "Paletas"
+            "valor": "Lalalala"
         },
         {
             "key": "opciones/controles",
-            "valor": "Controles"
+            "valor": "Lalalala"
         },
         {
             "key": "opciones/idioma",
-            "valor": "Idioma"
+            "valor": "Lalalala"
         },
         {
             "key": "audio/musica",
-            "valor": "Música"
+            "valor": "Lalalala"
         },
         {
             "key": "audio/ambient",
-            "valor": "Ambiente"
+            "valor": "Lalalala"
         },
         {
             "key": "audio/sfx",
-            "valor": "Efectos de sonido"
+            "valor": "Lalalala"
         },
         {
             "key": "graficos/paletacicla",
-            "valor": "Paleta automática"
+            "valor": "Lalalala"
         },
         {
             "key": "graficos/fullscreen",
-            "valor": "Pantalla completa"
+            "valor": "Lalalala"
         },
         {
             "key": "graficos/calidad",
-            "valor": "Calidad"
+            "valor": "Lalalala"
         },
         {
             "key": "graficos/gama",
-            "valor": "Brillo"
+            "valor": "Lalalala"
         },
         {
             "key": "graficos/resolucion",
-            "valor": "Resolución"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/teclado",
-            "valor": "Teclado"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/pad",
-            "valor": "Controlador"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/saltar",
-            "valor": "Salto"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/atacar",
-            "valor": "Ataque"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/escudar",
-            "valor": "Escudo"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/dash",
-            "valor": "Turbo"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/camuflar",
-            "valor": "Camuflaje"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/bailar",
-            "valor": "Baile"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/reset",
-            "valor": "Restablecer"
+            "valor": "Lalalala"
         },
         {
             "key": "generales/team",
-            "valor": "Equipo"
+            "valor": "Lalalala"
         },
         {
             "key": "mensajes/equiposinvalidados",
-            "valor": "Configuracion de equipos inválida"
+            "valor": "Lalalala"
         },
         {
             "key": "generales/pausa",
-            "valor": "Pausa"
+            "valor": "Lalalala"
         },
         {
             "key": "generales/menu",
-            "valor": "Menú"
+            "valor": "Lalalala"
         },
         {
             "key": "generales/restart",
-            "valor": "Reiniciar"
+            "valor": "Lalalala"
         },
         {
             "key": "generales/continuar",
-            "valor": "Continuar"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/alternativo",
-            "valor": " (Alt)"
+            "valor": " (lala)"
         },
         {
             "key": "controles/pausa",
-            "valor": "Pausa"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/aceptar",
-            "valor": "Aceptar"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/volver",
-            "valor": "Cancelar"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/configuracion",
-            "valor": "Configuracion"
+            "valor": "Lalalala"
         },
         {
             "key": "inputdevice/teclado",
-            "valor": "Teclado"
+            "valor": "Lalalala"
         },
         {
             "key": "inputdevice/xinput",
-            "valor": "Control Xbox"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/copiarjoystick1",
-            "valor": "Copiar Controles Control 1"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/arriba",
-            "valor": "Arriba"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/derecha",
-            "valor": "Derecha"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/abajo",
-            "valor": "Abajo"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/izquierda",
-            "valor": "Izquierda"
+            "valor": "Lalalala"
         },
         {
             "key": "mundos/tutorial",
-            "valor": "Tutorial"
+            "valor": "Lalalala"
         },
         {
             "key": "controles/recargar",
-            "valor": "Deshacer"
+            "valor": "Lalalala"
         },
         {
             "key": "generales/cargando",
-            "valor": "Cargando..."
+            "valor": "Lalalala"
         },
         {
             "key": "graficos/vsync",
-            "valor": "V Sync"
+            "valor": "Lalalala"
         },
         {
             "key": "arma/katana",
-            "valor": "Katana"
+            "valor": "Lalalala"
         },
         {
             "key": "arma/katana_tip",
-            "valor": "Katana Consejo"
+            "valor": "Lalalala"
         },
         {
             "key": "arma/shuriken",
-            "valor": "Shuriken"
+            "valor": "Lalalala"
         },
         {
             "key": "arma/shuriken_tip",
-            "valor": "Shuriken Ayuda"
+            "valor": "Lalalala"
         },
         {
             "key": "arma/arco",
-            "valor": "Arco"
+            "valor": "Lalalala"
         },
         {
             "key": "arma/arco_tip",
-            "valor": "Arco Consejo"
+            "valor": "Lalalala"
         },
         {
             "key": "arma/kami",
-            "valor": "K4M1"
+            "valor": "Lalalala"
         },
         {
             "key": "arma/kami_tip",
-            "valor": "K4m1 Consejo"
+            "valor": "Lalalala"
         },
         {
             "key": "arma/latigo",
-            "valor": "Latigo"
+            "valor": "Lalalala"
         },
         {
             "key": "arma/latigo_tip",
-            "valor": "Latigo Ayuda"
+            "valor": "Lalalala"
         },
         {
             "key": "arma/mazo",
-            "valor": "Mazo a Vapor"
+            "valor": "Lalalala"
         },
         {
             "key": "arma/mazo_tip",
-            "valor": "Mazo consejo"
+            "valor": "Lalalala"
         },
         {
             "key": "arma/kunai",
-            "valor": "Kunais"
+            "valor": "Lalalala"
         },
         {
             "key": "arma/kunai_tip",
-            "valor": "Kunai Ayuda"
+            "valor": "Lalalala"
         },
         {
             "key": "unlocked/world",
-            "valor": "Mundo Desbloqueado"
+            "valor": "Lalalala"
         },
         {
             "key": "unlocked/character",
-            "valor": "Personaje Desbloqueado"
+            "valor": "Lalalala"
         },
         {
             "key": "unlocked/weapon",
-            "valor": "Arma Desbloqueada"
+            "valor": "Lalalala"
         },
         {
             "key": "unlocked/powerup",
-            "valor": "Poder Desbloqueado"
+            "valor": "Lalalala"
         },
         {
             "key": "graficos/postprocessing",
-            "valor": "Posprocesamiento"
+            "valor": "Lalalala"
         },
         {
             "key": "graficos/texturas",
-            "valor": "Trexturas"
+            "valor": "Lalalala"
         },
         {
             "key": "graficos/antialiasign",
-            "valor": "Suavizado"
+            "valor": "Lalalala"
         },
         {
             "key": "graficos/particulas",
-            "valor": "Partículas"
+            "valor": "Lalalala"
         },
         {
             "key": "particulas/level0",
-            "valor": "Nivel 0"
+            "valor": "Lalalala"
         },
         {
             "key": "particulas/level1",
-            "valor": "Nivel 1"
+            "valor": "Lalalala"
         },
         {
             "key": "particulas/level2",
-            "valor": "Nivel 2"
+            "valor": "Lalalala"
         },
         {
             "key": "particulas/level3",
-            "valor": "Nivel 3"
+            "valor": "Lalalala"
         },
         {
             "key": "config/mundos",
-            "valor": "Mundos"
+            "valor": "Lalalala"
         },
         {
             "key": "config/lobbyactivo",
-            "valor": "Lobby Activo"
+            "valor": "Lalalala"
         },
         {
             "key": "config/replay",
-            "valor": "Repetición"
+            "valor": "Lalalala"
         },
         {
             "key": "config/configuracion",
-            "valor": "Configuración"
+            "valor": "Lalalala"
         },
         {
             "key": "config/puntajeparaganar",
-            "valor": "Puntos para Ganar"
+            "valor": "Lalalala"
         },
         {
             "key": "config/cantarmas",
-            "valor": "Cantidad de Armas"
+            "valor": "Lalalala"
         },
         {
             "key": "config/cantpowerupmin",
-            "valor": "Cantidad de Poderes"
+            "valor": "Lalalala"
         },
         {
             "key": "config/luceson",
-            "valor": "Luces Encendidas"
+            "valor": "Lalalala"
         },
         {
             "key": "config/haymuertesubita",
-            "valor": "Muerte Súbita"
+            "valor": "Lalalala"
         },
         {
             "key": "config/siemprevisibles",
-            "valor": "Siempre Visible"
+            "valor": "Lalalala"
         },
         {
             "key": "config/contrampas",
-            "valor": "Trampas"
+            "valor": "Lalalala"
         },
         {
             "key": "config/tiempoparaganar",
-            "valor": "Tiempo para Ganar"
+            "valor": "Lalalala"
         },
         {
             "key": "config/resettimer",
-            "valor": "Reiniciar Temporizador"
+            "valor": "Lalalala"
         },
         {
             "key": "config/friendlyfire",
-            "valor": "Fuego Amigo"
+            "valor": "Lalalala"
         },
         {
             "key": "config/cantidadcristalesparaganar",
-            "valor": "Jaulas para Ganar"
+            "valor": "Lalalala"
         },
         {
             "key": "generales/ready",
-            "valor": "Listo"
+            "valor": "Lalalala"
         },
         {
             "key": "generales/bloqueado",
-            "valor": "Bloqueado"
+            "valor": "Lalalala"
         },
         {
             "key": "config/selecciondearmas",
-            "valor": ""
+            "valor": "Lalalala"
         },
         {
             "key": "config/sinpowerups",
-            "valor": "Ninguno"
+            "valor": "Lalalala"
         }
     ]
 }

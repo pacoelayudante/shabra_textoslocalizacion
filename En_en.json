@@ -61,7 +61,7 @@
         },
         {
             "key": "multiplayer/portaluz",
-            "valor": "King Of The Hill"
+            "valor": "King Of The Light"
         },
         {
             "key": "multiplayer/metegol_descrip",
@@ -362,6 +362,186 @@
         {
             "key": "graficos/vsync",
             "valor": "V Sync"
+        },
+        {
+            "key": "arma/katana",
+            "valor": "Katana"
+        },
+        {
+            "key": "arma/katana_tip",
+            "valor": "Katana Tip"
+        },
+        {
+            "key": "arma/shuriken",
+            "valor": "Shuriken"
+        },
+        {
+            "key": "arma/shuriken_tip",
+            "valor": "Shuriken Tip"
+        },
+        {
+            "key": "arma/arco",
+            "valor": "Bow"
+        },
+        {
+            "key": "arma/arco_tip",
+            "valor": "Bow tip"
+        },
+        {
+            "key": "arma/kami",
+            "valor": "K4M1"
+        },
+        {
+            "key": "arma/kami_tip",
+            "valor": "K4m1 tip"
+        },
+        {
+            "key": "arma/latigo",
+            "valor": "Whip"
+        },
+        {
+            "key": "arma/latigo_tip",
+            "valor": "Whip Tip"
+        },
+        {
+            "key": "arma/mazo",
+            "valor": "Steam Hammer"
+        },
+        {
+            "key": "arma/mazo_tip",
+            "valor": "Hammer tips"
+        },
+        {
+            "key": "arma/kunai",
+            "valor": "Kunais"
+        },
+        {
+            "key": "arma/kunai_tip",
+            "valor": "Kunai Tips"
+        },
+        {
+            "key": "unlocked/world",
+            "valor": "World Unlocked"
+        },
+        {
+            "key": "unlocked/character",
+            "valor": "Character Unlocked"
+        },
+        {
+            "key": "unlocked/weapon",
+            "valor": "Weapon Unlocked"
+        },
+        {
+            "key": "unlocked/powerup",
+            "valor": "Power Up Unlocked"
+        },
+        {
+            "key": "graficos/postprocessing",
+            "valor": "Post Processing"
+        },
+        {
+            "key": "graficos/texturas",
+            "valor": "Textures"
+        },
+        {
+            "key": "graficos/antialiasign",
+            "valor": "Antialiasing"
+        },
+        {
+            "key": "graficos/particulas",
+            "valor": "Particles"
+        },
+        {
+            "key": "particulas/level0",
+            "valor": "Sad"
+        },
+        {
+            "key": "particulas/level1",
+            "valor": "Enough"
+        },
+        {
+            "key": "particulas/level2",
+            "valor": "Decent"
+        },
+        {
+            "key": "particulas/level3",
+            "valor": "Full"
+        },
+        {
+            "key": "config/mundos",
+            "valor": "Worlds"
+        },
+        {
+            "key": "config/lobbyactivo",
+            "valor": "Active Lobby"
+        },
+        {
+            "key": "config/replay",
+            "valor": "Replay"
+        },
+        {
+            "key": "config/configuracion",
+            "valor": "Configuration"
+        },
+        {
+            "key": "config/puntajeparaganar",
+            "valor": "Points to win"
+        },
+        {
+            "key": "config/cantarmas",
+            "valor": "Number of Weapons"
+        },
+        {
+            "key": "config/cantpowerupmin",
+            "valor": "Number of Power Ups"
+        },
+        {
+            "key": "config/luceson",
+            "valor": "Lights On"
+        },
+        {
+            "key": "config/haymuertesubita",
+            "valor": "Sudden Death"
+        },
+        {
+            "key": "config/siemprevisibles",
+            "valor": "Always Visible"
+        },
+        {
+            "key": "config/contrampas",
+            "valor": "Traps"
+        },
+        {
+            "key": "config/tiempoparaganar",
+            "valor": "Time to Win"
+        },
+        {
+            "key": "config/resettimer",
+            "valor": "Timer Reset "
+        },
+        {
+            "key": "config/friendlyfire",
+            "valor": "Friendly Fire"
+        },
+        {
+            "key": "config/cantidadcristalesparaganar",
+            "valor": "Cages to Win"
+        },
+        {
+            "key": "generales/ready",
+            "valor": "Ready"
+        },
+        {
+            "key": "generales/bloqueado",
+            "valor": "Locked"
+        },
+        {
+            "key": "config/selecciondearmas",
+            "valor": ""
+        },
+        {
+            "key": "config/sinpowerups",
+            "valor": ""
         }
     ]
 }
