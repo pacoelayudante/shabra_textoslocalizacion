@@ -592,6 +592,26 @@
             "valor": "Lalalala"
         },
         {
+            "key": "niveles/0-tuto_lobby",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/1-tuto_dash_jump",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/2-tuto_saltar_a_travez",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/3-tuto_bloqueo",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/4-tuto_hide",
+            "valor": "Lalalala"
+        },
+        {
             "key": "niveles/urbano_bar_single1",
             "valor": "Lalalala"
         },
@@ -865,6 +885,54 @@
         },
         {
             "key": "generales/preguntar_quitar_lobby",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "singleplayer/basico_bien",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "singleplayer/basico_mal",
+            "valor": "Lala $$$ lala"
+        },
+        {
+            "key": "singleplayer/alertas_bien",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "singleplayer/alertas_mal",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "singleplayer/rapido_bien",
+            "valor": "Lala $$$ lala"
+        },
+        {
+            "key": "singleplayer/rapido_mal",
+            "valor": "Lala $$$ lala"
+        },
+        {
+            "key": "singleplayer/jaulas_bien",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "singleplayer/jaulas_mal",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "ladron/ronda",
+            "valor": "Lala $$$"
+        },
+        {
+            "key": "ladron/guardia",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "ladron/ladron",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "ladron/robacajas",
             "valor": "Lalalala"
         }
     ]

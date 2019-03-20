@@ -592,108 +592,128 @@
             "valor": "Wwwhhaaaaaaiiittt……."
         },
         {
+            "key": "niveles/0-tuto_lobby",
+            "valor": "Climb"
+        },
+        {
+            "key": "niveles/1-tuto_dash_jump",
+            "valor": "Dash "
+        },
+        {
+            "key": "niveles/2-tuto_saltar_a_travez",
+            "valor": "Go through"
+        },
+        {
+            "key": "niveles/3-tuto_bloqueo",
+            "valor": "Parry"
+        },
+        {
+            "key": "niveles/4-tuto_hide",
+            "valor": "Hide"
+        },
+        {
             "key": "niveles/urbano_bar_single1",
-            "valor": ""
+            "valor": "Bar"
         },
         {
             "key": "niveles/urbano_ventanas_single2",
-            "valor": ""
+            "valor": "Back yard"
         },
         {
             "key": "niveles/urbano_barco_single3",
-            "valor": ""
+            "valor": "Port"
         },
         {
             "key": "niveles/urbano_reydelacolina_single4",
-            "valor": ""
+            "valor": "Neighborhood"
         },
         {
             "key": "niveles/urbano_apartamento_single5",
-            "valor": ""
+            "valor": "Home"
         },
         {
             "key": "niveles/urbano_helicoptero_single6",
-            "valor": ""
+            "valor": "Villa"
         },
         {
             "key": "niveles/ruinas_casaconpozo_single1",
-            "valor": ""
+            "valor": "Barn"
         },
         {
             "key": "niveles/ruinas_orientalshit_single2",
-            "valor": ""
+            "valor": "Gym"
         },
         {
             "key": "niveles/ruinas_torres_single3",
-            "valor": ""
+            "valor": "Towers"
         },
         {
             "key": "niveles/ruinas_quilombo_single4",
-            "valor": ""
+            "valor": "Temple"
         },
         {
             "key": "niveles/cyberpunk_oficina_single1",
-            "valor": ""
+            "valor": "Disco"
         },
         {
             "key": "niveles/cyberpunk_callejonyratis_single2",
-            "valor": ""
+            "valor": "Hole"
         },
         {
             "key": "niveles/cyberpunk_callejon_single3",
-            "valor": ""
+            "valor": "Market"
         },
         {
             "key": "niveles/cyberpunk_autos2_single4",
-            "valor": ""
+            "valor": "Street"
         },
         {
             "key": "niveles/nature_casita_single1",
-            "valor": ""
+            "valor": "Playground"
         },
         {
             "key": "niveles/nature_quincho_single2",
-            "valor": ""
+            "valor": "Treehouse"
         },
         {
             "key": "niveles/nature_pozosycolumnas_single3",
-            "valor": ""
+            "valor": "Bridge"
         },
         {
             "key": "niveles/nature_cueva_single4",
-            "valor": ""
+            "valor": "Cave"
         },
         {
             "key": "niveles/steampunk_pistones_single1",
-            "valor": ""
+            "valor": "Pistons"
         },
         {
             "key": "niveles/steampunk_cuadrado_single2",
-            "valor": ""
+            "valor": "Nucleus"
         },
         {
             "key": "niveles/steampunk_l_single3",
-            "valor": ""
+            "valor": "conveyor"
         },
         {
             "key": "niveles/steampunk_caniosmovedizos_single4",
-            "valor": ""
+            "valor": "Cycle"
         },
         {
             "key": "niveles/calabozo_drenajes_single1",
-            "valor": ""
+            "valor": "Drain"
         },
         {
             "key": "niveles/calabozo_jaulacalavera_single2",
-            "valor": ""
+            "valor": "Prison"
         },
         {
             "key": "niveles/calabozo_fabrik_single3",
-            "valor": ""
+            "valor": "Scape"
         },
         {
             "key": "niveles/calabozo_pacman_single4",
-            "valor": ""
+            "valor": "Punishment"
         },
         {
             "key": "paletas/calabozo1",
@@ -845,7 +865,7 @@
         },
         {
             "key": "paletas/urbano6",
-            "valor": ""
+            "valor": "Steam"
         },
         {
             "key": "paletas/urbano-cyberpunk",
@@ -866,6 +886,54 @@
         {
             "key": "generales/preguntar_quitar_lobby",
             "valor": ""
+        },
+        {
+            "key": "singleplayer/basico_bien",
+            "valor": "Done and gone"
+        },
+        {
+            "key": "singleplayer/basico_mal",
+            "valor": "Break $$$ cages and ring the bell"
+        },
+        {
+            "key": "singleplayer/alertas_bien",
+            "valor": "Not a bot seen you"
+        },
+        {
+            "key": "singleplayer/alertas_mal",
+            "valor": "Don't alert a single bot"
+        },
+        {
+            "key": "singleplayer/rapido_bien",
+            "valor": "Made it in just $$$"
+        },
+        {
+            "key": "singleplayer/rapido_mal",
+            "valor": "Be done in $$$"
+        },
+        {
+            "key": "singleplayer/jaulas_bien",
+            "valor": "No cage untouched"
+        },
+        {
+            "key": "singleplayer/jaulas_mal",
+            "valor": "Don't leave a single cage"
+        },
+        {
+            "key": "ladron/ronda",
+            "valor": "Round $$$"
+        },
+        {
+            "key": "ladron/guardia",
+            "valor": "Guard"
+        },
+        {
+            "key": "ladron/ladron",
+            "valor": "Thief"
+        },
+        {
+            "key": "ladron/robacajas",
+            "valor": "Break all cages of your color"
         }
     ]
 }

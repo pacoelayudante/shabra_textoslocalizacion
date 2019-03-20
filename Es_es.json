@@ -453,19 +453,19 @@
         },
         {
             "key": "particulas/level0",
-            "valor": "Nivel 0"
+            "valor": "Triste"
         },
         {
             "key": "particulas/level1",
-            "valor": "Nivel 1"
+            "valor": "Suficiente"
         },
         {
             "key": "particulas/level2",
-            "valor": "Nivel 2"
+            "valor": "Decente"
         },
         {
             "key": "particulas/level3",
-            "valor": "Nivel 3"
+            "valor": "A tope"
         },
         {
             "key": "config/mundos",
@@ -592,108 +592,128 @@
             "valor": "Espeeereeennn...."
         },
         {
+            "key": "niveles/0-tuto_lobby",
+            "valor": "Trepa"
+        },
+        {
+            "key": "niveles/1-tuto_dash_jump",
+            "valor": "Embiste"
+        },
+        {
+            "key": "niveles/2-tuto_saltar_a_travez",
+            "valor": "Atraviesa"
+        },
+        {
+            "key": "niveles/3-tuto_bloqueo",
+            "valor": "Bloquea"
+        },
+        {
+            "key": "niveles/4-tuto_hide",
+            "valor": "Escóndete"
+        },
+        {
             "key": "niveles/urbano_bar_single1",
-            "valor": ""
+            "valor": "Bar"
         },
         {
             "key": "niveles/urbano_ventanas_single2",
-            "valor": ""
+            "valor": "Callejón"
         },
         {
             "key": "niveles/urbano_barco_single3",
-            "valor": ""
+            "valor": "Muelle"
         },
         {
             "key": "niveles/urbano_reydelacolina_single4",
-            "valor": ""
+            "valor": "Vecindad"
         },
         {
             "key": "niveles/urbano_apartamento_single5",
-            "valor": ""
+            "valor": "Hogar"
         },
         {
             "key": "niveles/urbano_helicoptero_single6",
-            "valor": ""
+            "valor": "Villa"
         },
         {
             "key": "niveles/ruinas_casaconpozo_single1",
-            "valor": ""
+            "valor": "Granero"
         },
         {
             "key": "niveles/ruinas_orientalshit_single2",
-            "valor": ""
+            "valor": "Gimnasio"
         },
         {
             "key": "niveles/ruinas_torres_single3",
-            "valor": ""
+            "valor": "Torres"
         },
         {
             "key": "niveles/ruinas_quilombo_single4",
-            "valor": ""
+            "valor": "Templo"
         },
         {
             "key": "niveles/cyberpunk_oficina_single1",
-            "valor": ""
+            "valor": "Disco"
         },
         {
             "key": "niveles/cyberpunk_callejonyratis_single2",
-            "valor": ""
+            "valor": "Pozo"
         },
         {
             "key": "niveles/cyberpunk_callejon_single3",
-            "valor": ""
+            "valor": "Mercado"
         },
         {
             "key": "niveles/cyberpunk_autos2_single4",
-            "valor": ""
+            "valor": "Calle"
         },
         {
             "key": "niveles/nature_casita_single1",
-            "valor": ""
+            "valor": "Jardín"
         },
         {
             "key": "niveles/nature_quincho_single2",
-            "valor": ""
+            "valor": "Tienda"
         },
         {
             "key": "niveles/nature_pozosycolumnas_single3",
-            "valor": ""
+            "valor": "Puente"
         },
         {
             "key": "niveles/nature_cueva_single4",
-            "valor": ""
+            "valor": "Cueva"
         },
         {
             "key": "niveles/steampunk_pistones_single1",
-            "valor": ""
+            "valor": "Pistones"
         },
         {
             "key": "niveles/steampunk_cuadrado_single2",
-            "valor": ""
+            "valor": "Núcleo"
         },
         {
             "key": "niveles/steampunk_l_single3",
-            "valor": ""
+            "valor": "Transportador"
         },
         {
             "key": "niveles/steampunk_caniosmovedizos_single4",
-            "valor": ""
+            "valor": "Ciclo"
         },
         {
             "key": "niveles/calabozo_drenajes_single1",
-            "valor": ""
+            "valor": "Drenaje"
         },
         {
             "key": "niveles/calabozo_jaulacalavera_single2",
-            "valor": ""
+            "valor": "Prisión"
         },
         {
             "key": "niveles/calabozo_fabrik_single3",
-            "valor": ""
+            "valor": "Escape"
         },
         {
             "key": "niveles/calabozo_pacman_single4",
-            "valor": ""
+            "valor": "Castigo"
         },
         {
             "key": "paletas/calabozo1",
@@ -865,6 +885,54 @@
         },
         {
             "key": "generales/preguntar_quitar_lobby",
+            "valor": ""
+        },
+        {
+            "key": "singleplayer/basico_bien",
+            "valor": ""
+        },
+        {
+            "key": "singleplayer/basico_mal",
+            "valor": ""
+        },
+        {
+            "key": "singleplayer/alertas_bien",
+            "valor": ""
+        },
+        {
+            "key": "singleplayer/alertas_mal",
+            "valor": ""
+        },
+        {
+            "key": "singleplayer/rapido_bien",
+            "valor": ""
+        },
+        {
+            "key": "singleplayer/rapido_mal",
+            "valor": ""
+        },
+        {
+            "key": "singleplayer/jaulas_bien",
+            "valor": ""
+        },
+        {
+            "key": "singleplayer/jaulas_mal",
+            "valor": ""
+        },
+        {
+            "key": "ladron/ronda",
+            "valor": ""
+        },
+        {
+            "key": "ladron/guardia",
+            "valor": ""
+        },
+        {
+            "key": "ladron/ladron",
+            "valor": ""
+        },
+        {
+            "key": "ladron/robacajas",
             "valor": ""
         }
     ]
