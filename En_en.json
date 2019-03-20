@@ -717,19 +717,19 @@
         },
         {
             "key": "paletas/calabozo1",
-            "valor": ""
+            "valor": "Time"
         },
         {
             "key": "paletas/calabozo2",
-            "valor": ""
+            "valor": "Ice"
         },
         {
             "key": "paletas/calabozo3",
-            "valor": ""
+            "valor": "Night"
         },
         {
             "key": "paletas/calabozo4",
-            "valor": ""
+            "valor": "Egypt/Faraon"
         },
         {
             "key": "paletas/cyberpunk",
@@ -753,11 +753,11 @@
         },
         {
             "key": "paletas/cyberpunk5",
-            "valor": ""
+            "valor": "Blue Ray "
         },
         {
             "key": "paletas/cyberpunk6",
-            "valor": ""
+            "valor": "Green wave"
         },
         {
             "key": "paletas/byn",
@@ -765,7 +765,7 @@
         },
         {
             "key": "paletas/nature",
-            "valor": ""
+            "valor": "Fresh"
         },
         {
             "key": "paletas/nature1",
@@ -773,11 +773,11 @@
         },
         {
             "key": "paletas/nature2",
-            "valor": ""
+            "valor": "Night winter nigh"
         },
         {
             "key": "paletas/nature3",
-            "valor": ""
+            "valor": "Winter Mood"
         },
         {
             "key": "paletas/nature4",
@@ -789,7 +789,7 @@
         },
         {
             "key": "paletas/nature6",
-            "valor": ""
+            "valor": "Spring "
         },
         {
             "key": "paletas/nature7",
@@ -797,35 +797,35 @@
         },
         {
             "key": "paletas/nature8",
-            "valor": ""
+            "valor": "Dry Automn"
         },
         {
             "key": "paletas/paleta_test_10",
-            "valor": ""
+            "valor": "Berenjena"
         },
         {
             "key": "paletas/ruinas_o_no",
-            "valor": ""
+            "valor": "Memory"
         },
         {
             "key": "paletas/ruinas",
-            "valor": ""
+            "valor": "Reborn (verdocito)"
         },
         {
             "key": "paletas/ruinas1",
-            "valor": ""
+            "valor": "Clay"
         },
         {
             "key": "paletas/ruinas2",
-            "valor": ""
+            "valor": "Heart of Culture Blood"
         },
         {
             "key": "paletas/ruinas3",
-            "valor": ""
+            "valor": "Spring Pink"
         },
         {
             "key": "paletas/ruinas4",
-            "valor": ""
+            "valor": "Old automn"
         },
         {
             "key": "paletas/steam_web",
@@ -837,27 +837,27 @@
         },
         {
             "key": "paletas/steampunk2",
-            "valor": ""
+            "valor": "Oxide"
         },
         {
             "key": "paletas/steampunk3",
-            "valor": ""
+            "valor": "Sulfur"
         },
         {
             "key": "paletas/urbano1",
-            "valor": ""
+            "valor": "Ham Romance"
         },
         {
             "key": "paletas/urbano2",
-            "valor": ""
+            "valor": "Crema del Cielo"
         },
         {
             "key": "paletas/urbano3",
-            "valor": ""
+            "valor": "Picnic Evening"
         },
         {
             "key": "paletas/urbano4",
-            "valor": ""
+            "valor": "Under Zero"
         },
         {
             "key": "paletas/urbano5",
@@ -869,23 +869,23 @@
         },
         {
             "key": "paletas/urbano-cyberpunk",
-            "valor": ""
+            "valor": "Guasacaca"
         },
         {
             "key": "generales/rematch",
-            "valor": ""
+            "valor": "Rematch"
         },
         {
             "key": "generales/mode_select",
-            "valor": ""
+            "valor": "Select"
         },
         {
             "key": "generales/negative",
-            "valor": "Nah"
+            "valor": "Nope"
         },
         {
             "key": "generales/preguntar_quitar_lobby",
-            "valor": ""
+            "valor": "Deactivate lobby? (you can reactivate it later)"
         },
         {
             "key": "singleplayer/basico_bien",
@@ -934,6 +934,18 @@
         {
             "key": "ladron/robacajas",
             "valor": "Break all cages of your color"
+        },
+        {
+            "key": "generales/replay",
+            "valor": "Replay"
+        },
+        {
+            "key": "generales/camaralenta",
+            "valor": "Slow motion"
+        },
+        {
+            "key": "unlocked/modo",
+            "valor": "New Mode Unlocked!"
         }
     ]
 }

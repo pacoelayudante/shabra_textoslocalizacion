@@ -817,7 +817,7 @@
         },
         {
             "key": "paletas/ruinas2",
-            "valor": ""
+            "valor": "Sepia"
         },
         {
             "key": "paletas/ruinas3",
@@ -873,66 +873,78 @@
         },
         {
             "key": "generales/rematch",
-            "valor": ""
+            "valor": "Revancha"
         },
         {
             "key": "generales/mode_select",
-            "valor": ""
+            "valor": "Seleccionar"
         },
         {
             "key": "generales/negative",
-            "valor": "Nop"
+            "valor": "Nah"
         },
         {
             "key": "generales/preguntar_quitar_lobby",
-            "valor": ""
+            "valor": "¿Desactivar el lobby? (puedes reactivarlo luego)"
         },
         {
             "key": "singleplayer/basico_bien",
-            "valor": ""
+            "valor": "Objectivo cumplido"
         },
         {
             "key": "singleplayer/basico_mal",
-            "valor": ""
+            "valor": "Rompe $$$ jaulas y toca la campana"
         },
         {
             "key": "singleplayer/alertas_bien",
-            "valor": ""
+            "valor": "No fuiste visto"
         },
         {
             "key": "singleplayer/alertas_mal",
-            "valor": ""
+            "valor": "No dispares ninguna alarma"
         },
         {
             "key": "singleplayer/rapido_bien",
-            "valor": ""
+            "valor": "Hecho en sólo $$$"
         },
         {
             "key": "singleplayer/rapido_mal",
-            "valor": ""
+            "valor": "Hazlo en $$$"
         },
         {
             "key": "singleplayer/jaulas_bien",
-            "valor": ""
+            "valor": "No quedó ninguna jaula"
         },
         {
             "key": "singleplayer/jaulas_mal",
-            "valor": ""
+            "valor": "No dejes ninguna jaula"
         },
         {
             "key": "ladron/ronda",
-            "valor": ""
+            "valor": "Ronda"
         },
         {
             "key": "ladron/guardia",
-            "valor": ""
+            "valor": "Guardia"
         },
         {
             "key": "ladron/ladron",
-            "valor": ""
+            "valor": "Ladrón"
         },
         {
             "key": "ladron/robacajas",
+            "valor": "Rompe todas las cajas de tu color"
+        },
+        {
+            "key": "generales/replay",
+            "valor": ""
+        },
+        {
+            "key": "generales/camaralenta",
+            "valor": ""
+        },
+        {
+            "key": "unlocked/modo",
             "valor": ""
         }
     ]

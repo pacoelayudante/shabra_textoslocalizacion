@@ -934,6 +934,18 @@
         {
             "key": "ladron/robacajas",
             "valor": "Lalalala"
+        },
+        {
+            "key": "generales/replay",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "generales/camaralenta",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "unlocked/modo",
+            "valor": "Lalalala"
         }
     ]
 }
