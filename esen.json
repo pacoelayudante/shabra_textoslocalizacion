@@ -217,11 +217,11 @@
         },
         {
             "key": "audio/sfx",
-            "valor": "Sound Efectos"
+            "valor": "Sound Effects"
         },
         {
             "key": "graficos/paletacicla",
-            "valor": "Paletas Auto Cyclan"
+            "valor": "Paleta automática"
         },
         {
             "key": "graficos/fullscreen",
@@ -249,7 +249,7 @@
         },
         {
             "key": "controles/saltar",
-            "valor": "Jumpear"
+            "valor": "Jump"
         },
         {
             "key": "controles/atacar",
@@ -281,7 +281,7 @@
         },
         {
             "key": "mensajes/equiposinvalidados",
-            "valor": "Invalid configuration de los teams"
+            "valor": "Team Configuration Inválida"
         },
         {
             "key": "generales/pausa",
@@ -369,7 +369,7 @@
         },
         {
             "key": "arma/katana_tip",
-            "valor": "aca va el tip en si mismo"
+            "valor": "press DASH to samurai slash"
         },
         {
             "key": "arma/shuriken",
@@ -377,7 +377,7 @@
         },
         {
             "key": "arma/shuriken_tip",
-            "valor": "onda \"tira shurikens asi o asa!\""
+            "valor": "Spamea ATTACK en diferentes direcciones"
         },
         {
             "key": "arma/arco",
@@ -385,7 +385,7 @@
         },
         {
             "key": "arma/arco_tip",
-            "valor": "hay un docs donde estan las propuestas"
+            "valor": "HOLD, APUNTA y release ATTACK para arrasar con todo"
         },
         {
             "key": "arma/kami",
@@ -393,7 +393,7 @@
         },
         {
             "key": "arma/kami_tip",
-            "valor": "K4m1 Tip"
+            "valor": "Shoot y recall con ATTACK"
         },
         {
             "key": "arma/latigo",
@@ -401,15 +401,15 @@
         },
         {
             "key": "arma/latigo_tip",
-            "valor": "latigo tip"
+            "valor": "Double tap ATTACK para mayor rango"
         },
         {
             "key": "arma/mazo",
-            "valor": "Mazo Steam"
+            "valor": "Mazo Power"
         },
         {
             "key": "arma/mazo_tip",
-            "valor": "Mazo tips"
+            "valor": "Big ‘n Slow. Hold ATTACK para una sorpresita"
         },
         {
             "key": "arma/kunai",
@@ -417,7 +417,7 @@
         },
         {
             "key": "arma/kunai_tip",
-            "valor": "Kunai Tips"
+            "valor": "ATTACK to shoot like a maniac.. or HOLD to shoot like a professional"
         },
         {
             "key": "unlocked/world",
@@ -441,7 +441,7 @@
         },
         {
             "key": "graficos/texturas",
-            "valor": "Trexturas"
+            "valor": "Texturas"
         },
         {
             "key": "graficos/antialiasign",
@@ -497,7 +497,7 @@
         },
         {
             "key": "config/luceson",
-            "valor": "Luces On"
+            "valor": "Luces"
         },
         {
             "key": "config/haymuertesubita",
@@ -517,7 +517,7 @@
         },
         {
             "key": "config/resettimer",
-            "valor": "Resetear Timer "
+            "valor": "Resetear "
         },
         {
             "key": "config/friendlyfire",
@@ -537,11 +537,319 @@
         },
         {
             "key": "config/selecciondearmas",
-            "valor": "Players Select"
+            "valor": "Choose"
         },
         {
             "key": "config/sinpowerups",
-            "valor": "None"
+            "valor": "0"
+        },
+        {
+            "key": "powerup/superdash",
+            "valor": "Super Dash"
+        },
+        {
+            "key": "powerup/superdash_tip",
+            "valor": "Sólo spamea DASH"
+        },
+        {
+            "key": "powerup/decoy",
+            "valor": "Decoy"
+        },
+        {
+            "key": "powerup/decoy_tip",
+            "valor": "Tap DANCE for a dancing partner"
+        },
+        {
+            "key": "powerup/reveal",
+            "valor": "Revelar"
+        },
+        {
+            "key": "powerup/reveal_tip",
+            "valor": "Solo tu puedes esconderte (you party pooper)"
+        },
+        {
+            "key": "powerup/blink",
+            "valor": "Blink"
+        },
+        {
+            "key": "powerup/blink_tip",
+            "valor": "Ridiculously big BLOCK (te teleporta detrás del oponente)"
+        },
+        {
+            "key": "powerup/shield",
+            "valor": "Shield"
+        },
+        {
+            "key": "powerup/shield_tip",
+            "valor": "Te salva la vida una vez (no joke)"
+        },
+        {
+            "key": "powerup/slowmo",
+            "valor": "Slow Motion"
+        },
+        {
+            "key": "powerup/slowmo_tip",
+            "valor": "Wwwhhaaaaaaiiittt……."
+        },
+        {
+            "key": "niveles/urbano_bar_single1",
+            "valor": ""
+        },
+        {
+            "key": "niveles/urbano_ventanas_single2",
+            "valor": ""
+        },
+        {
+            "key": "niveles/urbano_barco_single3",
+            "valor": ""
+        },
+        {
+            "key": "niveles/urbano_reydelacolina_single4",
+            "valor": ""
+        },
+        {
+            "key": "niveles/urbano_apartamento_single5",
+            "valor": ""
+        },
+        {
+            "key": "niveles/urbano_helicoptero_single6",
+            "valor": ""
+        },
+        {
+            "key": "niveles/ruinas_casaconpozo_single1",
+            "valor": ""
+        },
+        {
+            "key": "niveles/ruinas_orientalshit_single2",
+            "valor": ""
+        },
+        {
+            "key": "niveles/ruinas_torres_single3",
+            "valor": ""
+        },
+        {
+            "key": "niveles/ruinas_quilombo_single4",
+            "valor": ""
+        },
+        {
+            "key": "niveles/cyberpunk_oficina_single1",
+            "valor": ""
+        },
+        {
+            "key": "niveles/cyberpunk_callejonyratis_single2",
+            "valor": ""
+        },
+        {
+            "key": "niveles/cyberpunk_callejon_single3",
+            "valor": ""
+        },
+        {
+            "key": "niveles/cyberpunk_autos2_single4",
+            "valor": ""
+        },
+        {
+            "key": "niveles/nature_casita_single1",
+            "valor": ""
+        },
+        {
+            "key": "niveles/nature_quincho_single2",
+            "valor": ""
+        },
+        {
+            "key": "niveles/nature_pozosycolumnas_single3",
+            "valor": ""
+        },
+        {
+            "key": "niveles/nature_cueva_single4",
+            "valor": ""
+        },
+        {
+            "key": "niveles/steampunk_pistones_single1",
+            "valor": ""
+        },
+        {
+            "key": "niveles/steampunk_cuadrado_single2",
+            "valor": ""
+        },
+        {
+            "key": "niveles/steampunk_l_single3",
+            "valor": ""
+        },
+        {
+            "key": "niveles/steampunk_caniosmovedizos_single4",
+            "valor": ""
+        },
+        {
+            "key": "niveles/calabozo_drenajes_single1",
+            "valor": ""
+        },
+        {
+            "key": "niveles/calabozo_jaulacalavera_single2",
+            "valor": ""
+        },
+        {
+            "key": "niveles/calabozo_fabrik_single3",
+            "valor": ""
+        },
+        {
+            "key": "niveles/calabozo_pacman_single4",
+            "valor": ""
+        },
+        {
+            "key": "paletas/calabozo1",
+            "valor": ""
+        },
+        {
+            "key": "paletas/calabozo2",
+            "valor": ""
+        },
+        {
+            "key": "paletas/calabozo3",
+            "valor": ""
+        },
+        {
+            "key": "paletas/calabozo4",
+            "valor": ""
+        },
+        {
+            "key": "paletas/cyberpunk",
+            "valor": ""
+        },
+        {
+            "key": "paletas/cyberpunk1",
+            "valor": ""
+        },
+        {
+            "key": "paletas/cyberpunk2",
+            "valor": ""
+        },
+        {
+            "key": "paletas/cyberpunk3",
+            "valor": ""
+        },
+        {
+            "key": "paletas/cyberpunk4",
+            "valor": ""
+        },
+        {
+            "key": "paletas/cyberpunk5",
+            "valor": ""
+        },
+        {
+            "key": "paletas/cyberpunk6",
+            "valor": ""
+        },
+        {
+            "key": "paletas/byn",
+            "valor": ""
+        },
+        {
+            "key": "paletas/nature",
+            "valor": ""
+        },
+        {
+            "key": "paletas/nature1",
+            "valor": ""
+        },
+        {
+            "key": "paletas/nature2",
+            "valor": ""
+        },
+        {
+            "key": "paletas/nature3",
+            "valor": ""
+        },
+        {
+            "key": "paletas/nature4",
+            "valor": ""
+        },
+        {
+            "key": "paletas/nature5",
+            "valor": ""
+        },
+        {
+            "key": "paletas/nature6",
+            "valor": ""
+        },
+        {
+            "key": "paletas/nature7",
+            "valor": ""
+        },
+        {
+            "key": "paletas/nature8",
+            "valor": ""
+        },
+        {
+            "key": "paletas/paleta_test_10",
+            "valor": ""
+        },
+        {
+            "key": "paletas/ruinas_o_no",
+            "valor": ""
+        },
+        {
+            "key": "paletas/ruinas",
+            "valor": ""
+        },
+        {
+            "key": "paletas/ruinas1",
+            "valor": ""
+        },
+        {
+            "key": "paletas/ruinas2",
+            "valor": ""
+        },
+        {
+            "key": "paletas/ruinas3",
+            "valor": ""
+        },
+        {
+            "key": "paletas/ruinas4",
+            "valor": ""
+        },
+        {
+            "key": "paletas/steam_web",
+            "valor": ""
+        },
+        {
+            "key": "paletas/steampunk1",
+            "valor": ""
+        },
+        {
+            "key": "paletas/steampunk2",
+            "valor": ""
+        },
+        {
+            "key": "paletas/steampunk3",
+            "valor": ""
+        },
+        {
+            "key": "paletas/urbano1",
+            "valor": ""
+        },
+        {
+            "key": "paletas/urbano2",
+            "valor": ""
+        },
+        {
+            "key": "paletas/urbano3",
+            "valor": ""
+        },
+        {
+            "key": "paletas/urbano4",
+            "valor": ""
+        },
+        {
+            "key": "paletas/urbano5",
+            "valor": ""
+        },
+        {
+            "key": "paletas/urbano6",
+            "valor": ""
+        },
+        {
+            "key": "paletas/urbano-cyberpunk",
+            "valor": ""
         }
     ]
 }

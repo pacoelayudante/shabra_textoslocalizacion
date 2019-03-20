@@ -542,6 +542,314 @@
         {
             "key": "config/sinpowerups",
             "valor": "Lalalala"
+        },
+        {
+            "key": "powerup/superdash",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "powerup/superdash_tip",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "powerup/decoy",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "powerup/decoy_tip",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "powerup/reveal",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "powerup/reveal_tip",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "powerup/blink",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "powerup/blink_tip",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "powerup/shield",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "powerup/shield_tip",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "powerup/slowmo",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "powerup/slowmo_tip",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/urbano_bar_single1",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/urbano_ventanas_single2",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/urbano_barco_single3",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/urbano_reydelacolina_single4",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/urbano_apartamento_single5",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/urbano_helicoptero_single6",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/ruinas_casaconpozo_single1",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/ruinas_orientalshit_single2",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/ruinas_torres_single3",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/ruinas_quilombo_single4",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/cyberpunk_oficina_single1",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/cyberpunk_callejonyratis_single2",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/cyberpunk_callejon_single3",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/cyberpunk_autos2_single4",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/nature_casita_single1",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/nature_quincho_single2",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/nature_pozosycolumnas_single3",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/nature_cueva_single4",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/steampunk_pistones_single1",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/steampunk_cuadrado_single2",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/steampunk_l_single3",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/steampunk_caniosmovedizos_single4",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/calabozo_drenajes_single1",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/calabozo_jaulacalavera_single2",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/calabozo_fabrik_single3",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "niveles/calabozo_pacman_single4",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/calabozo1",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/calabozo2",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/calabozo3",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/calabozo4",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/cyberpunk",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/cyberpunk1",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/cyberpunk2",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/cyberpunk3",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/cyberpunk4",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/cyberpunk5",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/cyberpunk6",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/byn",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/nature",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/nature1",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/nature2",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/nature3",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/nature4",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/nature5",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/nature6",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/nature7",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/nature8",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/paleta_test_10",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/ruinas_o_no",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/ruinas",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/ruinas1",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/ruinas2",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/ruinas3",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/ruinas4",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/steam_web",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/steampunk1",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/steampunk2",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/steampunk3",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/urbano1",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/urbano2",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/urbano3",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/urbano4",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/urbano5",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/urbano6",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "paletas/urbano-cyberpunk",
+            "valor": "Lalalala"
         }
     ]
 }
