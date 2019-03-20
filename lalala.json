@@ -850,6 +850,22 @@
         {
             "key": "paletas/urbano-cyberpunk",
             "valor": "Lalalala"
+        },
+        {
+            "key": "generales/rematch",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "generales/mode_select",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "generales/negative",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "generales/preguntar_quitar_lobby",
+            "valor": "Lalalala"
         }
     ]
 }

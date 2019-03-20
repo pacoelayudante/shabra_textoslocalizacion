@@ -850,6 +850,22 @@
         {
             "key": "paletas/urbano-cyberpunk",
             "valor": ""
+        },
+        {
+            "key": "generales/rematch",
+            "valor": ""
+        },
+        {
+            "key": "generales/mode_select",
+            "valor": ""
+        },
+        {
+            "key": "generales/negative",
+            "valor": "Nop"
+        },
+        {
+            "key": "generales/preguntar_quitar_lobby",
+            "valor": ""
         }
     ]
 }
