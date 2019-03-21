@@ -717,143 +717,143 @@
         },
         {
             "key": "paletas/calabozo1",
-            "valor": "Time"
+            "valor": "Blood Nightmare"
         },
         {
             "key": "paletas/calabozo2",
-            "valor": "Ice"
-        },
-        {
-            "key": "paletas/calabozo3",
-            "valor": "Night"
-        },
-        {
-            "key": "paletas/calabozo4",
-            "valor": "Egypt/Faraon"
-        },
-        {
-            "key": "paletas/cyberpunk",
-            "valor": ""
-        },
-        {
-            "key": "paletas/cyberpunk1",
-            "valor": ""
-        },
-        {
-            "key": "paletas/cyberpunk2",
-            "valor": ""
-        },
-        {
-            "key": "paletas/cyberpunk3",
-            "valor": ""
-        },
-        {
-            "key": "paletas/cyberpunk4",
-            "valor": ""
-        },
-        {
-            "key": "paletas/cyberpunk5",
-            "valor": "Blue Ray "
-        },
-        {
-            "key": "paletas/cyberpunk6",
-            "valor": "Green wave"
-        },
-        {
-            "key": "paletas/byn",
-            "valor": ""
-        },
-        {
-            "key": "paletas/nature",
-            "valor": "Fresh"
-        },
-        {
-            "key": "paletas/nature1",
-            "valor": ""
-        },
-        {
-            "key": "paletas/nature2",
-            "valor": "Night winter nigh"
-        },
-        {
-            "key": "paletas/nature3",
-            "valor": "Winter Mood"
-        },
-        {
-            "key": "paletas/nature4",
-            "valor": ""
-        },
-        {
-            "key": "paletas/nature5",
-            "valor": ""
-        },
-        {
-            "key": "paletas/nature6",
-            "valor": "Spring "
-        },
-        {
-            "key": "paletas/nature7",
-            "valor": ""
-        },
-        {
-            "key": "paletas/nature8",
-            "valor": "Dry Automn"
-        },
-        {
-            "key": "paletas/paleta_test_10",
-            "valor": "Berenjena"
-        },
-        {
-            "key": "paletas/ruinas_o_no",
-            "valor": "Memory"
-        },
-        {
-            "key": "paletas/ruinas",
-            "valor": "Reborn (verdocito)"
-        },
-        {
-            "key": "paletas/ruinas1",
-            "valor": "Clay"
-        },
-        {
-            "key": "paletas/ruinas2",
-            "valor": "Heart of Culture Blood"
-        },
-        {
-            "key": "paletas/ruinas3",
-            "valor": "Spring Pink"
-        },
-        {
-            "key": "paletas/ruinas4",
-            "valor": "Old automn"
-        },
-        {
-            "key": "paletas/steam_web",
-            "valor": ""
-        },
-        {
-            "key": "paletas/steampunk1",
-            "valor": ""
-        },
-        {
-            "key": "paletas/steampunk2",
             "valor": "Oxide"
         },
         {
-            "key": "paletas/steampunk3",
+            "key": "paletas/calabozo3",
+            "valor": "Cold fear"
+        },
+        {
+            "key": "paletas/calabozo4",
+            "valor": "Stinky"
+        },
+        {
+            "key": "paletas/cyberpunk",
+            "valor": "Chocolate Limón"
+        },
+        {
+            "key": "paletas/cyberpunk1",
+            "valor": "Neon Night"
+        },
+        {
+            "key": "paletas/cyberpunk2",
+            "valor": "Green Wave"
+        },
+        {
+            "key": "paletas/cyberpunk3",
+            "valor": "Nuclear winter"
+        },
+        {
+            "key": "paletas/cyberpunk4",
+            "valor": "Crema del cielo"
+        },
+        {
+            "key": "paletas/cyberpunk5",
+            "valor": "Elegant "
+        },
+        {
+            "key": "paletas/cyberpunk6",
+            "valor": "Vanilla parade"
+        },
+        {
+            "key": "paletas/byn",
+            "valor": "Gris"
+        },
+        {
+            "key": "paletas/nature",
+            "valor": "Guasacaca"
+        },
+        {
+            "key": "paletas/nature1",
+            "valor": "Orange Strong"
+        },
+        {
+            "key": "paletas/nature2",
+            "valor": "Pink Spirit"
+        },
+        {
+            "key": "paletas/nature3",
+            "valor": "Strawberry Feels"
+        },
+        {
+            "key": "paletas/nature4",
+            "valor": "Olive tree"
+        },
+        {
+            "key": "paletas/nature5",
+            "valor": "Cherry Blossom"
+        },
+        {
+            "key": "paletas/nature6",
+            "valor": "Banana Split"
+        },
+        {
+            "key": "paletas/nature7",
+            "valor": "Pink juice"
+        },
+        {
+            "key": "paletas/nature8",
+            "valor": "Winter night"
+        },
+        {
+            "key": "paletas/paleta_test_10",
+            "valor": "Ultraviolet"
+        },
+        {
+            "key": "paletas/ruinas_o_no",
+            "valor": "Remember"
+        },
+        {
+            "key": "paletas/ruinas",
+            "valor": "Stone"
+        },
+        {
+            "key": "paletas/ruinas1",
+            "valor": "Old Lemon Tree"
+        },
+        {
+            "key": "paletas/ruinas2",
+            "valor": "Egypt"
+        },
+        {
+            "key": "paletas/ruinas3",
+            "valor": "Romantic Sxxt"
+        },
+        {
+            "key": "paletas/ruinas4",
+            "valor": "Moho"
+        },
+        {
+            "key": "paletas/steam_web",
+            "valor": "Steam"
+        },
+        {
+            "key": "paletas/steampunk1",
+            "valor": "Toxic"
+        },
+        {
+            "key": "paletas/steampunk2",
             "valor": "Sulfur"
         },
         {
+            "key": "paletas/steampunk3",
+            "valor": "Oxide"
+        },
+        {
             "key": "paletas/urbano1",
-            "valor": "Ham Romance"
+            "valor": "Old Town"
         },
         {
             "key": "paletas/urbano2",
-            "valor": "Crema del Cielo"
+            "valor": "Tango"
         },
         {
             "key": "paletas/urbano3",
-            "valor": "Picnic Evening"
+            "valor": "Serious colour"
         },
         {
             "key": "paletas/urbano4",
@@ -861,15 +861,15 @@
         },
         {
             "key": "paletas/urbano5",
-            "valor": ""
+            "valor": "MintBlue"
         },
         {
             "key": "paletas/urbano6",
-            "valor": "Steam"
+            "valor": "Tomato Blood"
         },
         {
             "key": "paletas/urbano-cyberpunk",
-            "valor": "Guasacaca"
+            "valor": "Mystery"
         },
         {
             "key": "generales/rematch",

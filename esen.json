@@ -725,7 +725,7 @@
         },
         {
             "key": "paletas/calabozo3",
-            "valor": ""
+            "valor": "Cold fear"
         },
         {
             "key": "paletas/calabozo4",
@@ -733,11 +733,11 @@
         },
         {
             "key": "paletas/cyberpunk",
-            "valor": ""
+            "valor": "Chocolate Limón"
         },
         {
             "key": "paletas/cyberpunk1",
-            "valor": "Chocolate Limón"
+            "valor": "Neon Night"
         },
         {
             "key": "paletas/cyberpunk2",
@@ -749,39 +749,39 @@
         },
         {
             "key": "paletas/cyberpunk4",
-            "valor": "Flúor Future is celeste"
+            "valor": "Crema del cielo"
         },
         {
             "key": "paletas/cyberpunk5",
-            "valor": ""
+            "valor": "Elegant "
         },
         {
             "key": "paletas/cyberpunk6",
-            "valor": ""
+            "valor": "Vanilla parade"
         },
         {
             "key": "paletas/byn",
-            "valor": "BYN"
+            "valor": "Gris"
         },
         {
             "key": "paletas/nature",
-            "valor": ""
+            "valor": "Guasacaca"
         },
         {
             "key": "paletas/nature1",
-            "valor": "Automn Strong"
+            "valor": "Orange Strong"
         },
         {
             "key": "paletas/nature2",
-            "valor": ""
+            "valor": "Pink Spirit"
         },
         {
             "key": "paletas/nature3",
-            "valor": "Strawberry Picnic"
+            "valor": "Strawberry Feels"
         },
         {
             "key": "paletas/nature4",
-            "valor": "August"
+            "valor": "Olive tree"
         },
         {
             "key": "paletas/nature5",
@@ -789,19 +789,19 @@
         },
         {
             "key": "paletas/nature6",
-            "valor": ""
+            "valor": "Banana Split"
         },
         {
             "key": "paletas/nature7",
-            "valor": ""
+            "valor": "Pink juice"
         },
         {
             "key": "paletas/nature8",
-            "valor": ""
+            "valor": "Winter night"
         },
         {
             "key": "paletas/paleta_test_10",
-            "valor": "Ultravviolet"
+            "valor": "Ultraviolet"
         },
         {
             "key": "paletas/ruinas_o_no",
@@ -809,11 +809,11 @@
         },
         {
             "key": "paletas/ruinas",
-            "valor": "Piedra"
+            "valor": "Stone"
         },
         {
             "key": "paletas/ruinas1",
-            "valor": "Old Lemon Hill"
+            "valor": "Old Lemon Tree"
         },
         {
             "key": "paletas/ruinas2",
@@ -821,11 +821,11 @@
         },
         {
             "key": "paletas/ruinas3",
-            "valor": ""
+            "valor": "Romantic Sxxt"
         },
         {
             "key": "paletas/ruinas4",
-            "valor": ""
+            "valor": "Moho"
         },
         {
             "key": "paletas/steam_web",
@@ -837,11 +837,11 @@
         },
         {
             "key": "paletas/steampunk2",
-            "valor": ""
+            "valor": "Sulfur"
         },
         {
             "key": "paletas/steampunk3",
-            "valor": ""
+            "valor": "Oxide"
         },
         {
             "key": "paletas/urbano1",
@@ -849,7 +849,7 @@
         },
         {
             "key": "paletas/urbano2",
-            "valor": "Nocturne vision/ tango"
+            "valor": "Tango"
         },
         {
             "key": "paletas/urbano3",
@@ -857,7 +857,7 @@
         },
         {
             "key": "paletas/urbano4",
-            "valor": ""
+            "valor": "Under Zero"
         },
         {
             "key": "paletas/urbano5",
@@ -865,7 +865,7 @@
         },
         {
             "key": "paletas/urbano6",
-            "valor": ""
+            "valor": "Tomato Blood"
         },
         {
             "key": "paletas/urbano-cyberpunk",
@@ -937,15 +937,15 @@
         },
         {
             "key": "generales/replay",
-            "valor": ""
+            "valor": "Replay"
         },
         {
             "key": "generales/camaralenta",
-            "valor": ""
+            "valor": "Slow motion"
         },
         {
             "key": "unlocked/modo",
-            "valor": ""
+            "valor": "Nuevo modo unlocked!"
         }
     ]
 }

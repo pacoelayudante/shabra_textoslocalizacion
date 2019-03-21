@@ -717,159 +717,159 @@
         },
         {
             "key": "paletas/calabozo1",
-            "valor": ""
+            "valor": "Blood Nightmare"
         },
         {
             "key": "paletas/calabozo2",
-            "valor": ""
+            "valor": "Oxide"
         },
         {
             "key": "paletas/calabozo3",
-            "valor": ""
+            "valor": "Cold fear"
         },
         {
             "key": "paletas/calabozo4",
-            "valor": ""
+            "valor": "Stinky"
         },
         {
             "key": "paletas/cyberpunk",
-            "valor": ""
+            "valor": "Chocolate Limón"
         },
         {
             "key": "paletas/cyberpunk1",
-            "valor": ""
+            "valor": "Neon Night"
         },
         {
             "key": "paletas/cyberpunk2",
-            "valor": ""
+            "valor": "Green Wave"
         },
         {
             "key": "paletas/cyberpunk3",
-            "valor": ""
+            "valor": "Nuclear winter"
         },
         {
             "key": "paletas/cyberpunk4",
-            "valor": ""
+            "valor": "Crema del cielo"
         },
         {
             "key": "paletas/cyberpunk5",
-            "valor": ""
+            "valor": "Elegant "
         },
         {
             "key": "paletas/cyberpunk6",
-            "valor": ""
+            "valor": "Vanilla parade"
         },
         {
             "key": "paletas/byn",
-            "valor": ""
+            "valor": "Gris"
         },
         {
             "key": "paletas/nature",
-            "valor": ""
+            "valor": "Guasacaca"
         },
         {
             "key": "paletas/nature1",
-            "valor": ""
+            "valor": "Orange Strong"
         },
         {
             "key": "paletas/nature2",
-            "valor": ""
+            "valor": "Pink Spirit"
         },
         {
             "key": "paletas/nature3",
-            "valor": ""
+            "valor": "Strawberry Feels"
         },
         {
             "key": "paletas/nature4",
-            "valor": ""
+            "valor": "Olive tree"
         },
         {
             "key": "paletas/nature5",
-            "valor": ""
+            "valor": "Cherry Blossom"
         },
         {
             "key": "paletas/nature6",
-            "valor": ""
+            "valor": "Banana Split"
         },
         {
             "key": "paletas/nature7",
-            "valor": ""
+            "valor": "Pink juice"
         },
         {
             "key": "paletas/nature8",
-            "valor": ""
+            "valor": "Winter night"
         },
         {
             "key": "paletas/paleta_test_10",
-            "valor": ""
+            "valor": "Ultraviolet"
         },
         {
             "key": "paletas/ruinas_o_no",
-            "valor": ""
+            "valor": "Remember"
         },
         {
             "key": "paletas/ruinas",
-            "valor": ""
+            "valor": "Stone"
         },
         {
             "key": "paletas/ruinas1",
-            "valor": ""
+            "valor": "Old Lemon Tree"
         },
         {
             "key": "paletas/ruinas2",
-            "valor": "Sepia"
+            "valor": "Egypt"
         },
         {
             "key": "paletas/ruinas3",
-            "valor": ""
+            "valor": "Romantic Sxxt"
         },
         {
             "key": "paletas/ruinas4",
-            "valor": ""
+            "valor": "Moho"
         },
         {
             "key": "paletas/steam_web",
-            "valor": ""
+            "valor": "Steam"
         },
         {
             "key": "paletas/steampunk1",
-            "valor": ""
+            "valor": "Toxic"
         },
         {
             "key": "paletas/steampunk2",
-            "valor": ""
+            "valor": "Sulfur"
         },
         {
             "key": "paletas/steampunk3",
-            "valor": ""
+            "valor": "Oxide"
         },
         {
             "key": "paletas/urbano1",
-            "valor": ""
+            "valor": "Old Town"
         },
         {
             "key": "paletas/urbano2",
-            "valor": ""
+            "valor": "Tango"
         },
         {
             "key": "paletas/urbano3",
-            "valor": ""
+            "valor": "Serious colour"
         },
         {
             "key": "paletas/urbano4",
-            "valor": ""
+            "valor": "Under Zero"
         },
         {
             "key": "paletas/urbano5",
-            "valor": ""
+            "valor": "MintBlue"
         },
         {
             "key": "paletas/urbano6",
-            "valor": ""
+            "valor": "Tomato Blood"
         },
         {
             "key": "paletas/urbano-cyberpunk",
-            "valor": ""
+            "valor": "Mystery"
         },
         {
             "key": "generales/rematch",
@@ -937,15 +937,15 @@
         },
         {
             "key": "generales/replay",
-            "valor": ""
+            "valor": "Repetir"
         },
         {
             "key": "generales/camaralenta",
-            "valor": ""
+            "valor": "Cámara lenta"
         },
         {
             "key": "unlocked/modo",
-            "valor": ""
+            "valor": "Nuevo Modo Desbloqueado!"
         }
     ]
 }
