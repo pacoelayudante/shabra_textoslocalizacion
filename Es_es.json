@@ -949,7 +949,7 @@
         },
         {
             "key": "generales/coming_soon",
-            "valor": "Coming soon"
+            "valor": "Proximamente"
         },
         {
             "key": "generales/coming_soon_descrip",
@@ -958,6 +958,10 @@
         {
             "key": "generales/bloqueado_descrip",
             "valor": "??????????"
+        },
+        {
+            "key": "arma/basica",
+            "valor": "Basica"
         }
     ]
 }

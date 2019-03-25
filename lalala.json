@@ -958,6 +958,10 @@
         {
             "key": "generales/bloqueado_descrip",
             "valor": "Lalalala"
+        },
+        {
+            "key": "arma/basica",
+            "valor": "Lalalala"
         }
     ]
 }
