@@ -946,6 +946,18 @@
         {
             "key": "unlocked/modo",
             "valor": "Lalalala"
+        },
+        {
+            "key": "generales/coming_soon",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "generales/coming_soon_descrip",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "generales/bloqueado_descrip",
+            "valor": "Lalalala"
         }
     ]
 }

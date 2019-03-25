@@ -877,7 +877,7 @@
         },
         {
             "key": "generales/mode_select",
-            "valor": "Select"
+            "valor": "Mode Select"
         },
         {
             "key": "generales/negative",
@@ -946,6 +946,18 @@
         {
             "key": "unlocked/modo",
             "valor": "Nuevo modo unlocked!"
+        },
+        {
+            "key": "generales/coming_soon",
+            "valor": "Proximamente"
+        },
+        {
+            "key": "generales/coming_soon_descrip",
+            "valor": "This mode will be unlockeable in the upcoming weeks"
+        },
+        {
+            "key": "generales/bloqueado_descrip",
+            "valor": "??????????"
         }
     ]
 }
