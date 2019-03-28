@@ -36,24 +36,12 @@
             "valor": "Volver"
         },
         {
-            "key": "multiplayer/metegol",
-            "valor": "Metegol"
-        },
-        {
             "key": "multiplayer/cazare",
             "valor": "Combate"
         },
         {
-            "key": "multiplayer/cuchillas",
-            "valor": "Sierras"
-        },
-        {
             "key": "multiplayer/ladron",
             "valor": "El Atraco"
-        },
-        {
-            "key": "multiplayer/lamancha",
-            "valor": "La Mancha"
         },
         {
             "key": "multiplayer/matamata",
@@ -64,24 +52,12 @@
             "valor": "Porta luz"
         },
         {
-            "key": "multiplayer/metegol_descrip",
-            "valor": "Toma la pelota y llévala hasta al arco contrario"
-        },
-        {
             "key": "multiplayer/deathmatch_descrip",
             "valor": "Elimina a tus oponentes para ganar puntos"
         },
         {
-            "key": "multiplayer/cuchillas_descrip",
-            "valor": "Si te mata otro jugador, reapareces. Si te alcanza una cuchilla, quedas eliminado."
-        },
-        {
             "key": "multiplayer/ladron_descrip",
             "valor": "Como ladrón, atrapa los 3 cristales. Como guardia, elimina al ladrón"
-        },
-        {
-            "key": "multiplayer/lamancha_descrip",
-            "valor": "Si eres La Mancha, atrapa a alguien más antes de que se acabe tu tiempo. Si no lo eres, toma los cristales para ganar puntos"
         },
         {
             "key": "multiplayer/matamata_descrip",
@@ -125,15 +101,15 @@
         },
         {
             "key": "personajes/cholita",
-            "valor": "Cholita"
+            "valor": "Juanita"
         },
         {
             "key": "personajes/noir",
-            "valor": "R. Conway"
+            "valor": "Noir"
         },
         {
             "key": "personajes/samurai",
-            "valor": "Samurai"
+            "valor": "Ishimine"
         },
         {
             "key": "personajes/ayu",
@@ -721,7 +697,7 @@
         },
         {
             "key": "paletas/calabozo2",
-            "valor": "Oxide"
+            "valor": "Monoxide"
         },
         {
             "key": "paletas/calabozo3",
@@ -793,7 +769,7 @@
         },
         {
             "key": "paletas/nature7",
-            "valor": "Pink juice"
+            "valor": "Magenta juice"
         },
         {
             "key": "paletas/nature8",
@@ -861,7 +837,7 @@
         },
         {
             "key": "paletas/urbano5",
-            "valor": "MintBlue"
+            "valor": "BlueMint"
         },
         {
             "key": "paletas/urbano6",

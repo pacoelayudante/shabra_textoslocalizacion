@@ -9,7 +9,7 @@
         },
         {
             "key": "portada/solo",
-            "valor": "Training"
+            "valor": "Challenge"
         },
         {
             "key": "portada/options",
@@ -36,24 +36,12 @@
             "valor": "Back"
         },
         {
-            "key": "multiplayer/metegol",
-            "valor": "Fulbito"
-        },
-        {
             "key": "multiplayer/cazare",
             "valor": "Death Match"
         },
         {
-            "key": "multiplayer/cuchillas",
-            "valor": "Vendetta Saws"
-        },
-        {
             "key": "multiplayer/ladron",
             "valor": "The Heist"
-        },
-        {
-            "key": "multiplayer/lamancha",
-            "valor": "La Mancha"
         },
         {
             "key": "multiplayer/matamata",
@@ -64,24 +52,12 @@
             "valor": "King Of The Light"
         },
         {
-            "key": "multiplayer/metegol_descrip",
-            "valor": "Grab the ball and drop it in the opposing team’s flag"
-        },
-        {
             "key": "multiplayer/deathmatch_descrip",
             "valor": "Hunt your opponents to win points"
         },
         {
-            "key": "multiplayer/cuchillas_descrip",
-            "valor": "If another player kills you, you respawn\r\nIf a saw kills you, you’re done\r"
-        },
-        {
             "key": "multiplayer/ladron_descrip",
-            "valor": "As thief, snatch the 3 crystals\r\nAs hunter, eliminate the thief\r"
-        },
-        {
-            "key": "multiplayer/lamancha_descrip",
-            "valor": "Get La Mancha off before running out of time\r\nIf you are not La Mancha, get crystals for points\r"
+            "valor": "As thief, snatch the 3 cages\nAs hunter, eliminate the thief\n"
         },
         {
             "key": "multiplayer/matamata_descrip",
@@ -125,15 +101,15 @@
         },
         {
             "key": "personajes/cholita",
-            "valor": "Cholita"
+            "valor": "Juanita"
         },
         {
             "key": "personajes/noir",
-            "valor": "R. Conway"
+            "valor": "Noir"
         },
         {
             "key": "personajes/samurai",
-            "valor": "Samurai"
+            "valor": "Ishimine"
         },
         {
             "key": "personajes/ayu",
@@ -221,7 +197,7 @@
         },
         {
             "key": "graficos/paletacicla",
-            "valor": "Auto Cycling Pallettes"
+            "valor": "Auto Cycling Palettes"
         },
         {
             "key": "graficos/fullscreen",
@@ -369,7 +345,7 @@
         },
         {
             "key": "arma/katana_tip",
-            "valor": "press DASH to samurai slash"
+            "valor": "press dash to samurai slash"
         },
         {
             "key": "arma/shuriken",
@@ -493,7 +469,7 @@
         },
         {
             "key": "config/cantpowerupmin",
-            "valor": "Number of Power Ups"
+            "valor": "Number of PowerUps"
         },
         {
             "key": "config/luceson",
@@ -721,7 +697,7 @@
         },
         {
             "key": "paletas/calabozo2",
-            "valor": "Oxide"
+            "valor": "Monoxide"
         },
         {
             "key": "paletas/calabozo3",
@@ -749,7 +725,7 @@
         },
         {
             "key": "paletas/cyberpunk4",
-            "valor": "Crema del cielo"
+            "valor": "Sky Cream"
         },
         {
             "key": "paletas/cyberpunk5",
@@ -793,7 +769,7 @@
         },
         {
             "key": "paletas/nature7",
-            "valor": "Pink juice"
+            "valor": "Magenta juice"
         },
         {
             "key": "paletas/nature8",
@@ -861,7 +837,7 @@
         },
         {
             "key": "paletas/urbano5",
-            "valor": "MintBlue"
+            "valor": "Blue Mint"
         },
         {
             "key": "paletas/urbano6",
@@ -953,7 +929,7 @@
         },
         {
             "key": "generales/coming_soon_descrip",
-            "valor": "This mode will be unlockeable in the upcoming weeks"
+            "valor": "This mode will be unlockable in the upcoming weeks"
         },
         {
             "key": "generales/bloqueado_descrip",

@@ -36,24 +36,12 @@
             "valor": "Backear"
         },
         {
-            "key": "multiplayer/metegol",
-            "valor": "Fulbito"
-        },
-        {
             "key": "multiplayer/cazare",
             "valor": "Death Match"
         },
         {
-            "key": "multiplayer/cuchillas",
-            "valor": "Vendetta Saws"
-        },
-        {
             "key": "multiplayer/ladron",
             "valor": "The Heist"
-        },
-        {
-            "key": "multiplayer/lamancha",
-            "valor": "La Mancha"
         },
         {
             "key": "multiplayer/matamata",
@@ -64,24 +52,12 @@
             "valor": "King Of The Light"
         },
         {
-            "key": "multiplayer/metegol_descrip",
-            "valor": "Toma la pelota y llévala hasta el arco del otro Team"
-        },
-        {
             "key": "multiplayer/deathmatch_descrip",
             "valor": "Hunt your opponents to win points"
         },
         {
-            "key": "multiplayer/cuchillas_descrip",
-            "valor": "If another player kills you, you respawn\r\nIf a saw kills you, you’re done\r"
-        },
-        {
             "key": "multiplayer/ladron_descrip",
             "valor": "Como ladrón, libera las 3 jaulas. Como guardia, elimina al ladrón\n"
-        },
-        {
-            "key": "multiplayer/lamancha_descrip",
-            "valor": "Get La Mancha off before running out of time\r\nIf you are not La Mancha, get crystals for points\r"
         },
         {
             "key": "multiplayer/matamata_descrip",
@@ -125,15 +101,15 @@
         },
         {
             "key": "personajes/cholita",
-            "valor": "Cholita"
+            "valor": "Juanita"
         },
         {
             "key": "personajes/noir",
-            "valor": "R. Conway"
+            "valor": "Noir"
         },
         {
             "key": "personajes/samurai",
-            "valor": "Samurai"
+            "valor": "Ishimine"
         },
         {
             "key": "personajes/ayu",
@@ -721,7 +697,7 @@
         },
         {
             "key": "paletas/calabozo2",
-            "valor": "Oxide"
+            "valor": "Monoxide"
         },
         {
             "key": "paletas/calabozo3",
@@ -793,7 +769,7 @@
         },
         {
             "key": "paletas/nature7",
-            "valor": "Pink juice"
+            "valor": "Magenta juice"
         },
         {
             "key": "paletas/nature8",
@@ -861,7 +837,7 @@
         },
         {
             "key": "paletas/urbano5",
-            "valor": "MintBlue"
+            "valor": "BlueMint"
         },
         {
             "key": "paletas/urbano6",
