@@ -1,55 +1,55 @@
 {
-    "id": "English",
+    "id": "中國",
     "rightToLeft": false,
     "tipografia": "",
     "textosEditables": [
         {
             "key": "portada/multiplayer",
-            "valor": "Multiplayer"
+            "valor": "多人"
         },
         {
             "key": "portada/solo",
-            "valor": "Challenge"
+            "valor": "挑战"
         },
         {
             "key": "portada/options",
-            "valor": "Options"
+            "valor": "选项"
         },
         {
             "key": "portada/credits",
-            "valor": "Credits"
+            "valor": "积分"
         },
         {
             "key": "portada/exit",
-            "valor": "Quit"
+            "valor": "放弃"
         },
         {
             "key": "generales/confirm",
-            "valor": "Ok"
+            "valor": "好"
         },
         {
             "key": "generales/select",
-            "valor": "Select"
+            "valor": "选择"
         },
         {
             "key": "generales/back",
-            "valor": "Back"
+            "valor": "背部"
         },
         {
             "key": "multiplayer/cazare",
-            "valor": "Death Match"
+            "valor": "死亡竞赛"
         },
         {
             "key": "multiplayer/ladron",
-            "valor": "The Heist"
+            "valor": "抢劫"
         },
         {
             "key": "multiplayer/matamata",
-            "valor": "Mata-Mata"
+            "valor": "马塔，马塔"
         },
         {
             "key": "multiplayer/portaluz",
-            "valor": "King Of The Light"
+            "valor": "王之光"
         },
         {
             "key": "multiplayer/deathmatch_descrip",
@@ -69,11 +69,11 @@
         },
         {
             "key": "generales/join",
-            "valor": "Join"
+            "valor": "加入"
         },
         {
             "key": "generales/color",
-            "valor": "Color"
+            "valor": "颜色"
         },
         {
             "key": "personajes/shadowsis",
@@ -133,63 +133,63 @@
         },
         {
             "key": "mundos/urbano",
-            "valor": "Urban"
+            "valor": "城市的"
         },
         {
             "key": "mundos/dungeon",
-            "valor": "Dungeon"
+            "valor": "地下城"
         },
         {
             "key": "mundos/cyberpunk",
-            "valor": "Cyberpunk"
+            "valor": "庞克"
         },
         {
             "key": "mundos/steampunk",
-            "valor": "Steampunk"
+            "valor": "蒸汽朋克"
         },
         {
             "key": "mundos/naturaleza",
-            "valor": "Nature"
+            "valor": "性质"
         },
         {
             "key": "mundos/ruinas",
-            "valor": "Ruins"
+            "valor": "废墟"
         },
         {
             "key": "generales/start",
-            "valor": "Start"
+            "valor": "开始"
         },
         {
             "key": "generales/resume",
-            "valor": "Resume"
+            "valor": "恢复"
         },
         {
             "key": "opciones/audio",
-            "valor": "Audio"
+            "valor": "音频"
         },
         {
             "key": "opciones/graficos",
-            "valor": "Graphics"
+            "valor": "图像"
         },
         {
             "key": "opciones/paletas",
-            "valor": "Palettes"
+            "valor": "调色板"
         },
         {
             "key": "opciones/controles",
-            "valor": "Controls"
+            "valor": "控制"
         },
         {
             "key": "opciones/idioma",
-            "valor": "Language"
+            "valor": "语言"
         },
         {
             "key": "audio/musica",
-            "valor": "Music"
+            "valor": "音乐"
         },
         {
             "key": "audio/sfx",
-            "valor": "Sound Effects"
+            "valor": "声音特效"
         },
         {
             "key": "graficos/paletacicla",
@@ -197,103 +197,103 @@
         },
         {
             "key": "graficos/fullscreen",
-            "valor": "Fullscreen"
+            "valor": "全屏"
         },
         {
             "key": "graficos/calidad",
-            "valor": "Quality"
+            "valor": "质量"
         },
         {
             "key": "graficos/gama",
-            "valor": "Gamma"
+            "valor": "伽玛"
         },
         {
             "key": "graficos/resolucion",
-            "valor": "Resolution"
+            "valor": "解析度"
         },
         {
             "key": "controles/teclado",
-            "valor": "Keyboard"
+            "valor": "键盘"
         },
         {
             "key": "controles/pad",
-            "valor": "Gamepad"
+            "valor": "游戏手柄"
         },
         {
             "key": "controles/saltar",
-            "valor": "Jump"
+            "valor": "跳"
         },
         {
             "key": "controles/atacar",
-            "valor": "Attack"
+            "valor": "攻击"
         },
         {
             "key": "controles/escudar",
-            "valor": "Parry"
+            "valor": "帕里"
         },
         {
             "key": "controles/dash",
-            "valor": "Dash"
+            "valor": "短跑"
         },
         {
             "key": "controles/camuflar",
-            "valor": "Colorshift"
+            "valor": "色移"
         },
         {
             "key": "controles/bailar",
-            "valor": "Dance"
+            "valor": "舞蹈"
         },
         {
             "key": "controles/reset",
-            "valor": "Reset"
+            "valor": "重启"
         },
         {
             "key": "generales/team",
-            "valor": "Team"
+            "valor": "球队"
         },
         {
             "key": "mensajes/equiposinvalidados",
-            "valor": "Invalid team configuration"
+            "valor": "无效的团队配置"
         },
         {
             "key": "generales/pausa",
-            "valor": "Pause"
+            "valor": "暂停"
         },
         {
             "key": "generales/menu",
-            "valor": "Menu"
+            "valor": "菜单"
         },
         {
             "key": "generales/restart",
-            "valor": "Restart"
+            "valor": "重新开始"
         },
         {
             "key": "generales/continuar",
-            "valor": "Continue"
+            "valor": "继续"
         },
         {
             "key": "controles/alternativo",
-            "valor": " (Alt)"
+            "valor": " （ALT）"
         },
         {
             "key": "controles/pausa",
-            "valor": "Pause"
+            "valor": "暂停"
         },
         {
             "key": "controles/aceptar",
-            "valor": "Accept"
+            "valor": "接受"
         },
         {
             "key": "controles/volver",
-            "valor": "Cancel"
+            "valor": "取消"
         },
         {
             "key": "controles/configuracion",
-            "valor": "Configuration"
+            "valor": "组态"
         },
         {
             "key": "inputdevice/teclado",
-            "valor": "Keyboard"
+            "valor": "键盘"
         },
         {
             "key": "inputdevice/xinput",
@@ -305,39 +305,39 @@
         },
         {
             "key": "controles/arriba",
-            "valor": "Up"
+            "valor": "向上"
         },
         {
             "key": "controles/derecha",
-            "valor": "Right"
+            "valor": "对"
         },
         {
             "key": "controles/abajo",
-            "valor": "Down"
+            "valor": "下"
         },
         {
             "key": "controles/izquierda",
-            "valor": "Left"
+            "valor": "剩下"
         },
         {
             "key": "mundos/tutorial",
-            "valor": "Tutorial"
+            "valor": "教程"
         },
         {
             "key": "controles/recargar",
-            "valor": "Undo"
+            "valor": "解开"
         },
         {
             "key": "generales/cargando",
-            "valor": "Loading..."
+            "valor": "载入中..."
         },
         {
             "key": "graficos/vsync",
-            "valor": "V Sync"
+            "valor": "V同步"
         },
         {
             "key": "arma/katana",
-            "valor": "Katana"
+            "valor": "武士刀"
         },
         {
             "key": "arma/katana_tip",
@@ -345,7 +345,7 @@
         },
         {
             "key": "arma/shuriken",
-            "valor": "Shuriken"
+            "valor": "手里剑"
         },
         {
             "key": "arma/shuriken_tip",
@@ -353,7 +353,7 @@
         },
         {
             "key": "arma/arco",
-            "valor": "Bow"
+            "valor": "弓"
         },
         {
             "key": "arma/arco_tip",
@@ -369,7 +369,7 @@
         },
         {
             "key": "arma/latigo",
-            "valor": "Whip"
+            "valor": "鞭子"
         },
         {
             "key": "arma/latigo_tip",
@@ -377,7 +377,7 @@
         },
         {
             "key": "arma/mazo",
-            "valor": "Power Hammer"
+            "valor": "动力锤"
         },
         {
             "key": "arma/mazo_tip",
@@ -393,123 +393,123 @@
         },
         {
             "key": "unlocked/world",
-            "valor": "World Unlocked"
+            "valor": "世界解锁"
         },
         {
             "key": "unlocked/character",
-            "valor": "Character Unlocked"
+            "valor": "人物解锁"
         },
         {
             "key": "unlocked/weapon",
-            "valor": "Weapon Unlocked"
+            "valor": "武器解锁"
         },
         {
             "key": "unlocked/powerup",
-            "valor": "Power Up Unlocked"
+            "valor": "上电解锁"
         },
         {
             "key": "graficos/postprocessing",
-            "valor": "Post Processing"
+            "valor": "后期处理"
         },
         {
             "key": "graficos/texturas",
-            "valor": "Textures"
+            "valor": "纹理"
         },
         {
             "key": "graficos/antialiasign",
-            "valor": "Antialiasing"
+            "valor": "抗锯齿"
         },
         {
             "key": "graficos/particulas",
-            "valor": "Particles"
+            "valor": "粒子"
         },
         {
             "key": "particulas/level0",
-            "valor": "Sad"
+            "valor": "伤心"
         },
         {
             "key": "particulas/level1",
-            "valor": "Enough"
+            "valor": "足够"
         },
         {
             "key": "particulas/level2",
-            "valor": "Decent"
+            "valor": "正经"
         },
         {
             "key": "particulas/level3",
-            "valor": "Full"
+            "valor": "充分"
         },
         {
             "key": "config/mundos",
-            "valor": "Worlds"
+            "valor": "世界"
         },
         {
             "key": "config/lobbyactivo",
-            "valor": "Active Lobby"
+            "valor": "活动大厅"
         },
         {
             "key": "config/replay",
-            "valor": "Replay"
+            "valor": "重播"
         },
         {
             "key": "config/configuracion",
-            "valor": "Configuration"
+            "valor": "组态"
         },
         {
             "key": "config/puntajeparaganar",
-            "valor": "Points to win"
+            "valor": "分夺冠"
         },
         {
             "key": "config/cantarmas",
-            "valor": "Number of Weapons"
+            "valor": "武器的数"
         },
         {
             "key": "config/cantpowerupmin",
-            "valor": "Number of PowerUps"
+            "valor": "通电数"
         },
         {
             "key": "config/luceson",
-            "valor": "Lights"
+            "valor": "灯火"
         },
         {
             "key": "config/haymuertesubita",
-            "valor": "Sudden Death"
+            "valor": "猝死"
         },
         {
             "key": "config/siemprevisibles",
-            "valor": "Always Visible"
+            "valor": "总是可见"
         },
         {
             "key": "config/contrampas",
-            "valor": "Traps"
+            "valor": "陷阱"
         },
         {
             "key": "config/tiempoparaganar",
-            "valor": "Time to Win"
+            "valor": "准时赢得"
         },
         {
             "key": "config/resettimer",
-            "valor": "Reset "
+            "valor": "重启"
         },
         {
             "key": "config/friendlyfire",
-            "valor": "Friendly Fire"
+            "valor": "误伤"
         },
         {
             "key": "config/cantidadcristalesparaganar",
-            "valor": "Cages to Win"
+            "valor": "网箱赢取"
         },
         {
             "key": "generales/ready",
-            "valor": "Ready"
+            "valor": "准备"
         },
         {
             "key": "generales/bloqueado",
-            "valor": "Locked"
+            "valor": "锁定"
         },
         {
             "key": "config/selecciondearmas",
-            "valor": "Choose"
+            "valor": "选择"
         },
         {
             "key": "config/sinpowerups",
@@ -517,7 +517,7 @@
         },
         {
             "key": "powerup/superdash",
-            "valor": "Super Dash"
+            "valor": "超级短跑"
         },
         {
             "key": "powerup/superdash_tip",
@@ -525,7 +525,7 @@
         },
         {
             "key": "powerup/decoy",
-            "valor": "Decoy"
+            "valor": "引诱"
         },
         {
             "key": "powerup/decoy_tip",
@@ -533,7 +533,7 @@
         },
         {
             "key": "powerup/reveal",
-            "valor": "Reveal"
+            "valor": "揭示"
         },
         {
             "key": "powerup/reveal_tip",
@@ -541,7 +541,7 @@
         },
         {
             "key": "powerup/blink",
-            "valor": "Blink"
+            "valor": "眨"
         },
         {
             "key": "powerup/blink_tip",
@@ -549,7 +549,7 @@
         },
         {
             "key": "powerup/shield",
-            "valor": "Shield"
+            "valor": "屏蔽"
         },
         {
             "key": "powerup/shield_tip",
@@ -557,135 +557,135 @@
         },
         {
             "key": "powerup/slowmo",
-            "valor": "Slow Motion"
+            "valor": "慢动作"
         },
         {
             "key": "powerup/slowmo_tip",
-            "valor": "Wwwhhaaaaaaiiittt……."
+            "valor": "等待"
         },
         {
             "key": "niveles/0-tuto_lobby",
-            "valor": "Climb"
+            "valor": "爬"
         },
         {
             "key": "niveles/1-tuto_dash_jump",
-            "valor": "Dash "
+            "valor": "短跑"
         },
         {
             "key": "niveles/2-tuto_saltar a travez",
-            "valor": "Go through"
+            "valor": "经过"
         },
         {
             "key": "niveles/3-tuto_bloqueo",
-            "valor": "Parry"
+            "valor": "帕里"
         },
         {
             "key": "niveles/4-tuto_hide",
-            "valor": "Hide"
+            "valor": "隐藏"
         },
         {
             "key": "niveles/urbano_bar_single1",
-            "valor": "Bar"
+            "valor": "酒吧"
         },
         {
             "key": "niveles/urbano_ventanas_single2",
-            "valor": "Back yard"
+            "valor": "后院"
         },
         {
             "key": "niveles/urbano_barco_single3",
-            "valor": "Port"
+            "valor": "港口"
         },
         {
             "key": "niveles/urbano_reydelacolina_single4",
-            "valor": "Neighborhood"
+            "valor": "邻里"
         },
         {
             "key": "niveles/urbano_apartamento_single5",
-            "valor": "Home"
+            "valor": "家"
         },
         {
             "key": "niveles/urbano_helicoptero_single6",
-            "valor": "Villa"
+            "valor": "别墅"
         },
         {
             "key": "niveles/ruinas_casaconpozo_single1",
-            "valor": "Barn"
+            "valor": "谷仓"
         },
         {
             "key": "niveles/ruinas_orientalshit_single2",
-            "valor": "Gym"
+            "valor": "健身房"
         },
         {
             "key": "niveles/ruinas_torres_single3",
-            "valor": "Towers"
+            "valor": "塔"
         },
         {
             "key": "niveles/ruinas_quilombo_single4",
-            "valor": "Temple"
+            "valor": "寺庙"
         },
         {
             "key": "niveles/cyberpunk_oficina_single1",
-            "valor": "Disco"
+            "valor": "迪斯科"
         },
         {
             "key": "niveles/cyberpunk_callejonyratis_single2",
-            "valor": "Hole"
+            "valor": "洞"
         },
         {
             "key": "niveles/cyberpunk_callejon_single3",
-            "valor": "Market"
+            "valor": "市场"
         },
         {
             "key": "niveles/cyberpunk_autos2_single4",
-            "valor": "Street"
+            "valor": "街"
         },
         {
             "key": "niveles/nature_casita_single1",
-            "valor": "Playground"
+            "valor": "操场"
         },
         {
             "key": "niveles/nature_quincho_single2",
-            "valor": "Treehouse"
+            "valor": "树屋"
         },
         {
             "key": "niveles/nature_pozosycolumnas_single3",
-            "valor": "Bridge"
+            "valor": "桥"
         },
         {
             "key": "niveles/nature_cueva_single4",
-            "valor": "Cave"
+            "valor": "洞穴"
         },
         {
             "key": "niveles/steampunk_pistones_single1",
-            "valor": "Pistons"
+            "valor": "活塞"
         },
         {
             "key": "niveles/steampunk_cuadrado_single2",
-            "valor": "Nucleus"
+            "valor": "核"
         },
         {
             "key": "niveles/steampunk_l_single3",
-            "valor": "conveyor"
+            "valor": "输送带"
         },
         {
             "key": "niveles/steampunk_caniosmovedizos_single4",
-            "valor": "Cycle"
+            "valor": "周期"
         },
         {
             "key": "niveles/calabozo_drenajes_single1",
-            "valor": "Drain"
+            "valor": "排水"
         },
         {
             "key": "niveles/calabozo_jaulacalavera_single2",
-            "valor": "Prison"
+            "valor": "监狱"
         },
         {
             "key": "niveles/calabozo_fabrik_single3",
-            "valor": "Scape"
+            "valor": "花茎"
         },
         {
             "key": "niveles/calabozo_pacman_single4",
-            "valor": "Punishment"
+            "valor": "惩罚"
         },
         {
             "key": "paletas/calabozo1",
@@ -693,7 +693,7 @@
         },
         {
             "key": "paletas/calabozo2",
-            "valor": "Monoxide"
+            "valor": "一氧化碳"
         },
         {
             "key": "paletas/calabozo3",
@@ -701,7 +701,7 @@
         },
         {
             "key": "paletas/calabozo4",
-            "valor": "Stinky"
+            "valor": "臭"
         },
         {
             "key": "paletas/cyberpunk",
@@ -713,7 +713,7 @@
         },
         {
             "key": "paletas/cyberpunk2",
-            "valor": "Green Wave"
+            "valor": "绿波"
         },
         {
             "key": "paletas/cyberpunk3",
@@ -721,11 +721,11 @@
         },
         {
             "key": "paletas/cyberpunk4",
-            "valor": "Sky Cream"
+            "valor": "天空霜"
         },
         {
             "key": "paletas/cyberpunk5",
-            "valor": "Elegant "
+            "valor": "优雅"
         },
         {
             "key": "paletas/cyberpunk6",
@@ -733,7 +733,7 @@
         },
         {
             "key": "paletas/byn",
-            "valor": "Gris"
+            "valor": "格里斯"
         },
         {
             "key": "paletas/nature",
@@ -741,11 +741,11 @@
         },
         {
             "key": "paletas/nature1",
-            "valor": "Orange Strong"
+            "valor": "橙色强"
         },
         {
             "key": "paletas/nature2",
-            "valor": "Pink Spirit"
+            "valor": "粉红色精神"
         },
         {
             "key": "paletas/nature3",
@@ -753,15 +753,15 @@
         },
         {
             "key": "paletas/nature4",
-            "valor": "Olive tree"
+            "valor": "橄榄树"
         },
         {
             "key": "paletas/nature5",
-            "valor": "Cherry Blossom"
+            "valor": "樱花"
         },
         {
             "key": "paletas/nature6",
-            "valor": "Banana Split"
+            "valor": "香蕉船"
         },
         {
             "key": "paletas/nature7",
@@ -769,27 +769,27 @@
         },
         {
             "key": "paletas/nature8",
-            "valor": "Winter night"
+            "valor": "冬天的夜晚"
         },
         {
             "key": "paletas/paleta_test_10",
-            "valor": "Ultraviolet"
+            "valor": "紫外线"
         },
         {
             "key": "paletas/ruinas_o_no",
-            "valor": "Remember"
+            "valor": "记得"
         },
         {
             "key": "paletas/ruinas",
-            "valor": "Stone"
+            "valor": "石"
         },
         {
             "key": "paletas/ruinas1",
-            "valor": "Old Lemon Tree"
+            "valor": "老柠檬树"
         },
         {
             "key": "paletas/ruinas2",
-            "valor": "Egypt"
+            "valor": "埃及"
         },
         {
             "key": "paletas/ruinas3",
@@ -805,23 +805,23 @@
         },
         {
             "key": "paletas/steampunk1",
-            "valor": "Toxic"
+            "valor": "有毒的"
         },
         {
             "key": "paletas/steampunk2",
-            "valor": "Sulfur"
+            "valor": "硫"
         },
         {
             "key": "paletas/steampunk3",
-            "valor": "Oxide"
+            "valor": "氧化"
         },
         {
             "key": "paletas/urbano1",
-            "valor": "Old Town"
+            "valor": "老镇"
         },
         {
             "key": "paletas/urbano2",
-            "valor": "Tango"
+            "valor": "探戈舞"
         },
         {
             "key": "paletas/urbano3",
@@ -829,11 +829,11 @@
         },
         {
             "key": "paletas/urbano4",
-            "valor": "Under Zero"
+            "valor": "在零"
         },
         {
             "key": "paletas/urbano5",
-            "valor": "Blue Mint"
+            "valor": "蓝色薄荷"
         },
         {
             "key": "paletas/urbano6",
@@ -841,87 +841,87 @@
         },
         {
             "key": "paletas/urbano-cyberpunk",
-            "valor": "Mystery"
+            "valor": "神秘"
         },
         {
             "key": "generales/rematch",
-            "valor": "Rematch"
+            "valor": "复赛"
         },
         {
             "key": "generales/mode_select",
-            "valor": "Mode Select"
+            "valor": "模式选择"
         },
         {
             "key": "generales/negative",
-            "valor": "Nope"
+            "valor": "不"
         },
         {
             "key": "generales/preguntar_quitar_lobby",
-            "valor": "Deactivate lobby? (you can reactivate it later)"
+            "valor": "關掉前廳？"
         },
         {
             "key": "singleplayer/basico_bien",
-            "valor": "Done and gone"
+            "valor": "你已經完成了"
         },
         {
             "key": "singleplayer/basico_mal",
-            "valor": "Break $$$ cages and ring the bell"
+            "valor": "你必須打破$$$個籠子並敲響鐘聲"
         },
         {
             "key": "singleplayer/alertas_bien",
-            "valor": "Not a bot seen you"
+            "valor": "沒有機器人見過你"
         },
         {
             "key": "singleplayer/alertas_mal",
-            "valor": "Don't alert a single bot"
+            "valor": "不要叫醒任何機器人"
         },
         {
             "key": "singleplayer/rapido_bien",
-            "valor": "Made it in just $$$"
+            "valor": "你在$$$内完成了"
         },
         {
             "key": "singleplayer/rapido_mal",
-            "valor": "Be done in $$$"
+            "valor": "它应该在$$$内结束"
         },
         {
             "key": "singleplayer/jaulas_bien",
-            "valor": "No cage untouched"
+            "valor": "所有的笼子都被触动了"
         },
         {
             "key": "singleplayer/jaulas_mal",
-            "valor": "Don't leave a single cage"
+            "valor": "不要让一个单笼"
         },
         {
             "key": "ladron/ronda",
-            "valor": "Round $$$"
+            "valor": "回合$$$"
         },
         {
             "key": "ladron/guardia",
-            "valor": "Guard"
+            "valor": "守护"
         },
         {
             "key": "ladron/ladron",
-            "valor": "Thief"
+            "valor": "贼"
         },
         {
             "key": "ladron/robacajas",
-            "valor": "Break all cages of your color"
+            "valor": "打破你的颜色的所有笼子"
         },
         {
             "key": "generales/replay",
-            "valor": "Replay"
+            "valor": "重播"
         },
         {
             "key": "generales/camaralenta",
-            "valor": "Slow motion"
+            "valor": "慢动作"
         },
         {
             "key": "unlocked/modo",
-            "valor": "New Mode Unlocked!"
+            "valor": "新模式解锁！"
         },
         {
             "key": "generales/coming_soon",
-            "valor": "Coming soon"
+            "valor": "快来了"
         },
         {
             "key": "generales/coming_soon_descrip",
@@ -933,7 +933,7 @@
         },
         {
             "key": "arma/basica",
-            "valor": "Basic"
+            "valor": "基本"
         },
         {
             "key": "modo_warning/a_word_plis",

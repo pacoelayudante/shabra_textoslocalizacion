@@ -188,10 +188,6 @@
             "valor": "Music"
         },
         {
-            "key": "audio/ambient",
-            "valor": "Ambiente"
-        },
-        {
             "key": "audio/sfx",
             "valor": "Sound Effects"
         },
@@ -938,6 +934,22 @@
         {
             "key": "arma/basica",
             "valor": "Basic"
+        },
+        {
+            "key": "modo_warning/a_word_plis",
+            "valor": "A word please..."
+        },
+        {
+            "key": "modo_warning/mata_mata_de_a_2",
+            "valor": "This mode makes no sense with just two players. What you prefer?"
+        },
+        {
+            "key": "modo_warning/cambiar_a_deathmatch",
+            "valor": "Change to Death Match"
+        },
+        {
+            "key": "modo_warning/jugar_asi",
+            "valor": "Play Anyway"
         }
     ]
 }

@@ -188,10 +188,6 @@
             "valor": "Música"
         },
         {
-            "key": "audio/ambient",
-            "valor": "Ambiente"
-        },
-        {
             "key": "audio/sfx",
             "valor": "Efectos de sonido"
         },
@@ -938,6 +934,22 @@
         {
             "key": "arma/basica",
             "valor": "Basica"
+        },
+        {
+            "key": "modo_warning/a_word_plis",
+            "valor": "Hay una cuestion..."
+        },
+        {
+            "key": "modo_warning/mata_mata_de_a_2",
+            "valor": "Este modo no tiene sentido con solo dos jugadores. ¿Que prefieren?"
+        },
+        {
+            "key": "modo_warning/cambiar_a_deathmatch",
+            "valor": "Cambiar a Combate"
+        },
+        {
+            "key": "modo_warning/jugar_asi",
+            "valor": "Jugar de todas formas"
         }
     ]
 }

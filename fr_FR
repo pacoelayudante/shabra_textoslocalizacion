@@ -1,79 +1,79 @@
 {
-    "id": "English",
+    "id": "Anglais",
     "rightToLeft": false,
     "tipografia": "",
     "textosEditables": [
         {
             "key": "portada/multiplayer",
-            "valor": "Multiplayer"
+            "valor": "multijoueur"
         },
         {
             "key": "portada/solo",
-            "valor": "Challenge"
+            "valor": "Défi"
         },
         {
             "key": "portada/options",
-            "valor": "Options"
+            "valor": "options"
         },
         {
             "key": "portada/credits",
-            "valor": "Credits"
+            "valor": "Crédits"
         },
         {
             "key": "portada/exit",
-            "valor": "Quit"
+            "valor": "Quitter"
         },
         {
             "key": "generales/confirm",
-            "valor": "Ok"
+            "valor": "Oui"
         },
         {
             "key": "generales/select",
-            "valor": "Select"
+            "valor": "Sélectionner"
         },
         {
             "key": "generales/back",
-            "valor": "Back"
+            "valor": "Retour"
         },
         {
             "key": "multiplayer/cazare",
-            "valor": "Death Match"
+            "valor": "Match à mort"
         },
         {
             "key": "multiplayer/ladron",
-            "valor": "The Heist"
+            "valor": "Le casse"
         },
         {
             "key": "multiplayer/matamata",
-            "valor": "Mata-Mata"
+            "valor": "Mata mata"
         },
         {
             "key": "multiplayer/portaluz",
-            "valor": "King Of The Light"
+            "valor": "Roi de la lumière"
         },
         {
             "key": "multiplayer/deathmatch_descrip",
-            "valor": "Hunt your opponents to win points"
+            "valor": "Traquez vos adversaires pour gagner des points"
         },
         {
             "key": "multiplayer/ladron_descrip",
-            "valor": "As thief, snatch the 3 cages\nAs hunter, eliminate the thief\n"
+            "valor": "Comme voleur, arracher les 3 cages\nComme chasseur, d'éliminer le voleur\n"
         },
         {
             "key": "multiplayer/matamata_descrip",
-            "valor": "To win you have to beat everyone else personally"
+            "valor": "Pour gagner, il faut battre tout le monde personnellement"
         },
         {
             "key": "multiplayer/portaluz_descrip",
-            "valor": "Capture the light and let no one catch you"
+            "valor": "Capter la lumière et que personne ne vous attraper"
         },
         {
             "key": "generales/join",
-            "valor": "Join"
+            "valor": "Joindre"
         },
         {
             "key": "generales/color",
-            "valor": "Color"
+            "valor": "Couleur"
         },
         {
             "key": "personajes/shadowsis",
@@ -133,11 +133,11 @@
         },
         {
             "key": "mundos/urbano",
-            "valor": "Urban"
+            "valor": "Urbain"
         },
         {
             "key": "mundos/dungeon",
-            "valor": "Dungeon"
+            "valor": "Cachot"
         },
         {
             "key": "mundos/cyberpunk",
@@ -153,15 +153,15 @@
         },
         {
             "key": "mundos/ruinas",
-            "valor": "Ruins"
+            "valor": "Ruines"
         },
         {
             "key": "generales/start",
-            "valor": "Start"
+            "valor": "Commencer"
         },
         {
             "key": "generales/resume",
-            "valor": "Resume"
+            "valor": "Continuer"
         },
         {
             "key": "opciones/audio",
@@ -169,7 +169,7 @@
         },
         {
             "key": "opciones/graficos",
-            "valor": "Graphics"
+            "valor": "Graphiques"
         },
         {
             "key": "opciones/paletas",
@@ -177,31 +177,31 @@
         },
         {
             "key": "opciones/controles",
-            "valor": "Controls"
+            "valor": "Contrôles"
         },
         {
             "key": "opciones/idioma",
-            "valor": "Language"
+            "valor": "Langue"
         },
         {
             "key": "audio/musica",
-            "valor": "Music"
+            "valor": "Musique"
         },
         {
             "key": "audio/sfx",
-            "valor": "Sound Effects"
+            "valor": "Effets sonores"
         },
         {
             "key": "graficos/paletacicla",
-            "valor": "Auto Cycling Palettes"
+            "valor": "Auto Cyclisme Palettes"
         },
         {
             "key": "graficos/fullscreen",
-            "valor": "Fullscreen"
+            "valor": "Plein écran"
         },
         {
             "key": "graficos/calidad",
-            "valor": "Quality"
+            "valor": "Qualité"
         },
         {
             "key": "graficos/gama",
@@ -209,31 +209,31 @@
         },
         {
             "key": "graficos/resolucion",
-            "valor": "Resolution"
+            "valor": "Résolution"
         },
         {
             "key": "controles/teclado",
-            "valor": "Keyboard"
+            "valor": "Clavier"
         },
         {
             "key": "controles/pad",
-            "valor": "Gamepad"
+            "valor": "Manette"
         },
         {
             "key": "controles/saltar",
-            "valor": "Jump"
+            "valor": "Saut"
         },
         {
             "key": "controles/atacar",
-            "valor": "Attack"
+            "valor": "Attaque"
         },
         {
             "key": "controles/escudar",
-            "valor": "Parry"
+            "valor": "Bouclier"
         },
         {
             "key": "controles/dash",
-            "valor": "Dash"
+            "valor": "Turbo"
         },
         {
             "key": "controles/camuflar",
@@ -241,19 +241,19 @@
         },
         {
             "key": "controles/bailar",
-            "valor": "Dance"
+            "valor": "Danse"
         },
         {
             "key": "controles/reset",
-            "valor": "Reset"
+            "valor": "Réinitialiser"
         },
         {
             "key": "generales/team",
-            "valor": "Team"
+            "valor": "Équipe"
         },
         {
             "key": "mensajes/equiposinvalidados",
-            "valor": "Invalid team configuration"
+            "valor": "Configuration de l'équipe non valide"
         },
         {
             "key": "generales/pausa",
@@ -265,15 +265,15 @@
         },
         {
             "key": "generales/restart",
-            "valor": "Restart"
+            "valor": "Redémarrer"
         },
         {
             "key": "generales/continuar",
-            "valor": "Continue"
+            "valor": "Continuer"
         },
         {
             "key": "controles/alternativo",
-            "valor": " (Alt)"
+            "valor": " (Alt)"
         },
         {
             "key": "controles/pausa",
@@ -281,11 +281,11 @@
         },
         {
             "key": "controles/aceptar",
-            "valor": "Accept"
+            "valor": "Accepter"
         },
         {
             "key": "controles/volver",
-            "valor": "Cancel"
+            "valor": "Annuler"
         },
         {
             "key": "controles/configuracion",
@@ -293,43 +293,43 @@
         },
         {
             "key": "inputdevice/teclado",
-            "valor": "Keyboard"
+            "valor": "Clavier"
         },
         {
             "key": "inputdevice/xinput",
-            "valor": "Xbox Controller"
+            "valor": "Xbox Manette"
         },
         {
             "key": "controles/copiarjoystick1",
-            "valor": "Copy Pad One"
+            "valor": "Copier le manette one"
         },
         {
             "key": "controles/arriba",
-            "valor": "Up"
+            "valor": "Top"
         },
         {
             "key": "controles/derecha",
-            "valor": "Right"
+            "valor": "Droite"
         },
         {
             "key": "controles/abajo",
-            "valor": "Down"
+            "valor": "Vers le bas"
         },
         {
             "key": "controles/izquierda",
-            "valor": "Left"
+            "valor": "La gauche"
         },
         {
             "key": "mundos/tutorial",
-            "valor": "Tutorial"
+            "valor": "Didacticiel"
         },
         {
             "key": "controles/recargar",
-            "valor": "Undo"
+            "valor": "annuler"
         },
         {
             "key": "generales/cargando",
-            "valor": "Loading..."
+            "valor": "Chargement..."
         },
         {
             "key": "graficos/vsync",
@@ -341,23 +341,23 @@
         },
         {
             "key": "arma/katana_tip",
-            "valor": "press dash to samurai slash"
+            "valor": "tableau de bord de presse pour samouraïs slash"
         },
         {
             "key": "arma/shuriken",
-            "valor": "Shuriken"
+            "valor": "shuriken"
         },
         {
             "key": "arma/shuriken_tip",
-            "valor": "Spam ATTACK in various directions"
+            "valor": "Spam ATTAQUE dans diverses directions"
         },
         {
             "key": "arma/arco",
-            "valor": "Bow"
+            "valor": "Arc"
         },
         {
             "key": "arma/arco_tip",
-            "valor": "HOLD, AIM and release the ATTACK to kill like a champ"
+            "valor": "HOLD, AIM et libérer l'attaque de tuer comme un champion"
         },
         {
             "key": "arma/kami",
@@ -365,91 +365,91 @@
         },
         {
             "key": "arma/kami_tip",
-            "valor": "Shoot and recall with ATTACK"
+            "valor": "Filmez et rappeler avec ATTAQUE"
         },
         {
             "key": "arma/latigo",
-            "valor": "Whip"
+            "valor": "Fouet"
         },
         {
             "key": "arma/latigo_tip",
-            "valor": "Double tap ATTACK for maximum range"
+            "valor": "Appuyez deux fois pour ATTAQUE portée maximale"
         },
         {
             "key": "arma/mazo",
-            "valor": "Power Hammer"
+            "valor": "Marteau de puissance"
         },
         {
             "key": "arma/mazo_tip",
-            "valor": "Big ‘n Slow. Hold ATTACK for a surprise"
+            "valor": "Big « n lent. Tenez ATTAQUE pour une surprise"
         },
         {
             "key": "arma/kunai",
-            "valor": "Kunais"
+            "valor": "kunais"
         },
         {
             "key": "arma/kunai_tip",
-            "valor": "ATTACK to shoot like a maniac.. or HOLD to shoot like a professional"
+            "valor": "ATTAQUE à tirer comme un fou .. ou HOLD pour tirer comme un professionnel"
         },
         {
             "key": "unlocked/world",
-            "valor": "World Unlocked"
+            "valor": "Unlocked monde"
         },
         {
             "key": "unlocked/character",
-            "valor": "Character Unlocked"
+            "valor": "caractère débloqué"
         },
         {
             "key": "unlocked/weapon",
-            "valor": "Weapon Unlocked"
+            "valor": "arme débloqué"
         },
         {
             "key": "unlocked/powerup",
-            "valor": "Power Up Unlocked"
+            "valor": "Mise sous tension Unlocked"
         },
         {
             "key": "graficos/postprocessing",
-            "valor": "Post Processing"
+            "valor": "post-traitement"
         },
         {
             "key": "graficos/texturas",
-            "valor": "Textures"
+            "valor": "textures"
         },
         {
             "key": "graficos/antialiasign",
-            "valor": "Antialiasing"
+            "valor": "Anti crénelage"
         },
         {
             "key": "graficos/particulas",
-            "valor": "Particles"
+            "valor": "Les particules"
         },
         {
             "key": "particulas/level0",
-            "valor": "Sad"
+            "valor": "Triste"
         },
         {
             "key": "particulas/level1",
-            "valor": "Enough"
+            "valor": "Assez"
         },
         {
             "key": "particulas/level2",
-            "valor": "Decent"
+            "valor": "Décent"
         },
         {
             "key": "particulas/level3",
-            "valor": "Full"
+            "valor": "Plein"
         },
         {
             "key": "config/mundos",
-            "valor": "Worlds"
+            "valor": "mondes"
         },
         {
             "key": "config/lobbyactivo",
-            "valor": "Active Lobby"
+            "valor": "Lobby actif"
         },
         {
             "key": "config/replay",
-            "valor": "Replay"
+            "valor": "Rejouer"
         },
         {
             "key": "config/configuracion",
@@ -457,43 +457,43 @@
         },
         {
             "key": "config/puntajeparaganar",
-            "valor": "Points to win"
+            "valor": "Points à gagner"
         },
         {
             "key": "config/cantarmas",
-            "valor": "Number of Weapons"
+            "valor": "Nombre d'armes"
         },
         {
             "key": "config/cantpowerupmin",
-            "valor": "Number of PowerUps"
+            "valor": "Nombre de powerups"
         },
         {
             "key": "config/luceson",
-            "valor": "Lights"
+            "valor": "Lumières"
         },
         {
             "key": "config/haymuertesubita",
-            "valor": "Sudden Death"
+            "valor": "Mort subite"
         },
         {
             "key": "config/siemprevisibles",
-            "valor": "Always Visible"
+            "valor": "Toujours visible"
         },
         {
             "key": "config/contrampas",
-            "valor": "Traps"
+            "valor": "pièges"
         },
         {
             "key": "config/tiempoparaganar",
-            "valor": "Time to Win"
+            "valor": "Il est temps de gagner"
         },
         {
             "key": "config/resettimer",
-            "valor": "Reset "
+            "valor": "Réinitialiser"
         },
         {
             "key": "config/friendlyfire",
-            "valor": "Friendly Fire"
+            "valor": "Tir ami"
         },
         {
             "key": "config/cantidadcristalesparaganar",
@@ -501,15 +501,15 @@
         },
         {
             "key": "generales/ready",
-            "valor": "Ready"
+            "valor": "Prêt"
         },
         {
             "key": "generales/bloqueado",
-            "valor": "Locked"
+            "valor": "Fermé à clef"
         },
         {
             "key": "config/selecciondearmas",
-            "valor": "Choose"
+            "valor": "Choisir"
         },
         {
             "key": "config/sinpowerups",
@@ -517,71 +517,71 @@
         },
         {
             "key": "powerup/superdash",
-            "valor": "Super Dash"
+            "valor": "super Dash"
         },
         {
             "key": "powerup/superdash_tip",
-            "valor": "Just spam DASH"
+            "valor": "Juste le spam DASH"
         },
         {
             "key": "powerup/decoy",
-            "valor": "Decoy"
+            "valor": "appeau"
         },
         {
             "key": "powerup/decoy_tip",
-            "valor": "Tap DANCE for a dancing partner"
+            "valor": "Claquettes un partenaire de danse"
         },
         {
             "key": "powerup/reveal",
-            "valor": "Reveal"
+            "valor": "Révéler"
         },
         {
             "key": "powerup/reveal_tip",
-            "valor": "Only you can hide (you party pooper)"
+            "valor": "Vous seul pouvez cacher (vous rabat-joie)"
         },
         {
             "key": "powerup/blink",
-            "valor": "Blink"
+            "valor": "Cligner"
         },
         {
             "key": "powerup/blink_tip",
-            "valor": "Ridiculously big BLOCK (teleport you behind the enemy)"
+            "valor": "Ridiculously grand bloc (vous téléporter derrière l'ennemi)"
         },
         {
             "key": "powerup/shield",
-            "valor": "Shield"
+            "valor": "Bouclier"
         },
         {
             "key": "powerup/shield_tip",
-            "valor": "Saves your life once (no joke)"
+            "valor": "Enregistre votre vie une fois (sans blague)"
         },
         {
             "key": "powerup/slowmo",
-            "valor": "Slow Motion"
+            "valor": "Ralenti"
         },
         {
             "key": "powerup/slowmo_tip",
-            "valor": "Wwwhhaaaaaaiiittt……."
+            "valor": "Wwwhhaaaaaaiiittt ......."
         },
         {
             "key": "niveles/0-tuto_lobby",
-            "valor": "Climb"
+            "valor": "Montée"
         },
         {
             "key": "niveles/1-tuto_dash_jump",
-            "valor": "Dash "
+            "valor": "Tiret"
         },
         {
             "key": "niveles/2-tuto_saltar a travez",
-            "valor": "Go through"
+            "valor": "Traverser"
         },
         {
             "key": "niveles/3-tuto_bloqueo",
-            "valor": "Parry"
+            "valor": "Parer"
         },
         {
             "key": "niveles/4-tuto_hide",
-            "valor": "Hide"
+            "valor": "Cacher"
         },
         {
             "key": "niveles/urbano_bar_single1",
@@ -589,7 +589,7 @@
         },
         {
             "key": "niveles/urbano_ventanas_single2",
-            "valor": "Back yard"
+            "valor": "Arrière-cour"
         },
         {
             "key": "niveles/urbano_barco_single3",
@@ -597,11 +597,11 @@
         },
         {
             "key": "niveles/urbano_reydelacolina_single4",
-            "valor": "Neighborhood"
+            "valor": "quartier"
         },
         {
             "key": "niveles/urbano_apartamento_single5",
-            "valor": "Home"
+            "valor": "Accueil"
         },
         {
             "key": "niveles/urbano_helicoptero_single6",
@@ -609,7 +609,7 @@
         },
         {
             "key": "niveles/ruinas_casaconpozo_single1",
-            "valor": "Barn"
+            "valor": "Grange"
         },
         {
             "key": "niveles/ruinas_orientalshit_single2",
@@ -629,43 +629,43 @@
         },
         {
             "key": "niveles/cyberpunk_callejonyratis_single2",
-            "valor": "Hole"
+            "valor": "Trou"
         },
         {
             "key": "niveles/cyberpunk_callejon_single3",
-            "valor": "Market"
+            "valor": "Marché"
         },
         {
             "key": "niveles/cyberpunk_autos2_single4",
-            "valor": "Street"
+            "valor": "rue"
         },
         {
             "key": "niveles/nature_casita_single1",
-            "valor": "Playground"
+            "valor": "Cour de récréation"
         },
         {
             "key": "niveles/nature_quincho_single2",
-            "valor": "Treehouse"
+            "valor": "Cabane dans les arbres"
         },
         {
             "key": "niveles/nature_pozosycolumnas_single3",
-            "valor": "Bridge"
+            "valor": "Pont"
         },
         {
             "key": "niveles/nature_cueva_single4",
-            "valor": "Cave"
+            "valor": "la grotte"
         },
         {
             "key": "niveles/steampunk_pistones_single1",
-            "valor": "Pistons"
+            "valor": "pistons"
         },
         {
             "key": "niveles/steampunk_cuadrado_single2",
-            "valor": "Nucleus"
+            "valor": "Noyau"
         },
         {
             "key": "niveles/steampunk_l_single3",
-            "valor": "conveyor"
+            "valor": "convoyeur"
         },
         {
             "key": "niveles/steampunk_caniosmovedizos_single4",
@@ -673,7 +673,7 @@
         },
         {
             "key": "niveles/calabozo_drenajes_single1",
-            "valor": "Drain"
+            "valor": "Drainer"
         },
         {
             "key": "niveles/calabozo_jaulacalavera_single2",
@@ -685,19 +685,19 @@
         },
         {
             "key": "niveles/calabozo_pacman_single4",
-            "valor": "Punishment"
+            "valor": "Châtiment"
         },
         {
             "key": "paletas/calabozo1",
-            "valor": "Blood Nightmare"
+            "valor": "Cauchemar de sang"
         },
         {
             "key": "paletas/calabozo2",
-            "valor": "Monoxide"
+            "valor": "monoxyde de"
         },
         {
             "key": "paletas/calabozo3",
-            "valor": "Cold fear"
+            "valor": "Peur bleue"
         },
         {
             "key": "paletas/calabozo4",
@@ -705,31 +705,31 @@
         },
         {
             "key": "paletas/cyberpunk",
-            "valor": "Chocolate Limón"
+            "valor": "Limón au chocolat"
         },
         {
             "key": "paletas/cyberpunk1",
-            "valor": "Neon Night"
+            "valor": "Neon Nuit"
         },
         {
             "key": "paletas/cyberpunk2",
-            "valor": "Green Wave"
+            "valor": "green Wave"
         },
         {
             "key": "paletas/cyberpunk3",
-            "valor": "Nuclear winter"
+            "valor": "Hiver nucléaire"
         },
         {
             "key": "paletas/cyberpunk4",
-            "valor": "Sky Cream"
+            "valor": "crème Sky"
         },
         {
             "key": "paletas/cyberpunk5",
-            "valor": "Elegant "
+            "valor": "Élégant"
         },
         {
             "key": "paletas/cyberpunk6",
-            "valor": "Vanilla parade"
+            "valor": "défilé de vanille"
         },
         {
             "key": "paletas/byn",
@@ -737,27 +737,27 @@
         },
         {
             "key": "paletas/nature",
-            "valor": "Guasacaca"
+            "valor": "guasacaca"
         },
         {
             "key": "paletas/nature1",
-            "valor": "Orange Strong"
+            "valor": "orange forte"
         },
         {
             "key": "paletas/nature2",
-            "valor": "Pink Spirit"
+            "valor": "Spirit rose"
         },
         {
             "key": "paletas/nature3",
-            "valor": "Strawberry Feels"
+            "valor": "à la fraise"
         },
         {
             "key": "paletas/nature4",
-            "valor": "Olive tree"
+            "valor": "Olivier"
         },
         {
             "key": "paletas/nature5",
-            "valor": "Cherry Blossom"
+            "valor": "fleur de cerisier"
         },
         {
             "key": "paletas/nature6",
@@ -765,23 +765,23 @@
         },
         {
             "key": "paletas/nature7",
-            "valor": "Magenta juice"
+            "valor": "jus magenta"
         },
         {
             "key": "paletas/nature8",
-            "valor": "Winter night"
+            "valor": "Nuit d'hiver"
         },
         {
             "key": "paletas/paleta_test_10",
-            "valor": "Ultraviolet"
+            "valor": "Ultra-violet"
         },
         {
             "key": "paletas/ruinas_o_no",
-            "valor": "Remember"
+            "valor": "Rappelles toi"
         },
         {
             "key": "paletas/ruinas",
-            "valor": "Stone"
+            "valor": "Pierre"
         },
         {
             "key": "paletas/ruinas1",
@@ -789,11 +789,11 @@
         },
         {
             "key": "paletas/ruinas2",
-            "valor": "Egypt"
+            "valor": "Egypte"
         },
         {
             "key": "paletas/ruinas3",
-            "valor": "Romantic Sxxt"
+            "valor": "romantique Sxxt"
         },
         {
             "key": "paletas/ruinas4",
@@ -801,23 +801,23 @@
         },
         {
             "key": "paletas/steam_web",
-            "valor": "Steam"
+            "valor": "Vapeur"
         },
         {
             "key": "paletas/steampunk1",
-            "valor": "Toxic"
+            "valor": "Toxique"
         },
         {
             "key": "paletas/steampunk2",
-            "valor": "Sulfur"
+            "valor": "Soufre"
         },
         {
             "key": "paletas/steampunk3",
-            "valor": "Oxide"
+            "valor": "Oxyde"
         },
         {
             "key": "paletas/urbano1",
-            "valor": "Old Town"
+            "valor": "Vieille ville"
         },
         {
             "key": "paletas/urbano2",
@@ -825,23 +825,23 @@
         },
         {
             "key": "paletas/urbano3",
-            "valor": "Serious colour"
+            "valor": "sérieux couleur"
         },
         {
             "key": "paletas/urbano4",
-            "valor": "Under Zero"
+            "valor": "sous zéro"
         },
         {
             "key": "paletas/urbano5",
-            "valor": "Blue Mint"
+            "valor": "bleu Monnaie"
         },
         {
             "key": "paletas/urbano6",
-            "valor": "Tomato Blood"
+            "valor": "sang tomate"
         },
         {
             "key": "paletas/urbano-cyberpunk",
-            "valor": "Mystery"
+            "valor": "Mystère"
         },
         {
             "key": "generales/rematch",
@@ -849,83 +849,83 @@
         },
         {
             "key": "generales/mode_select",
-            "valor": "Mode Select"
+            "valor": "Sélectionnez le mode"
         },
         {
             "key": "generales/negative",
-            "valor": "Nope"
+            "valor": "Nan"
         },
         {
             "key": "generales/preguntar_quitar_lobby",
-            "valor": "Deactivate lobby? (you can reactivate it later)"
+            "valor": "Hall d'entrée désactiver? (Vous pouvez le réactiver plus tard)"
         },
         {
             "key": "singleplayer/basico_bien",
-            "valor": "Done and gone"
+            "valor": "Fait et passé"
         },
         {
             "key": "singleplayer/basico_mal",
-            "valor": "Break $$$ cages and ring the bell"
+            "valor": "$$$ briser cages et sonner"
         },
         {
             "key": "singleplayer/alertas_bien",
-            "valor": "Not a bot seen you"
+            "valor": "Pas un bot vu vous"
         },
         {
             "key": "singleplayer/alertas_mal",
-            "valor": "Don't alert a single bot"
+            "valor": "Ne pas alerter un bot"
         },
         {
             "key": "singleplayer/rapido_bien",
-            "valor": "Made it in just $$$"
+            "valor": "Fait en seulement $$$"
         },
         {
             "key": "singleplayer/rapido_mal",
-            "valor": "Be done in $$$"
+            "valor": "Faire en $$$"
         },
         {
             "key": "singleplayer/jaulas_bien",
-            "valor": "No cage untouched"
+            "valor": "Aucune cage intacte"
         },
         {
             "key": "singleplayer/jaulas_mal",
-            "valor": "Don't leave a single cage"
+            "valor": "Ne pas laisser une seule cage"
         },
         {
             "key": "ladron/ronda",
-            "valor": "Round $$$"
+            "valor": "$$$ Round"
         },
         {
             "key": "ladron/guardia",
-            "valor": "Guard"
+            "valor": "Garde"
         },
         {
             "key": "ladron/ladron",
-            "valor": "Thief"
+            "valor": "Voleur"
         },
         {
             "key": "ladron/robacajas",
-            "valor": "Break all cages of your color"
+            "valor": "Cassez toutes les cages de votre couleur"
         },
         {
             "key": "generales/replay",
-            "valor": "Replay"
+            "valor": "Rejouer"
         },
         {
             "key": "generales/camaralenta",
-            "valor": "Slow motion"
+            "valor": "Ralenti"
         },
         {
             "key": "unlocked/modo",
-            "valor": "New Mode Unlocked!"
+            "valor": "Nouveau mode déverrouillé!"
         },
         {
             "key": "generales/coming_soon",
-            "valor": "Coming soon"
+            "valor": "Arrive bientôt"
         },
         {
             "key": "generales/coming_soon_descrip",
-            "valor": "This mode will be unlockable in the upcoming weeks"
+            "valor": "Ce mode sera déblocable dans les semaines à venir"
         },
         {
             "key": "generales/bloqueado_descrip",
@@ -933,7 +933,7 @@
         },
         {
             "key": "arma/basica",
-            "valor": "Basic"
+            "valor": "De base"
         },
         {
             "key": "modo_warning/a_word_plis",

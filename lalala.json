@@ -188,10 +188,6 @@
             "valor": "Lalalala"
         },
         {
-            "key": "audio/ambient",
-            "valor": "Lalalala"
-        },
-        {
             "key": "audio/sfx",
             "valor": "Lalalala"
         },
@@ -937,6 +933,22 @@
         },
         {
             "key": "arma/basica",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "modo_warning/a_word_plis",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "modo_warning/mata_mata_de_a_2",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "modo_warning/cambiar_a_deathmatch",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "modo_warning/jugar_asi",
             "valor": "Lalalala"
         }
     ]
