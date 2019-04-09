@@ -950,6 +950,22 @@
         {
             "key": "modo_warning/jugar_asi",
             "valor": "Lalalala"
+        },
+        {
+            "key": "tips/dash",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "tips/hide",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "tips/atravesar",
+            "valor": ""
+        },
+        {
+            "key": "tips/parry",
+            "valor": ""
         }
     ]
 }

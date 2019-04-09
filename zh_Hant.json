@@ -45,7 +45,7 @@
         },
         {
             "key": "multiplayer/matamata",
-            "valor": "马塔，马塔"
+            "valor": "灭虫"
         },
         {
             "key": "multiplayer/portaluz",
@@ -245,7 +245,7 @@
         },
         {
             "key": "controles/reset",
-            "valor": "重启"
+            "valor": "设置默认值"
         },
         {
             "key": "generales/team",
@@ -325,7 +325,7 @@
         },
         {
             "key": "controles/recargar",
-            "valor": "解开"
+            "valor": "取消"
         },
         {
             "key": "generales/cargando",
@@ -613,7 +613,7 @@
         },
         {
             "key": "niveles/ruinas_orientalshit_single2",
-            "valor": "健身房"
+            "valor": "迷宫"
         },
         {
             "key": "niveles/ruinas_torres_single3",
@@ -929,7 +929,7 @@
         },
         {
             "key": "generales/bloqueado_descrip",
-            "valor": "??????????"
+            "valor": "完成更多的多人模式解锁此模式"
         },
         {
             "key": "arma/basica",
@@ -950,6 +950,22 @@
         {
             "key": "modo_warning/jugar_asi",
             "valor": "Play Anyway"
+        },
+        {
+            "key": "tips/dash",
+            "valor": ""
+        },
+        {
+            "key": "tips/hide",
+            "valor": ""
+        },
+        {
+            "key": "tips/atravesar",
+            "valor": ""
+        },
+        {
+            "key": "tips/parry",
+            "valor": ""
         }
     ]
 }

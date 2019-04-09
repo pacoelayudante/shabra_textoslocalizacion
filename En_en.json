@@ -45,7 +45,7 @@
         },
         {
             "key": "multiplayer/matamata",
-            "valor": "Mata-Mata"
+            "valor": "Exterminator"
         },
         {
             "key": "multiplayer/portaluz",
@@ -245,7 +245,7 @@
         },
         {
             "key": "controles/reset",
-            "valor": "Reset"
+            "valor": "Set Default Values"
         },
         {
             "key": "generales/team",
@@ -325,7 +325,7 @@
         },
         {
             "key": "controles/recargar",
-            "valor": "Undo"
+            "valor": "Cancel"
         },
         {
             "key": "generales/cargando",
@@ -613,7 +613,7 @@
         },
         {
             "key": "niveles/ruinas_orientalshit_single2",
-            "valor": "Gym"
+            "valor": "Labyrinth"
         },
         {
             "key": "niveles/ruinas_torres_single3",
@@ -665,7 +665,7 @@
         },
         {
             "key": "niveles/steampunk_l_single3",
-            "valor": "conveyor"
+            "valor": "Conveyor"
         },
         {
             "key": "niveles/steampunk_caniosmovedizos_single4",
@@ -929,7 +929,7 @@
         },
         {
             "key": "generales/bloqueado_descrip",
-            "valor": "??????????"
+            "valor": "Complete more multiplayer matches to unlock this mode"
         },
         {
             "key": "arma/basica",
@@ -950,6 +950,22 @@
         {
             "key": "modo_warning/jugar_asi",
             "valor": "Play Anyway"
+        },
+        {
+            "key": "tips/dash",
+            "valor": "Press DASH to fast"
+        },
+        {
+            "key": "tips/hide",
+            "valor": "Press COLORSHIFT to hide"
+        },
+        {
+            "key": "tips/atravesar",
+            "valor": "JUMP + DOWN to cross thin surfaces"
+        },
+        {
+            "key": "tips/parry",
+            "valor": "Press PARRY to to stop attacks"
         }
     ]
 }

@@ -45,7 +45,7 @@
         },
         {
             "key": "multiplayer/matamata",
-            "valor": "Mata mata"
+            "valor": "Exterminateur"
         },
         {
             "key": "multiplayer/portaluz",
@@ -245,7 +245,7 @@
         },
         {
             "key": "controles/reset",
-            "valor": "Réinitialiser"
+            "valor": "Définir les valeurs par défaut"
         },
         {
             "key": "generales/team",
@@ -325,7 +325,7 @@
         },
         {
             "key": "controles/recargar",
-            "valor": "annuler"
+            "valor": "Annuler"
         },
         {
             "key": "generales/cargando",
@@ -613,7 +613,7 @@
         },
         {
             "key": "niveles/ruinas_orientalshit_single2",
-            "valor": "Gym"
+            "valor": "Labyrinthe"
         },
         {
             "key": "niveles/ruinas_torres_single3",
@@ -665,7 +665,7 @@
         },
         {
             "key": "niveles/steampunk_l_single3",
-            "valor": "convoyeur"
+            "valor": "Convoyeur"
         },
         {
             "key": "niveles/steampunk_caniosmovedizos_single4",
@@ -929,7 +929,7 @@
         },
         {
             "key": "generales/bloqueado_descrip",
-            "valor": "??????????"
+            "valor": "Complet correspond plus multijoueur pour déverrouiller ce mode"
         },
         {
             "key": "arma/basica",
@@ -950,6 +950,22 @@
         {
             "key": "modo_warning/jugar_asi",
             "valor": "Play Anyway"
+        },
+        {
+            "key": "tips/dash",
+            "valor": ""
+        },
+        {
+            "key": "tips/hide",
+            "valor": ""
+        },
+        {
+            "key": "tips/atravesar",
+            "valor": ""
+        },
+        {
+            "key": "tips/parry",
+            "valor": ""
         }
     ]
 }

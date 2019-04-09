@@ -45,7 +45,7 @@
         },
         {
             "key": "multiplayer/matamata",
-            "valor": "Mata-mata"
+            "valor": "Exterminader"
         },
         {
             "key": "multiplayer/portaluz",
@@ -245,7 +245,7 @@
         },
         {
             "key": "controles/reset",
-            "valor": "Restablecer"
+            "valor": "Restablecer valores por defecto"
         },
         {
             "key": "generales/team",
@@ -325,7 +325,7 @@
         },
         {
             "key": "controles/recargar",
-            "valor": "Deshacer"
+            "valor": "Cancelar"
         },
         {
             "key": "generales/cargando",
@@ -613,7 +613,7 @@
         },
         {
             "key": "niveles/ruinas_orientalshit_single2",
-            "valor": "Gimnasio"
+            "valor": "Laberinto"
         },
         {
             "key": "niveles/ruinas_torres_single3",
@@ -929,7 +929,7 @@
         },
         {
             "key": "generales/bloqueado_descrip",
-            "valor": "??????????"
+            "valor": "Juega más partidas multijugador para desbloquear este modo"
         },
         {
             "key": "arma/basica",
@@ -950,6 +950,22 @@
         {
             "key": "modo_warning/jugar_asi",
             "valor": "Jugar de todas formas"
+        },
+        {
+            "key": "tips/dash",
+            "valor": "Presiona Turbo para mayor velocidad"
+        },
+        {
+            "key": "tips/hide",
+            "valor": "Presiona CAMUFLAJE para ocultarte"
+        },
+        {
+            "key": "tips/atravesar",
+            "valor": "SALTAR + ABAJO para saltar a través"
+        },
+        {
+            "key": "tips/parry",
+            "valor": "Presiona ESCUDO para frenar ataques"
         }
     ]
 }
