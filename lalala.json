@@ -961,11 +961,99 @@
         },
         {
             "key": "tips/atravesar",
-            "valor": ""
+            "valor": "Lalalala"
         },
         {
             "key": "tips/parry",
-            "valor": ""
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/agamemade",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/firstproto",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/gamedesign",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/aditionalgamedesign",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/leadcoder",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/coding",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/artdirection",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/artdesignill",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/sounddesign",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/music",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/animationdirection",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/animation",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/mainlevel",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/aditionallevel",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/specialthanks",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/ourfamilies",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/ourfriends",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/ourpets",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/ourenemies",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/incubation",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/totallymade",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "controles/guardar",
+            "valor": "Lalalala"
         }
     ]
 }

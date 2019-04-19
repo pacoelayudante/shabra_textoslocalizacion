@@ -5,15 +5,15 @@
     "textosEditables": [
         {
             "key": "portada/multiplayer",
-            "valor": "multijoueur"
+            "valor": "Multijouer "
         },
         {
             "key": "portada/solo",
-            "valor": "Défi"
+            "valor": "Entraînement"
         },
         {
             "key": "portada/options",
-            "valor": "options"
+            "valor": "Options"
         },
         {
             "key": "portada/credits",
@@ -325,7 +325,7 @@
         },
         {
             "key": "controles/recargar",
-            "valor": "Annuler"
+            "valor": "annuler"
         },
         {
             "key": "generales/cargando",
@@ -953,19 +953,107 @@
         },
         {
             "key": "tips/dash",
-            "valor": ""
+            "valor": "Appuyez sur DASH pour rapide"
         },
         {
             "key": "tips/hide",
-            "valor": ""
+            "valor": "ColorShift de presse pour cacher"
         },
         {
             "key": "tips/atravesar",
-            "valor": ""
+            "valor": "JUMP + BAS pour traverser les surfaces minces"
         },
         {
             "key": "tips/parry",
-            "valor": ""
+            "valor": "Appuyez sur PARRY pour arrêter les attaques"
+        },
+        {
+            "key": "creditos/agamemade",
+            "valor": "Un jeu fait par un groupe de personnes"
+        },
+        {
+            "key": "creditos/firstproto",
+            "valor": "Tout d'abord proto borned dans Ludum Dare 35"
+        },
+        {
+            "key": "creditos/gamedesign",
+            "valor": "Le design du jeu"
+        },
+        {
+            "key": "creditos/aditionalgamedesign",
+            "valor": "Aditional Game Design"
+        },
+        {
+            "key": "creditos/leadcoder",
+            "valor": "Lead Coder"
+        },
+        {
+            "key": "creditos/coding",
+            "valor": "Codage"
+        },
+        {
+            "key": "creditos/artdirection",
+            "valor": "\"Direction artistique"
+        },
+        {
+            "key": "creditos/artdesignill",
+            "valor": "\"Art\", Design, Illustration"
+        },
+        {
+            "key": "creditos/sounddesign",
+            "valor": "Conception sonore"
+        },
+        {
+            "key": "creditos/music",
+            "valor": "La musique"
+        },
+        {
+            "key": "creditos/animationdirection",
+            "valor": "Direction de l'animation"
+        },
+        {
+            "key": "creditos/animation",
+            "valor": "Animation"
+        },
+        {
+            "key": "creditos/mainlevel",
+            "valor": "Niveau principal Conception"
+        },
+        {
+            "key": "creditos/aditionallevel",
+            "valor": "Aditional Level Design"
+        },
+        {
+            "key": "creditos/specialthanks",
+            "valor": "Nous remercions tout particulièrement, dans cet ordre:"
+        },
+        {
+            "key": "creditos/ourfamilies",
+            "valor": "Nos familles"
+        },
+        {
+            "key": "creditos/ourfriends",
+            "valor": "Nos amis"
+        },
+        {
+            "key": "creditos/ourpets",
+            "valor": "Nos animaux de compagnie"
+        },
+        {
+            "key": "creditos/ourenemies",
+            "valor": "nos ennemis"
+        },
+        {
+            "key": "creditos/incubation",
+            "valor": "L'incubation et éditions"
+        },
+        {
+            "key": "creditos/totallymade",
+            "valor": "Totalement faite par"
+        },
+        {
+            "key": "controles/guardar",
+            "valor": "Enregistrer la configuration"
         }
     ]
 }

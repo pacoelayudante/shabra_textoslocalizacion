@@ -9,7 +9,7 @@
         },
         {
             "key": "portada/solo",
-            "valor": "Challenge"
+            "valor": "Training"
         },
         {
             "key": "portada/options",
@@ -325,7 +325,7 @@
         },
         {
             "key": "controles/recargar",
-            "valor": "Cancelar"
+            "valor": "Ctrl+Z"
         },
         {
             "key": "generales/cargando",
@@ -966,6 +966,94 @@
         {
             "key": "tips/parry",
             "valor": "Press PARRY to to stop attacks"
+        },
+        {
+            "key": "creditos/agamemade",
+            "valor": "A game made by a bunch of people"
+        },
+        {
+            "key": "creditos/firstproto",
+            "valor": "Primer proto nacido en Ludum Dare 35"
+        },
+        {
+            "key": "creditos/gamedesign",
+            "valor": "Game Design"
+        },
+        {
+            "key": "creditos/aditionalgamedesign",
+            "valor": "Aditional Game Design"
+        },
+        {
+            "key": "creditos/leadcoder",
+            "valor": "Lead Coder"
+        },
+        {
+            "key": "creditos/coding",
+            "valor": "Coding"
+        },
+        {
+            "key": "creditos/artdirection",
+            "valor": "\"Art\" Direction"
+        },
+        {
+            "key": "creditos/artdesignill",
+            "valor": "\"Art\", Design, Illustration"
+        },
+        {
+            "key": "creditos/sounddesign",
+            "valor": "Sound Design"
+        },
+        {
+            "key": "creditos/music",
+            "valor": "Music"
+        },
+        {
+            "key": "creditos/animationdirection",
+            "valor": "Animation Direction"
+        },
+        {
+            "key": "creditos/animation",
+            "valor": "Animation"
+        },
+        {
+            "key": "creditos/mainlevel",
+            "valor": "Main Level Design"
+        },
+        {
+            "key": "creditos/aditionallevel",
+            "valor": "Aditional Level Design"
+        },
+        {
+            "key": "creditos/specialthanks",
+            "valor": "Special thanks, in this order:"
+        },
+        {
+            "key": "creditos/ourfamilies",
+            "valor": "Our families"
+        },
+        {
+            "key": "creditos/ourfriends",
+            "valor": "Our friends"
+        },
+        {
+            "key": "creditos/ourpets",
+            "valor": "Our pets"
+        },
+        {
+            "key": "creditos/ourenemies",
+            "valor": "Our enemies"
+        },
+        {
+            "key": "creditos/incubation",
+            "valor": "Incubation and Publishing"
+        },
+        {
+            "key": "creditos/totallymade",
+            "valor": "Totally made by"
+        },
+        {
+            "key": "controles/guardar",
+            "valor": "Salvar Config"
         }
     ]
 }

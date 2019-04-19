@@ -245,7 +245,7 @@
         },
         {
             "key": "controles/reset",
-            "valor": "Restablecer valores por defecto"
+            "valor": "Valores por defecto"
         },
         {
             "key": "generales/team",
@@ -325,7 +325,7 @@
         },
         {
             "key": "controles/recargar",
-            "valor": "Cancelar"
+            "valor": "Deshacer"
         },
         {
             "key": "generales/cargando",
@@ -966,6 +966,94 @@
         {
             "key": "tips/parry",
             "valor": "Presiona ESCUDO para frenar ataques"
+        },
+        {
+            "key": "creditos/agamemade",
+            "valor": "Un juego hecho por un puñado de gente"
+        },
+        {
+            "key": "creditos/firstproto",
+            "valor": "Primer prototipo nacido en Ludum Dare 35"
+        },
+        {
+            "key": "creditos/gamedesign",
+            "valor": "Diseño de Juego"
+        },
+        {
+            "key": "creditos/aditionalgamedesign",
+            "valor": "Diseño de Juego Adicional"
+        },
+        {
+            "key": "creditos/leadcoder",
+            "valor": "Lider de Programación"
+        },
+        {
+            "key": "creditos/coding",
+            "valor": "Programación"
+        },
+        {
+            "key": "creditos/artdirection",
+            "valor": "Dirección de \"Arte\""
+        },
+        {
+            "key": "creditos/artdesignill",
+            "valor": "\"Arte\", Diseño, Ilustración"
+        },
+        {
+            "key": "creditos/sounddesign",
+            "valor": "Diseño Sonoro"
+        },
+        {
+            "key": "creditos/music",
+            "valor": "Música"
+        },
+        {
+            "key": "creditos/animationdirection",
+            "valor": "Dirección de Animación"
+        },
+        {
+            "key": "creditos/animation",
+            "valor": "Animación"
+        },
+        {
+            "key": "creditos/mainlevel",
+            "valor": "Diseño de Nivel"
+        },
+        {
+            "key": "creditos/aditionallevel",
+            "valor": "Diseño de Nivel Adicional"
+        },
+        {
+            "key": "creditos/specialthanks",
+            "valor": "Agradecimientos especiales, en este orden:"
+        },
+        {
+            "key": "creditos/ourfamilies",
+            "valor": "Nuestras familias"
+        },
+        {
+            "key": "creditos/ourfriends",
+            "valor": "Nuestros amigos"
+        },
+        {
+            "key": "creditos/ourpets",
+            "valor": "Nuestras mascotas"
+        },
+        {
+            "key": "creditos/ourenemies",
+            "valor": "Nuestros enemigos"
+        },
+        {
+            "key": "creditos/incubation",
+            "valor": "Incubación y Publicación"
+        },
+        {
+            "key": "creditos/totallymade",
+            "valor": "Realizado por"
+        },
+        {
+            "key": "controles/guardar",
+            "valor": "Guardar Configuración"
         }
     ]
 }

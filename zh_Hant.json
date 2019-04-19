@@ -9,7 +9,7 @@
         },
         {
             "key": "portada/solo",
-            "valor": "挑战"
+            "valor": "训练"
         },
         {
             "key": "portada/options",
@@ -325,7 +325,7 @@
         },
         {
             "key": "controles/recargar",
-            "valor": "取消"
+            "valor": "解开"
         },
         {
             "key": "generales/cargando",
@@ -953,19 +953,107 @@
         },
         {
             "key": "tips/dash",
-            "valor": ""
+            "valor": "按DASH快"
         },
         {
             "key": "tips/hide",
-            "valor": ""
+            "valor": "按色移隐藏"
         },
         {
             "key": "tips/atravesar",
-            "valor": ""
+            "valor": "JUMP + DOWN交叉薄表面"
         },
         {
             "key": "tips/parry",
-            "valor": ""
+            "valor": "按招架攻击停止攻击"
+        },
+        {
+            "key": "creditos/agamemade",
+            "valor": "由一群人做了一个游戏"
+        },
+        {
+            "key": "creditos/firstproto",
+            "valor": "首先在原Ludum重生敢35"
+        },
+        {
+            "key": "creditos/gamedesign",
+            "valor": "游戏设计"
+        },
+        {
+            "key": "creditos/aditionalgamedesign",
+            "valor": "aditional的游戏设计"
+        },
+        {
+            "key": "creditos/leadcoder",
+            "valor": "导致编码器"
+        },
+        {
+            "key": "creditos/coding",
+            "valor": "编码"
+        },
+        {
+            "key": "creditos/artdirection",
+            "valor": "“艺术方向"
+        },
+        {
+            "key": "creditos/artdesignill",
+            "valor": "“艺术”，设计，插画"
+        },
+        {
+            "key": "creditos/sounddesign",
+            "valor": "音响设计"
+        },
+        {
+            "key": "creditos/music",
+            "valor": "音乐"
+        },
+        {
+            "key": "creditos/animationdirection",
+            "valor": "动画方向"
+        },
+        {
+            "key": "creditos/animation",
+            "valor": "动画"
+        },
+        {
+            "key": "creditos/mainlevel",
+            "valor": "主级设计"
+        },
+        {
+            "key": "creditos/aditionallevel",
+            "valor": "aditional的关卡设计"
+        },
+        {
+            "key": "creditos/specialthanks",
+            "valor": "特别感谢，顺序如下："
+        },
+        {
+            "key": "creditos/ourfamilies",
+            "valor": "我们的家庭"
+        },
+        {
+            "key": "creditos/ourfriends",
+            "valor": "我们的朋友"
+        },
+        {
+            "key": "creditos/ourpets",
+            "valor": "我们的宠物"
+        },
+        {
+            "key": "creditos/ourenemies",
+            "valor": "我们的敌人"
+        },
+        {
+            "key": "creditos/incubation",
+            "valor": "孵化和出版"
+        },
+        {
+            "key": "creditos/totallymade",
+            "valor": "完全由发"
+        },
+        {
+            "key": "controles/guardar",
+            "valor": "保存配置"
         }
     ]
 }
