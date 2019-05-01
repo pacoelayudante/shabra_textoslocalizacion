@@ -1054,6 +1054,18 @@
         {
             "key": "controles/guardar",
             "valor": "保存配置"
+        },
+        {
+            "key": "controles/connectpad",
+            "valor": "连接至少一个游戏手柄"
+        },
+        {
+            "key": "generales/replayisbeta",
+            "valor": "坑上，这个功能是处于beta测试阶段，并且不工作的伟大，有时，它不应该打破游戏，但它看起来是错误的。我们仍在努力就可以了，但我们想让它适用于那些不介意它的当前状态的人。你冷静了吗？"
+        },
+        {
+            "key": "controles/sinasignar",
+            "valor": "#VALUE!"
         }
     ]
 }

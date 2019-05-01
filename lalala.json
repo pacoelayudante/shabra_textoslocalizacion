@@ -1054,6 +1054,18 @@
         {
             "key": "controles/guardar",
             "valor": "Lalalala"
+        },
+        {
+            "key": "controles/connectpad",
+            "valor": "lalalala"
+        },
+        {
+            "key": "generales/replayisbeta",
+            "valor": "lalalalal alalalalalla alalla lal al al alalalalal lalalalala lalalala lalalala lalalal lalalalalal alalal"
+        },
+        {
+            "key": "controles/sinasignar",
+            "valor": " "
         }
     ]
 }

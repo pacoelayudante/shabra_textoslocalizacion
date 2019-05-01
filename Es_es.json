@@ -1054,6 +1054,18 @@
         {
             "key": "controles/guardar",
             "valor": "Guardar Configuración"
+        },
+        {
+            "key": "controles/connectpad",
+            "valor": "Conectá al menos un control"
+        },
+        {
+            "key": "generales/replayisbeta",
+            "valor": "Un momento, esta función esta en un estado prematuro y puede que no funcione genial algunas veces. No debería romper el juego, pero a veces se ve mal. Aún estamos trabajando en ello, pero queríamos dejarlo habilitado para las personas que no les importa como esta funcionando en este momento. ¿Esta todo bien con eso?"
+        },
+        {
+            "key": "controles/sinasignar",
+            "valor": " "
         }
     ]
 }

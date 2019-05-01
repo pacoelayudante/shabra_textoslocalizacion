@@ -1054,6 +1054,18 @@
         {
             "key": "controles/guardar",
             "valor": "Save Configuration"
+        },
+        {
+            "key": "controles/connectpad",
+            "valor": "Connect at least one gamepad"
+        },
+        {
+            "key": "generales/replayisbeta",
+            "valor": "Hang on, this feature it's in a beta state and does not work great sometimes, it shouldn't break the game, but it might look wrong. We are still working on it, but we wanted to make it available for people that don't mind it's current state. Are you cool with that?"
+        },
+        {
+            "key": "controles/sinasignar",
+            "valor": " "
         }
     ]
 }
