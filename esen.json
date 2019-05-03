@@ -1060,12 +1060,20 @@
             "valor": "Conectá al menos un gamepad"
         },
         {
-            "key": "generales/replayisbeta",
+            "key": "replay_warning/replayisbeta",
             "valor": "Un momento, this feature it's in a beta state and does not work genial sometimes, it shouldn't break the game, but it might look feo. We are still working on it, but we wanted to make it available for people that don't mind it's current state. Todo OK?"
         },
         {
             "key": "controles/sinasignar",
             "valor": " "
+        },
+        {
+            "key": "controles/vibracion",
+            "valor": "Vibrate"
+        },
+        {
+            "key": "replay_warning/mejor_no",
+            "valor": "Mejor no"
         }
     ]
 }

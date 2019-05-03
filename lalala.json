@@ -1060,12 +1060,20 @@
             "valor": "lalalala"
         },
         {
-            "key": "generales/replayisbeta",
+            "key": "replay_warning/replayisbeta",
             "valor": "lalalalal alalalalalla alalla lal al al alalalalal lalalalala lalalala lalalala lalalal lalalalalal alalal"
         },
         {
             "key": "controles/sinasignar",
             "valor": " "
+        },
+        {
+            "key": "controles/vibracion",
+            "valor": "lalala"
+        },
+        {
+            "key": "replay_warning/mejor_no",
+            "valor": "lalal la"
         }
     ]
 }
