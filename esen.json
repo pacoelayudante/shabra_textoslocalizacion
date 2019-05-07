@@ -1078,6 +1078,18 @@
         {
             "key": "replay/rewind",
             "valor": "Rewindear"
+        },
+        {
+            "key": "fullscreen/exclusive",
+            "valor": "Exclusiva"
+        },
+        {
+            "key": "fullscreen/fullwindow",
+            "valor": "Ventana"
+        },
+        {
+            "key": "fullscreen/normalwindow",
+            "valor": "Desactivada"
         }
     ]
 }

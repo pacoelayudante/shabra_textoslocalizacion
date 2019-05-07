@@ -1078,6 +1078,18 @@
         {
             "key": "replay/rewind",
             "valor": "Rewind"
+        },
+        {
+            "key": "fullscreen/exclusive",
+            "valor": "Exclusive"
+        },
+        {
+            "key": "fullscreen/fullwindow",
+            "valor": "Window"
+        },
+        {
+            "key": "fullscreen/normalwindow",
+            "valor": "Disabled"
         }
     ]
 }

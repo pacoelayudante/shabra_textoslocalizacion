@@ -1078,6 +1078,18 @@
         {
             "key": "replay/rewind",
             "valor": "lalwind"
+        },
+        {
+            "key": "fullscreen/exclusive",
+            "valor": "lalala"
+        },
+        {
+            "key": "fullscreen/fullwindow",
+            "valor": "lalala"
+        },
+        {
+            "key": "fullscreen/normalwindow",
+            "valor": "lalala"
         }
     ]
 }

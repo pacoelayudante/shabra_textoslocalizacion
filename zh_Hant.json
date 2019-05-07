@@ -1078,6 +1078,18 @@
         {
             "key": "replay/rewind",
             "valor": "倒带"
+        },
+        {
+            "key": "fullscreen/exclusive",
+            "valor": "独家"
+        },
+        {
+            "key": "fullscreen/fullwindow",
+            "valor": "窗口"
+        },
+        {
+            "key": "fullscreen/normalwindow",
+            "valor": "残"
         }
     ]
 }
