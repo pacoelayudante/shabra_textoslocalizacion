@@ -908,11 +908,11 @@
             "valor": "Cassez toutes les cages de votre couleur"
         },
         {
-            "key": "generales/replay",
+            "key": "replay/replay",
             "valor": "Rejouer"
         },
         {
-            "key": "generales/camaralenta",
+            "key": "replay/camaralenta",
             "valor": "Ralenti"
         },
         {
@@ -1074,6 +1074,10 @@
         {
             "key": "replay_warning/mejor_no",
             "valor": "Vaut mieux pas"
+        },
+        {
+            "key": "replay/rewind",
+            "valor": "Rembobiner"
         }
     ]
 }

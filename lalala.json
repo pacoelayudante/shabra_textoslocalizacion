@@ -908,11 +908,11 @@
             "valor": "Lalalala"
         },
         {
-            "key": "generales/replay",
+            "key": "replay/replay",
             "valor": "Lalalala"
         },
         {
-            "key": "generales/camaralenta",
+            "key": "replay/camaralenta",
             "valor": "Lalalala"
         },
         {
@@ -1074,6 +1074,10 @@
         {
             "key": "replay_warning/mejor_no",
             "valor": "lalal la"
+        },
+        {
+            "key": "replay/rewind",
+            "valor": "lalwind"
         }
     ]
 }

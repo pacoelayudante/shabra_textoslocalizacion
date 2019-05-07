@@ -908,11 +908,11 @@
             "valor": "打破你的颜色的所有笼子"
         },
         {
-            "key": "generales/replay",
+            "key": "replay/replay",
             "valor": "重播"
         },
         {
-            "key": "generales/camaralenta",
+            "key": "replay/camaralenta",
             "valor": "慢动作"
         },
         {
@@ -1074,6 +1074,10 @@
         {
             "key": "replay_warning/mejor_no",
             "valor": "最好不要"
+        },
+        {
+            "key": "replay/rewind",
+            "valor": "倒带"
         }
     ]
 }

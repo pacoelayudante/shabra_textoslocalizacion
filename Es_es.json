@@ -908,11 +908,11 @@
             "valor": "Rompe todas las cajas de tu color"
         },
         {
-            "key": "generales/replay",
+            "key": "replay/replay",
             "valor": "Repetir"
         },
         {
-            "key": "generales/camaralenta",
+            "key": "replay/camaralenta",
             "valor": "Cámara lenta"
         },
         {
@@ -1074,6 +1074,10 @@
         {
             "key": "replay_warning/mejor_no",
             "valor": "Mejor no"
+        },
+        {
+            "key": "replay/rewind",
+            "valor": "Rebovinar"
         }
     ]
 }
