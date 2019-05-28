@@ -1090,6 +1090,10 @@
         {
             "key": "fullscreen/normalwindow",
             "valor": "lalala"
+        },
+        {
+            "key": "inputdevice/rewiredpad",
+            "valor": "lala pad"
         }
     ]
 }

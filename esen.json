@@ -81,15 +81,15 @@
         },
         {
             "key": "personajes/demonhead",
-            "valor": "Demon Head"
+            "valor": "Demonhead"
         },
         {
             "key": "personajes/chaman",
-            "valor": "Chaman"
+            "valor": "Shaman"
         },
         {
             "key": "personajes/bruja",
-            "valor": "Bruja"
+            "valor": "Aisling"
         },
         {
             "key": "personajes/leninie",
@@ -97,7 +97,7 @@
         },
         {
             "key": "personajes/shinobi",
-            "valor": "Shinobi"
+            "valor": "Tenguface"
         },
         {
             "key": "personajes/cholita",
@@ -105,7 +105,7 @@
         },
         {
             "key": "personajes/noir",
-            "valor": "Noir"
+            "valor": "N.O.I.R."
         },
         {
             "key": "personajes/samurai",
@@ -117,11 +117,11 @@
         },
         {
             "key": "personajes/steamgirl",
-            "valor": "Steam G"
+            "valor": "Simone"
         },
         {
             "key": "personajes/steamboy",
-            "valor": "Steam B"
+            "valor": "Ismail"
         },
         {
             "key": "personajes/rey",
@@ -1090,6 +1090,10 @@
         {
             "key": "fullscreen/normalwindow",
             "valor": "Desactivada"
+        },
+        {
+            "key": "inputdevice/rewiredpad",
+            "valor": "Game Pad"
         }
     ]
 }
