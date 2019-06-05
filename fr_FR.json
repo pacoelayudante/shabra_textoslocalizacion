@@ -1094,6 +1094,18 @@
         {
             "key": "inputdevice/rewiredpad",
             "valor": "Game Pad"
+        },
+        {
+            "key": "modo_warning/dosjugadores",
+            "valor": "Deux joueurs doivent jouer"
+        },
+        {
+            "key": "modo_warning/esperandojugador",
+            "valor": "En attente de joueurs à choisir"
+        },
+        {
+            "key": "modo_warning/dosequipos",
+            "valor": "Deux équipes doivent jouer"
         }
     ]
 }

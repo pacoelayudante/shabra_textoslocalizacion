@@ -1094,6 +1094,18 @@
         {
             "key": "inputdevice/rewiredpad",
             "valor": "lala pad"
+        },
+        {
+            "key": "modo_warning/dosjugadores",
+            "valor": "lalal la la laalalla lala la l"
+        },
+        {
+            "key": "modo_warning/esperandojugador",
+            "valor": "lala lal al la la lalala lal "
+        },
+        {
+            "key": "modo_warning/dosequipos",
+            "valor": ""
         }
     ]
 }

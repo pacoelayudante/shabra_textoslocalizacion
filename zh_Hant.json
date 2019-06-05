@@ -1094,6 +1094,18 @@
         {
             "key": "inputdevice/rewiredpad",
             "valor": "游戏手柄"
+        },
+        {
+            "key": "modo_warning/dosjugadores",
+            "valor": "需要两个玩家玩"
+        },
+        {
+            "key": "modo_warning/esperandojugador",
+            "valor": "等待玩家选择"
+        },
+        {
+            "key": "modo_warning/dosequipos",
+            "valor": "发挥需要两个团队"
         }
     ]
 }
