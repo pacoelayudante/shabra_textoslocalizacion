@@ -45,7 +45,7 @@
         },
         {
             "key": "multiplayer/matamata",
-            "valor": "Exterminio"
+            "valor": "Dominio"
         },
         {
             "key": "multiplayer/portaluz",
@@ -57,7 +57,7 @@
         },
         {
             "key": "multiplayer/ladron_descrip",
-            "valor": "Como ladrón, atrapa los 3 cristales. Como guardia, elimina al ladrón"
+            "valor": "Como ladrón, atrapa los 3 cristales.\nComo guardia, elimina al ladrón"
         },
         {
             "key": "multiplayer/matamata_descrip",
@@ -233,7 +233,7 @@
         },
         {
             "key": "controles/dash",
-            "valor": "Turbo"
+            "valor": "Impulso"
         },
         {
             "key": "controles/camuflar",
@@ -341,7 +341,7 @@
         },
         {
             "key": "arma/katana_tip",
-            "valor": "Embiste para Rebanar"
+            "valor": "Impulsate para Rebanar"
         },
         {
             "key": "arma/shuriken",
@@ -349,7 +349,7 @@
         },
         {
             "key": "arma/shuriken_tip",
-            "valor": "ATAQUE veloz en diferentes direcciones"
+            "valor": "ATAQUE de rango en diferentes direcciones"
         },
         {
             "key": "arma/arco",
@@ -357,7 +357,7 @@
         },
         {
             "key": "arma/arco_tip",
-            "valor": "Mantiene ATAQUE, APUNTA y suelta para eliminar a distancia"
+            "valor": "Manten ATAQUE presionado para CARGAR y APUNTAR. Suelta para eliminar a distancia"
         },
         {
             "key": "arma/kami",
@@ -373,7 +373,7 @@
         },
         {
             "key": "arma/latigo_tip",
-            "valor": "Ataca 2 veces para mayor rango"
+            "valor": "Presiona ATAQUE dos veces para mayor rango"
         },
         {
             "key": "arma/mazo",
@@ -389,7 +389,7 @@
         },
         {
             "key": "arma/kunai_tip",
-            "valor": "Ataca para disparar como maniático... o Mantén presionado para disparar como un profesional"
+            "valor": "ATACA para cortar como maniático... o Mantén presionado para disparar como un profesional"
         },
         {
             "key": "unlocked/world",
@@ -517,11 +517,11 @@
         },
         {
             "key": "powerup/superdash",
-            "valor": "Super Velocidad"
+            "valor": "Super Impulso"
         },
         {
             "key": "powerup/superdash_tip",
-            "valor": "Sólo "
+            "valor": "IMPULSATE sin parar"
         },
         {
             "key": "powerup/decoy",
@@ -549,7 +549,7 @@
         },
         {
             "key": "powerup/shield",
-            "valor": "Escudo"
+            "valor": "Armadura"
         },
         {
             "key": "powerup/shield_tip",
@@ -1077,7 +1077,7 @@
         },
         {
             "key": "replay/rewind",
-            "valor": "Rebovinar"
+            "valor": "Rebobinar"
         },
         {
             "key": "fullscreen/exclusive",
@@ -1106,6 +1106,30 @@
         {
             "key": "modo_warning/dosequipos",
             "valor": "Se necesitan dos equipos para jugar"
+        },
+        {
+            "key": "creditos/qa",
+            "valor": "Control de Calidad"
+        },
+        {
+            "key": "creditos/producer",
+            "valor": "Productor"
+        },
+        {
+            "key": "creditos/marketing_team",
+            "valor": "Equipo de Márketing"
+        },
+        {
+            "key": "creditos/exec_producer",
+            "valor": "Productor Ejecutivo"
+        },
+        {
+            "key": "personajes/Dinopianito",
+            "valor": "Dinopianito"
+        },
+        {
+            "key": "config/humodesalto",
+            "valor": "Efecto de Polvo"
         }
     ]
 }

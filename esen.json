@@ -45,7 +45,7 @@
         },
         {
             "key": "multiplayer/matamata",
-            "valor": "Exterminator"
+            "valor": "Dominion"
         },
         {
             "key": "multiplayer/portaluz",
@@ -57,7 +57,7 @@
         },
         {
             "key": "multiplayer/ladron_descrip",
-            "valor": "Como ladrón, libera las 3 jaulas. Como guardia, elimina al ladrón\n"
+            "valor": "Como ladrón, libera las 3 jaulas.\nComo guardia, elimina al ladrón"
         },
         {
             "key": "multiplayer/matamata_descrip",
@@ -341,7 +341,7 @@
         },
         {
             "key": "arma/katana_tip",
-            "valor": "press DASH to samurai slash"
+            "valor": "Press DASH to samurai slash"
         },
         {
             "key": "arma/shuriken",
@@ -377,7 +377,7 @@
         },
         {
             "key": "arma/mazo",
-            "valor": "Mazo Power"
+            "valor": "Martillo Hammer"
         },
         {
             "key": "arma/mazo_tip",
@@ -389,7 +389,7 @@
         },
         {
             "key": "arma/kunai_tip",
-            "valor": "ATTACK to shoot like a maniac.. or HOLD to shoot like a professional"
+            "valor": "ATTACK to slash like a maniac.. or HOLD to shoot like a professional"
         },
         {
             "key": "unlocked/world",
@@ -549,7 +549,7 @@
         },
         {
             "key": "powerup/shield",
-            "valor": "Shield"
+            "valor": "Armor"
         },
         {
             "key": "powerup/shield_tip",
@@ -1106,6 +1106,30 @@
         {
             "key": "modo_warning/dosequipos",
             "valor": "Two teams required to play"
+        },
+        {
+            "key": "creditos/qa",
+            "valor": "Testing"
+        },
+        {
+            "key": "creditos/producer",
+            "valor": "Producer"
+        },
+        {
+            "key": "creditos/marketing_team",
+            "valor": "Marketing Team"
+        },
+        {
+            "key": "creditos/exec_producer",
+            "valor": "Executive Producer"
+        },
+        {
+            "key": "personajes/Dinopianito",
+            "valor": "Dinopianito"
+        },
+        {
+            "key": "config/humodesalto",
+            "valor": "FX de Polvo"
         }
     ]
 }

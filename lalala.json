@@ -893,7 +893,7 @@
         },
         {
             "key": "ladron/ronda",
-            "valor": "Lala $$$"
+            "valor": "Lala "
         },
         {
             "key": "ladron/guardia",
@@ -1106,6 +1106,30 @@
         {
             "key": "modo_warning/dosequipos",
             "valor": ""
+        },
+        {
+            "key": "creditos/qa",
+            "valor": "lalala"
+        },
+        {
+            "key": "creditos/producer",
+            "valor": "lalalalala"
+        },
+        {
+            "key": "creditos/marketing_team",
+            "valor": "lalal team"
+        },
+        {
+            "key": "creditos/exec_producer",
+            "valor": "lalalalala"
+        },
+        {
+            "key": "personajes/Dinopianito",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "config/humodesalto",
+            "valor": "Lalalala"
         }
     ]
 }

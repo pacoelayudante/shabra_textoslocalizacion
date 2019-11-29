@@ -21,7 +21,7 @@
         },
         {
             "key": "portada/exit",
-            "valor": "放弃"
+            "valor": "退出"
         },
         {
             "key": "generales/confirm",
@@ -45,7 +45,7 @@
         },
         {
             "key": "multiplayer/matamata",
-            "valor": "灭虫"
+            "valor": "主权"
         },
         {
             "key": "multiplayer/portaluz",
@@ -57,7 +57,7 @@
         },
         {
             "key": "multiplayer/ladron_descrip",
-            "valor": "As thief, snatch the 3 cages\nAs hunter, eliminate the thief\n"
+            "valor": "As thief, snatch the 3 cages\nAs hunter, eliminate the thief"
         },
         {
             "key": "multiplayer/matamata_descrip",
@@ -325,7 +325,7 @@
         },
         {
             "key": "controles/recargar",
-            "valor": "解开"
+            "valor": "撤消"
         },
         {
             "key": "generales/cargando",
@@ -377,7 +377,7 @@
         },
         {
             "key": "arma/mazo",
-            "valor": "动力锤"
+            "valor": "大锤"
         },
         {
             "key": "arma/mazo_tip",
@@ -485,7 +485,7 @@
         },
         {
             "key": "config/tiempoparaganar",
-            "valor": "准时赢得"
+            "valor": "时间赢"
         },
         {
             "key": "config/resettimer",
@@ -497,7 +497,7 @@
         },
         {
             "key": "config/cantidadcristalesparaganar",
-            "valor": "网箱赢取"
+            "valor": "笼运"
         },
         {
             "key": "generales/ready",
@@ -549,7 +549,7 @@
         },
         {
             "key": "powerup/shield",
-            "valor": "屏蔽"
+            "valor": "盔甲"
         },
         {
             "key": "powerup/shield_tip",
@@ -629,7 +629,7 @@
         },
         {
             "key": "niveles/cyberpunk_callejonyratis_single2",
-            "valor": "洞"
+            "valor": "孔"
         },
         {
             "key": "niveles/cyberpunk_callejon_single3",
@@ -893,7 +893,7 @@
         },
         {
             "key": "ladron/ronda",
-            "valor": "回合$$$"
+            "valor": "回合"
         },
         {
             "key": "ladron/guardia",
@@ -985,7 +985,7 @@
         },
         {
             "key": "creditos/leadcoder",
-            "valor": "导致编码器"
+            "valor": "铅编码器"
         },
         {
             "key": "creditos/coding",
@@ -1061,7 +1061,7 @@
         },
         {
             "key": "replay_warning/replayisbeta",
-            "valor": "坑上，这个功能是处于beta测试阶段，并且不工作的伟大，有时，它不应该打破游戏，但它看起来是错误的。我们仍在努力就可以了，但我们想让它适用于那些不介意它的当前状态的人。你冷静了吗？"
+            "valor": "等一下，这个功能是处于beta测试阶段，并没有很大的工作有时，它不应该打破游戏，但它看起来是错误的。我们仍在努力就可以了，但我们想让它适用于那些不介意它的当前状态的人。你跟很酷？"
         },
         {
             "key": "controles/sinasignar",
@@ -1097,7 +1097,7 @@
         },
         {
             "key": "modo_warning/dosjugadores",
-            "valor": "需要两个玩家玩"
+            "valor": "两名球员需要打"
         },
         {
             "key": "modo_warning/esperandojugador",
@@ -1105,7 +1105,31 @@
         },
         {
             "key": "modo_warning/dosequipos",
-            "valor": "发挥需要两个团队"
+            "valor": "两队需要打"
+        },
+        {
+            "key": "creditos/qa",
+            "valor": "QA"
+        },
+        {
+            "key": "creditos/producer",
+            "valor": "制片人"
+        },
+        {
+            "key": "creditos/marketing_team",
+            "valor": "营销团队"
+        },
+        {
+            "key": "creditos/exec_producer",
+            "valor": "执行制片人"
+        },
+        {
+            "key": "personajes/Dinopianito",
+            "valor": "Patata"
+        },
+        {
+            "key": "config/humodesalto",
+            "valor": "灰尘FX"
         }
     ]
 }

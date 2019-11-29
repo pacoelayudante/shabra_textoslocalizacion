@@ -9,7 +9,7 @@
         },
         {
             "key": "portada/solo",
-            "valor": "Entraînement"
+            "valor": "Formation"
         },
         {
             "key": "portada/options",
@@ -45,7 +45,7 @@
         },
         {
             "key": "multiplayer/matamata",
-            "valor": "Exterminateur"
+            "valor": "Domination"
         },
         {
             "key": "multiplayer/portaluz",
@@ -57,11 +57,11 @@
         },
         {
             "key": "multiplayer/ladron_descrip",
-            "valor": "Comme voleur, arracher les 3 cages\nComme chasseur, d'éliminer le voleur\n"
+            "valor": "Comme voleur, arracher les 3 cages\nComme chasseur, d'éliminer le voleur"
         },
         {
             "key": "multiplayer/matamata_descrip",
-            "valor": "Pour gagner, il faut battre tout le monde personnellement"
+            "valor": "Pour gagner, il faut à tout le monde de battre le reste personnellement"
         },
         {
             "key": "multiplayer/portaluz_descrip",
@@ -221,7 +221,7 @@
         },
         {
             "key": "controles/saltar",
-            "valor": "Saut"
+            "valor": "Sauter"
         },
         {
             "key": "controles/atacar",
@@ -341,7 +341,7 @@
         },
         {
             "key": "arma/katana_tip",
-            "valor": "tableau de bord de presse pour samouraïs slash"
+            "valor": "tableau de bord Appuyez sur pour samurai slash"
         },
         {
             "key": "arma/shuriken",
@@ -357,7 +357,7 @@
         },
         {
             "key": "arma/arco_tip",
-            "valor": "HOLD, AIM et libérer l'attaque de tuer comme un champion"
+            "valor": "MAINTIEN, AIM et libérer l'attaque pour tuer comme un champion"
         },
         {
             "key": "arma/kami",
@@ -365,7 +365,7 @@
         },
         {
             "key": "arma/kami_tip",
-            "valor": "Filmez et rappeler avec ATTAQUE"
+            "valor": "Pousse et le rappel avec ATTAQUE"
         },
         {
             "key": "arma/latigo",
@@ -377,11 +377,11 @@
         },
         {
             "key": "arma/mazo",
-            "valor": "Marteau de puissance"
+            "valor": "Marteau de forgeron"
         },
         {
             "key": "arma/mazo_tip",
-            "valor": "Big « n lent. Tenez ATTAQUE pour une surprise"
+            "valor": "Big « n lent. Tenir ATTAQUE pour une surprise"
         },
         {
             "key": "arma/kunai",
@@ -389,7 +389,7 @@
         },
         {
             "key": "arma/kunai_tip",
-            "valor": "ATTAQUE à tirer comme un fou .. ou HOLD pour tirer comme un professionnel"
+            "valor": "Attaquez slash comme un fou .. ou HOLD à tirer comme un professionnel"
         },
         {
             "key": "unlocked/world",
@@ -397,7 +397,7 @@
         },
         {
             "key": "unlocked/character",
-            "valor": "caractère débloqué"
+            "valor": "caractère déverrouillé"
         },
         {
             "key": "unlocked/weapon",
@@ -485,7 +485,7 @@
         },
         {
             "key": "config/tiempoparaganar",
-            "valor": "Il est temps de gagner"
+            "valor": "Il est temps de Win"
         },
         {
             "key": "config/resettimer",
@@ -497,7 +497,7 @@
         },
         {
             "key": "config/cantidadcristalesparaganar",
-            "valor": "Cages to Win"
+            "valor": "Cages à Win"
         },
         {
             "key": "generales/ready",
@@ -521,7 +521,7 @@
         },
         {
             "key": "powerup/superdash_tip",
-            "valor": "Juste le spam DASH"
+            "valor": "Juste DASH spam"
         },
         {
             "key": "powerup/decoy",
@@ -549,7 +549,7 @@
         },
         {
             "key": "powerup/shield",
-            "valor": "Bouclier"
+            "valor": "Armure"
         },
         {
             "key": "powerup/shield_tip",
@@ -641,7 +641,7 @@
         },
         {
             "key": "niveles/nature_casita_single1",
-            "valor": "Cour de récréation"
+            "valor": "Terrain de jeux"
         },
         {
             "key": "niveles/nature_quincho_single2",
@@ -689,7 +689,7 @@
         },
         {
             "key": "paletas/calabozo1",
-            "valor": "Cauchemar de sang"
+            "valor": "Nightmare sang"
         },
         {
             "key": "paletas/calabozo2",
@@ -705,7 +705,7 @@
         },
         {
             "key": "paletas/cyberpunk",
-            "valor": "Limón au chocolat"
+            "valor": "chocolat Limón"
         },
         {
             "key": "paletas/cyberpunk1",
@@ -749,7 +749,7 @@
         },
         {
             "key": "paletas/nature3",
-            "valor": "à la fraise"
+            "valor": "Feels fraises"
         },
         {
             "key": "paletas/nature4",
@@ -857,7 +857,7 @@
         },
         {
             "key": "generales/preguntar_quitar_lobby",
-            "valor": "Hall d'entrée désactiver? (Vous pouvez le réactiver plus tard)"
+            "valor": "hall Deactivate? (Vous pouvez le réactiver plus tard)"
         },
         {
             "key": "singleplayer/basico_bien",
@@ -865,7 +865,7 @@
         },
         {
             "key": "singleplayer/basico_mal",
-            "valor": "$$$ briser cages et sonner"
+            "valor": "Pause $$$ cages et sonner la cloche"
         },
         {
             "key": "singleplayer/alertas_bien",
@@ -893,7 +893,7 @@
         },
         {
             "key": "ladron/ronda",
-            "valor": "$$$ Round"
+            "valor": "Rond"
         },
         {
             "key": "ladron/guardia",
@@ -929,7 +929,7 @@
         },
         {
             "key": "generales/bloqueado_descrip",
-            "valor": "Complet correspond plus multijoueur pour déverrouiller ce mode"
+            "valor": "Plus complète multijoueurs pour débloquer ce mode"
         },
         {
             "key": "arma/basica",
@@ -957,15 +957,15 @@
         },
         {
             "key": "tips/hide",
-            "valor": "ColorShift de presse pour cacher"
+            "valor": "Appuyez sur ColorShift pour cacher"
         },
         {
             "key": "tips/atravesar",
-            "valor": "JUMP + BAS pour traverser les surfaces minces"
+            "valor": "JUMP + DOWN pour surfaces transversales minces"
         },
         {
             "key": "tips/parry",
-            "valor": "Appuyez sur PARRY pour arrêter les attaques"
+            "valor": "Appuyez sur pour PARRY aux attaques d'arrêt"
         },
         {
             "key": "creditos/agamemade",
@@ -985,7 +985,7 @@
         },
         {
             "key": "creditos/leadcoder",
-            "valor": "Lead Coder"
+            "valor": "plomb Coder"
         },
         {
             "key": "creditos/coding",
@@ -1061,7 +1061,7 @@
         },
         {
             "key": "replay_warning/replayisbeta",
-            "valor": "Attendez, cette fonction il est dans un état bêta et ne fonctionne pas grand parfois, il ne devrait pas briser le jeu, mais il peut sembler mal. Nous travaillons toujours là-dessus, mais nous voulions le rendre disponible pour les personnes qui ne me dérange pas son état actuel. Êtes-vous cool avec ça?"
+            "valor": "Attendez, cette fonction il est dans un état bêta et ne fonctionne pas grand parfois, il ne devrait pas briser le jeu, mais il peut sembler mal. Nous travaillons toujours là-dessus, mais nous voulions le rendre disponible pour les personnes qui ne rechignent pas à l'état actuel de ce. Êtes-vous cool avec ça?"
         },
         {
             "key": "controles/sinasignar",
@@ -1085,7 +1085,7 @@
         },
         {
             "key": "fullscreen/fullwindow",
-            "valor": "La fenêtre"
+            "valor": "Fenêtre"
         },
         {
             "key": "fullscreen/normalwindow",
@@ -1093,7 +1093,7 @@
         },
         {
             "key": "inputdevice/rewiredpad",
-            "valor": "Game Pad"
+            "valor": "Manette de jeu"
         },
         {
             "key": "modo_warning/dosjugadores",
@@ -1106,6 +1106,30 @@
         {
             "key": "modo_warning/dosequipos",
             "valor": "Deux équipes doivent jouer"
+        },
+        {
+            "key": "creditos/qa",
+            "valor": "QA"
+        },
+        {
+            "key": "creditos/producer",
+            "valor": "Producteur"
+        },
+        {
+            "key": "creditos/marketing_team",
+            "valor": "Équipe de marketing"
+        },
+        {
+            "key": "creditos/exec_producer",
+            "valor": "Producteur exécutif"
+        },
+        {
+            "key": "personajes/Dinopianito",
+            "valor": "Patata"
+        },
+        {
+            "key": "config/humodesalto",
+            "valor": "Dust FX"
         }
     ]
 }
