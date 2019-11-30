@@ -973,11 +973,11 @@
         },
         {
             "key": "creditos/firstproto",
-            "valor": "首先在原Ludum重生敢35"
+            "valor": "一是原生于Ludum敢35"
         },
         {
             "key": "creditos/gamedesign",
-            "valor": "游戏设计"
+            "valor": "方向与游戏设计"
         },
         {
             "key": "creditos/aditionalgamedesign",
@@ -993,11 +993,11 @@
         },
         {
             "key": "creditos/artdirection",
-            "valor": "“艺术方向"
+            "valor": "视觉方向"
         },
         {
             "key": "creditos/artdesignill",
-            "valor": "“艺术”，设计，插画"
+            "valor": "艺术，设计，插画"
         },
         {
             "key": "creditos/sounddesign",
@@ -1025,7 +1025,7 @@
         },
         {
             "key": "creditos/specialthanks",
-            "valor": "特别感谢，顺序如下："
+            "valor": "特别感谢询问服务和测试"
         },
         {
             "key": "creditos/ourfamilies",
@@ -1049,7 +1049,7 @@
         },
         {
             "key": "creditos/totallymade",
-            "valor": "完全由发"
+            "valor": "博弈完全用爱和恐惧制成\n通过"
         },
         {
             "key": "controles/guardar",
@@ -1130,6 +1130,46 @@
         {
             "key": "config/humodesalto",
             "valor": "灰尘FX"
+        },
+        {
+            "key": "creditos/challenges",
+            "valor": "挑战关卡设计"
+        },
+        {
+            "key": "creditos/introcredits",
+            "valor": "动画介绍学分"
+        },
+        {
+            "key": "creditos/director",
+            "valor": "导向器"
+        },
+        {
+            "key": "creditos/addanimation",
+            "valor": ""
+        },
+        {
+            "key": "creditos/layoutbackgrounds",
+            "valor": ""
+        },
+        {
+            "key": "creditos/cleanup",
+            "valor": ""
+        },
+        {
+            "key": "creditos/postproduction",
+            "valor": ""
+        },
+        {
+            "key": "creditos/rewired",
+            "valor": ""
+        },
+        {
+            "key": "creditos/tipografia",
+            "valor": ""
+        },
+        {
+            "key": "creditos/madein",
+            "valor": ""
         }
     ]
 }

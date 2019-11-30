@@ -973,11 +973,11 @@
         },
         {
             "key": "creditos/firstproto",
-            "valor": "First proto borned in Ludum Dare 35"
+            "valor": "First proto born in Ludum Dare 35"
         },
         {
             "key": "creditos/gamedesign",
-            "valor": "Game Design"
+            "valor": "Direction & Game Design"
         },
         {
             "key": "creditos/aditionalgamedesign",
@@ -993,11 +993,11 @@
         },
         {
             "key": "creditos/artdirection",
-            "valor": "\"Art\" Direction"
+            "valor": "Visual Direction"
         },
         {
             "key": "creditos/artdesignill",
-            "valor": "\"Art\", Design, Illustration"
+            "valor": "Art, Design, Illustration"
         },
         {
             "key": "creditos/sounddesign",
@@ -1025,7 +1025,7 @@
         },
         {
             "key": "creditos/specialthanks",
-            "valor": "Special thanks, in this order:"
+            "valor": "Special Thanks for suport and testing"
         },
         {
             "key": "creditos/ourfamilies",
@@ -1049,7 +1049,7 @@
         },
         {
             "key": "creditos/totallymade",
-            "valor": "Totally made by"
+            "valor": "A Game totally made with love and fear \nby"
         },
         {
             "key": "controles/guardar",
@@ -1130,6 +1130,46 @@
         {
             "key": "config/humodesalto",
             "valor": "Dust FX"
+        },
+        {
+            "key": "creditos/challenges",
+            "valor": "Challenges Level Design"
+        },
+        {
+            "key": "creditos/introcredits",
+            "valor": "Animated Intro Credits"
+        },
+        {
+            "key": "creditos/director",
+            "valor": "Director"
+        },
+        {
+            "key": "creditos/addanimation",
+            "valor": "Additional Animation"
+        },
+        {
+            "key": "creditos/layoutbackgrounds",
+            "valor": "Layouts & Backgrounds"
+        },
+        {
+            "key": "creditos/cleanup",
+            "valor": "Clean Up & Assistence"
+        },
+        {
+            "key": "creditos/postproduction",
+            "valor": "Post-production"
+        },
+        {
+            "key": "creditos/rewired",
+            "valor": "Rewired Input System"
+        },
+        {
+            "key": "creditos/tipografia",
+            "valor": "Kaliber BRK Typography"
+        },
+        {
+            "key": "creditos/madein",
+            "valor": "Made in Argentina 2019 "
         }
     ]
 }

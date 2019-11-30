@@ -1130,6 +1130,46 @@
         {
             "key": "config/humodesalto",
             "valor": "FX de Polvo"
+        },
+        {
+            "key": "creditos/challenges",
+            "valor": ""
+        },
+        {
+            "key": "creditos/introcredits",
+            "valor": ""
+        },
+        {
+            "key": "creditos/director",
+            "valor": ""
+        },
+        {
+            "key": "creditos/addanimation",
+            "valor": ""
+        },
+        {
+            "key": "creditos/layoutbackgrounds",
+            "valor": ""
+        },
+        {
+            "key": "creditos/cleanup",
+            "valor": ""
+        },
+        {
+            "key": "creditos/postproduction",
+            "valor": ""
+        },
+        {
+            "key": "creditos/rewired",
+            "valor": ""
+        },
+        {
+            "key": "creditos/tipografia",
+            "valor": ""
+        },
+        {
+            "key": "creditos/madein",
+            "valor": ""
         }
     ]
 }
