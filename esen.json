@@ -981,7 +981,7 @@
         },
         {
             "key": "creditos/aditionalgamedesign",
-            "valor": "Aditional Game Design"
+            "valor": "Additional Game Design"
         },
         {
             "key": "creditos/leadcoder",
@@ -1021,7 +1021,7 @@
         },
         {
             "key": "creditos/aditionallevel",
-            "valor": "Aditional Level Design"
+            "valor": "Additional Level Design"
         },
         {
             "key": "creditos/specialthanks",
@@ -1113,11 +1113,11 @@
         },
         {
             "key": "creditos/producer",
-            "valor": "Producer"
+            "valor": "Associate Producer"
         },
         {
             "key": "creditos/marketing_team",
-            "valor": "Marketing Team"
+            "valor": "Marketing Manager"
         },
         {
             "key": "creditos/exec_producer",
@@ -1133,43 +1133,55 @@
         },
         {
             "key": "creditos/challenges",
-            "valor": ""
+            "valor": "Training Level Design"
         },
         {
             "key": "creditos/introcredits",
-            "valor": ""
+            "valor": "Animated Intro Credits"
         },
         {
             "key": "creditos/director",
-            "valor": ""
+            "valor": "Director"
         },
         {
             "key": "creditos/addanimation",
-            "valor": ""
+            "valor": "Additional Animation"
         },
         {
             "key": "creditos/layoutbackgrounds",
-            "valor": ""
+            "valor": "Layouts & Backgrounds"
         },
         {
             "key": "creditos/cleanup",
-            "valor": ""
+            "valor": "Clean Up & Assistence"
         },
         {
             "key": "creditos/postproduction",
-            "valor": ""
+            "valor": "Post-production"
         },
         {
             "key": "creditos/rewired",
-            "valor": ""
+            "valor": "Rewired Input System"
         },
         {
             "key": "creditos/tipografia",
-            "valor": ""
+            "valor": "Kaliber BRK Typography"
         },
         {
             "key": "creditos/madein",
-            "valor": ""
+            "valor": "Made in Argentina 2019 "
+        },
+        {
+            "key": "creditos/marketing_coord",
+            "valor": "Marketing Coordinator"
+        },
+        {
+            "key": "creditos/qa_lead",
+            "valor": "QA Lead"
+        },
+        {
+            "key": "creditos/gracias_sixthvow",
+            "valor": "Thanks to Javier Entelman,Emiliano Giacobbe and Federico Pizzi of the Sixth Vowel team"
         }
     ]
 }

@@ -65,7 +65,7 @@
         },
         {
             "key": "multiplayer/portaluz_descrip",
-            "valor": "Capter la lumière et que personne ne vous attraper"
+            "valor": "Capturer la lumière et que personne ne vous attraper"
         },
         {
             "key": "generales/join",
@@ -981,7 +981,7 @@
         },
         {
             "key": "creditos/aditionalgamedesign",
-            "valor": "Aditional Game Design"
+            "valor": "Game Design supplémentaire"
         },
         {
             "key": "creditos/leadcoder",
@@ -1021,7 +1021,7 @@
         },
         {
             "key": "creditos/aditionallevel",
-            "valor": "Aditional Level Design"
+            "valor": "Supplémentaire Level Design"
         },
         {
             "key": "creditos/specialthanks",
@@ -1113,11 +1113,11 @@
         },
         {
             "key": "creditos/producer",
-            "valor": "Producteur"
+            "valor": "Producteur associé"
         },
         {
             "key": "creditos/marketing_team",
-            "valor": "Équipe de marketing"
+            "valor": "Responsable marketing"
         },
         {
             "key": "creditos/exec_producer",
@@ -1133,7 +1133,7 @@
         },
         {
             "key": "creditos/challenges",
-            "valor": "Défis Level Design"
+            "valor": "Niveau de formation Conception"
         },
         {
             "key": "creditos/introcredits",
@@ -1170,6 +1170,18 @@
         {
             "key": "creditos/madein",
             "valor": "Fabriqué en Argentine 2019"
+        },
+        {
+            "key": "creditos/marketing_coord",
+            "valor": "Coordonnatrice du marketing"
+        },
+        {
+            "key": "creditos/qa_lead",
+            "valor": "Lead QA"
+        },
+        {
+            "key": "creditos/gracias_sixthvow",
+            "valor": "Merci à Javier Entelman, Emiliano Giacobbe et Federico Pizzi de l'équipe Sixième Voyelle"
         }
     ]
 }

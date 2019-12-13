@@ -1113,11 +1113,11 @@
         },
         {
             "key": "creditos/producer",
-            "valor": "Productor"
+            "valor": "Productor Asociado"
         },
         {
             "key": "creditos/marketing_team",
-            "valor": "Equipo de Márketing"
+            "valor": "Gerente de Marketing"
         },
         {
             "key": "creditos/exec_producer",
@@ -1133,43 +1133,55 @@
         },
         {
             "key": "creditos/challenges",
-            "valor": ""
+            "valor": "Diseño de Niveles de Entrenamiento"
         },
         {
             "key": "creditos/introcredits",
-            "valor": ""
+            "valor": "Créditos de Intro Animada"
         },
         {
             "key": "creditos/director",
-            "valor": ""
+            "valor": "Dirección"
         },
         {
             "key": "creditos/addanimation",
-            "valor": ""
+            "valor": "Animación Adicional"
         },
         {
             "key": "creditos/layoutbackgrounds",
-            "valor": ""
+            "valor": "Fondos y Layout"
         },
         {
             "key": "creditos/cleanup",
-            "valor": ""
+            "valor": "Asistencia, Línea y Color"
         },
         {
             "key": "creditos/postproduction",
-            "valor": ""
+            "valor": "Posproducción"
         },
         {
             "key": "creditos/rewired",
-            "valor": ""
+            "valor": "Sistema de Entrada Rewired"
         },
         {
             "key": "creditos/tipografia",
-            "valor": ""
+            "valor": "Tipografía Kaliber BRK"
         },
         {
             "key": "creditos/madein",
-            "valor": ""
+            "valor": "Hecho en Argentina 2019"
+        },
+        {
+            "key": "creditos/marketing_coord",
+            "valor": "Coordinadora de Marketing"
+        },
+        {
+            "key": "creditos/qa_lead",
+            "valor": "Líder de Control de Calidad"
+        },
+        {
+            "key": "creditos/gracias_sixthvow",
+            "valor": "Gracias a Javier Entelman,Emiliano Giacobbe y Federico Pizzi del equipo de Sixth Vowel"
         }
     ]
 }

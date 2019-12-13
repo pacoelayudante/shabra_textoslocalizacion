@@ -981,7 +981,7 @@
         },
         {
             "key": "creditos/aditionalgamedesign",
-            "valor": "Aditional Game Design"
+            "valor": "Additional Game Design"
         },
         {
             "key": "creditos/leadcoder",
@@ -1021,7 +1021,7 @@
         },
         {
             "key": "creditos/aditionallevel",
-            "valor": "Aditional Level Design"
+            "valor": "Additional Level Design"
         },
         {
             "key": "creditos/specialthanks",
@@ -1113,11 +1113,11 @@
         },
         {
             "key": "creditos/producer",
-            "valor": "Producer"
+            "valor": "Associate Producer"
         },
         {
             "key": "creditos/marketing_team",
-            "valor": "Marketing Team"
+            "valor": "Marketing Manager"
         },
         {
             "key": "creditos/exec_producer",
@@ -1133,7 +1133,7 @@
         },
         {
             "key": "creditos/challenges",
-            "valor": "Challenges Level Design"
+            "valor": "Training Level Design"
         },
         {
             "key": "creditos/introcredits",
@@ -1170,6 +1170,18 @@
         {
             "key": "creditos/madein",
             "valor": "Made in Argentina 2019 "
+        },
+        {
+            "key": "creditos/marketing_coord",
+            "valor": "Marketing Coordinator"
+        },
+        {
+            "key": "creditos/qa_lead",
+            "valor": "QA Lead"
+        },
+        {
+            "key": "creditos/gracias_sixthvow",
+            "valor": "Thanks to Javier Entelman,Emiliano Giacobbe and Federico Pizzi of the Sixth Vowel team"
         }
     ]
 }

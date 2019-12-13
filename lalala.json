@@ -1133,43 +1133,55 @@
         },
         {
             "key": "creditos/challenges",
-            "valor": ""
+            "valor": "Lalalala"
         },
         {
             "key": "creditos/introcredits",
-            "valor": ""
+            "valor": "Lalalala"
         },
         {
             "key": "creditos/director",
-            "valor": ""
+            "valor": "Lalalala"
         },
         {
             "key": "creditos/addanimation",
-            "valor": ""
+            "valor": "Lalalala"
         },
         {
             "key": "creditos/layoutbackgrounds",
-            "valor": ""
+            "valor": "Lalalala"
         },
         {
             "key": "creditos/cleanup",
-            "valor": ""
+            "valor": "Lalalala"
         },
         {
             "key": "creditos/postproduction",
-            "valor": ""
+            "valor": "Lalalala"
         },
         {
             "key": "creditos/rewired",
-            "valor": ""
+            "valor": "Lalalala"
         },
         {
             "key": "creditos/tipografia",
-            "valor": ""
+            "valor": "Lalalala"
         },
         {
             "key": "creditos/madein",
-            "valor": ""
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/marketing_coord",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/qa_lead",
+            "valor": "Lalalala"
+        },
+        {
+            "key": "creditos/gracias_sixthvow",
+            "valor": "Lalalala"
         }
     ]
 }

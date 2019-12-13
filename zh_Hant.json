@@ -981,7 +981,7 @@
         },
         {
             "key": "creditos/aditionalgamedesign",
-            "valor": "aditional的游戏设计"
+            "valor": "额外的游戏设计"
         },
         {
             "key": "creditos/leadcoder",
@@ -1021,7 +1021,7 @@
         },
         {
             "key": "creditos/aditionallevel",
-            "valor": "aditional的关卡设计"
+            "valor": "附加关卡设计"
         },
         {
             "key": "creditos/specialthanks",
@@ -1113,11 +1113,11 @@
         },
         {
             "key": "creditos/producer",
-            "valor": "制片人"
+            "valor": "副制片人"
         },
         {
             "key": "creditos/marketing_team",
-            "valor": "营销团队"
+            "valor": "市场经理"
         },
         {
             "key": "creditos/exec_producer",
@@ -1133,7 +1133,7 @@
         },
         {
             "key": "creditos/challenges",
-            "valor": "挑战关卡设计"
+            "valor": "训练水平设计"
         },
         {
             "key": "creditos/introcredits",
@@ -1145,31 +1145,43 @@
         },
         {
             "key": "creditos/addanimation",
-            "valor": ""
+            "valor": "其他动画"
         },
         {
             "key": "creditos/layoutbackgrounds",
-            "valor": ""
+            "valor": "布局和背景"
         },
         {
             "key": "creditos/cleanup",
-            "valor": ""
+            "valor": "清理和Assistence"
         },
         {
             "key": "creditos/postproduction",
-            "valor": ""
+            "valor": "后期制作"
         },
         {
             "key": "creditos/rewired",
-            "valor": ""
+            "valor": "重新布线输入系统"
         },
         {
             "key": "creditos/tipografia",
-            "valor": ""
+            "valor": "Kaliber BRK排版"
         },
         {
             "key": "creditos/madein",
-            "valor": ""
+            "valor": "在制造阿根廷2019"
+        },
+        {
+            "key": "creditos/marketing_coord",
+            "valor": "营销协调员"
+        },
+        {
+            "key": "creditos/qa_lead",
+            "valor": "QA铅"
+        },
+        {
+            "key": "creditos/gracias_sixthvow",
+            "valor": "由于哈维尔Entelman，埃米利亚诺Giacobbe和第六元音队的费德里科·皮兹"
         }
     ]
 }
