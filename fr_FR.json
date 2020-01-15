@@ -65,7 +65,7 @@
         },
         {
             "key": "multiplayer/portaluz_descrip",
-            "valor": "Capturer la lumière et que personne ne vous attraper"
+            "valor": "Capter la lumière et que personne ne vous attraper"
         },
         {
             "key": "generales/join",
@@ -137,7 +137,7 @@
         },
         {
             "key": "mundos/dungeon",
-            "valor": "Cachot"
+            "valor": "Donjon"
         },
         {
             "key": "mundos/cyberpunk",
@@ -429,7 +429,7 @@
         },
         {
             "key": "particulas/level1",
-            "valor": "Assez"
+            "valor": "Suffisant"
         },
         {
             "key": "particulas/level2",
@@ -505,7 +505,7 @@
         },
         {
             "key": "generales/bloqueado",
-            "valor": "Fermé à clef"
+            "valor": "Fermé à clé"
         },
         {
             "key": "config/selecciondearmas",
@@ -869,7 +869,7 @@
         },
         {
             "key": "singleplayer/alertas_bien",
-            "valor": "Pas un bot vu vous"
+            "valor": "Non bot vous a remarqué"
         },
         {
             "key": "singleplayer/alertas_mal",
@@ -921,7 +921,7 @@
         },
         {
             "key": "generales/coming_soon",
-            "valor": "Arrive bientôt"
+            "valor": "Bientôt disponible"
         },
         {
             "key": "generales/coming_soon_descrip",

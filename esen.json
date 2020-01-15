@@ -861,15 +861,15 @@
         },
         {
             "key": "singleplayer/basico_bien",
-            "valor": "Done and gone"
+            "valor": "Hecho and gone"
         },
         {
             "key": "singleplayer/basico_mal",
-            "valor": "Rompe $$$ jaulas y toca la campana"
+            "valor": "Breikeá $$$ jaulas y ringea la campana"
         },
         {
             "key": "singleplayer/alertas_bien",
-            "valor": "Nungún bot te atrapó"
+            "valor": "Ningún bot te notó"
         },
         {
             "key": "singleplayer/alertas_mal",
@@ -877,23 +877,23 @@
         },
         {
             "key": "singleplayer/rapido_bien",
-            "valor": "Made it in just $$$"
+            "valor": "Made it in sólo $$$"
         },
         {
             "key": "singleplayer/rapido_mal",
-            "valor": "Be done in $$$"
+            "valor": "Makealo in $$$"
         },
         {
             "key": "singleplayer/jaulas_bien",
-            "valor": "No cage untouched"
+            "valor": "No cage sin romper"
         },
         {
             "key": "singleplayer/jaulas_mal",
-            "valor": "No dejes ninguna jaula"
+            "valor": "No dejes ninguna cage"
         },
         {
             "key": "ladron/ronda",
-            "valor": "Round"
+            "valor": "Rounda"
         },
         {
             "key": "ladron/guardia",
@@ -905,7 +905,7 @@
         },
         {
             "key": "ladron/robacajas",
-            "valor": "Rompe todas las jaulas de tu color"
+            "valor": "Breikeá todas las cages de tu color"
         },
         {
             "key": "replay/replay",
@@ -917,7 +917,7 @@
         },
         {
             "key": "unlocked/modo",
-            "valor": "Nuevo modo unlocked!"
+            "valor": "Nuevo modo unlockeado!"
         },
         {
             "key": "generales/coming_soon",

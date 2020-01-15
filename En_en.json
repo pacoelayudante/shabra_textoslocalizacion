@@ -869,7 +869,7 @@
         },
         {
             "key": "singleplayer/alertas_bien",
-            "valor": "Not a bot seen you"
+            "valor": "No bot has noticed you"
         },
         {
             "key": "singleplayer/alertas_mal",

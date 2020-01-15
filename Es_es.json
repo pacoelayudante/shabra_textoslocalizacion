@@ -861,11 +861,11 @@
         },
         {
             "key": "singleplayer/basico_bien",
-            "valor": "Objectivo cumplido"
+            "valor": "Objetivo cumplido"
         },
         {
             "key": "singleplayer/basico_mal",
-            "valor": "Rompe $$$ jaulas y toca la campana"
+            "valor": "Rompé $$$ jaulas y tocá la campana"
         },
         {
             "key": "singleplayer/alertas_bien",
@@ -873,7 +873,7 @@
         },
         {
             "key": "singleplayer/alertas_mal",
-            "valor": "No dispares ninguna alarma"
+            "valor": "Que nadie te vea"
         },
         {
             "key": "singleplayer/rapido_bien",
